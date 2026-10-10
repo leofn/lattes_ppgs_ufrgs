@@ -1,0 +1,1154 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PPGS-UFRGS · Corpo Docente Permanente — Análise de Currículos Lattes</title>
+<meta name="description" content="Análise dos currículos Lattes dos docentes permanentes do PPGS-UFRGS">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+:root {
+  --primary: #1a237e;
+  --primary-light: #283593;
+  --primary-dark: #0d1446;
+  --accent: #3949ab;
+  --bg: #f5f6fa;
+  --card-bg: #ffffff;
+  --text: #2c3e50;
+  --text-muted: #7f8c8d;
+  --border: #e0e0e0;
+  --shadow: 0 2px 12px rgba(26, 35, 126, 0.08);
+  --shadow-hover: 0 8px 30px rgba(26, 35, 126, 0.15);
+  --radius: 14px;
+  --transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* Header */
+header {
+  background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 50%, var(--primary-light) 100%);
+  color: white;
+  padding: 50px 24px 40px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+header::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  right: -10%;
+  width: 400px;
+  height: 400px;
+  background: radial-gradient(circle, rgba(255,255,255,0.05) 0%, transparent 70%);
+  border-radius: 50%;
+}
+header h1 { font-size: 2.2em; font-weight: 700; margin-bottom: 6px; letter-spacing: -0.5px; }
+header .subtitle { font-size: 1.15em; opacity: 0.9; font-weight: 300; }
+header .meta { font-size: 0.82em; opacity: 0.65; margin-top: 8px; }
+/* Stats Bar */
+.stats-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1px;
+  background: var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  margin: -25px auto 0;
+  max-width: 1100px;
+  box-shadow: var(--shadow);
+  position: relative;
+  z-index: 10;
+}
+.stat-item {
+  flex: 1;
+  min-width: 120px;
+  background: var(--card-bg);
+  padding: 18px 12px;
+  text-align: center;
+  transition: var(--transition);
+}
+.stat-item:hover { background: #f0f4ff; }
+.stat-item .num { font-size: 2em; font-weight: 700; color: var(--primary); line-height: 1.2; }
+.stat-item .label { font-size: 0.78em; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.8px; margin-top: 4px; }
+/* Container */
+.container { max-width: 1200px; margin: 0 auto; padding: 36px 24px; }
+/* Charts */
+.charts-section { margin-bottom: 36px; }
+.charts-section h2 {
+  font-size: 1.4em;
+  color: var(--primary);
+  margin-bottom: 18px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.charts-section h2::before {
+  content: '';
+  width: 4px;
+  height: 24px;
+  background: var(--primary);
+  border-radius: 2px;
+}
+.charts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: 20px;
+}
+.chart-card {
+  background: var(--card-bg);
+  border-radius: var(--radius);
+  padding: 24px;
+  box-shadow: var(--shadow);
+  transition: var(--transition);
+}
+.chart-card:hover { box-shadow: var(--shadow-hover); transform: translateY(-2px); }
+.chart-card h3 {
+  font-size: 1.05em;
+  color: var(--text);
+  margin-bottom: 16px;
+  font-weight: 600;
+}
+.chart-card canvas { max-height: 200px; }
+/* Rankings */
+.rankings {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  margin-bottom: 36px;
+}
+.ranking-card {
+  background: var(--card-bg);
+  border-radius: var(--radius);
+  padding: 22px;
+  box-shadow: var(--shadow);
+}
+.ranking-card h3 {
+  color: var(--primary);
+  font-size: 1.05em;
+  margin-bottom: 16px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #e8eaf6;
+  font-weight: 600;
+}
+.rank-row {
+  display: flex;
+  align-items: center;
+  padding: 9px 0;
+  border-bottom: 1px solid #f5f5f5;
+  transition: var(--transition);
+}
+.rank-row:last-child { border-bottom: none; }
+.rank-row:hover { background: #f8f9ff; padding-left: 4px; }
+.rank-pos {
+  font-weight: 700;
+  color: var(--primary);
+  width: 28px;
+  font-size: 0.95em;
+}
+.rank-name { flex: 1; font-size: 0.9em; color: var(--text); }
+.rank-val { font-weight: 600; color: var(--text-muted); font-size: 0.88em; }
+/* Controls */
+.controls {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.search-box {
+  flex: 1;
+  min-width: 250px;
+  padding: 12px 20px;
+  font-size: 0.95em;
+  border: 2px solid var(--border);
+  border-radius: 10px;
+  transition: var(--transition);
+  background: var(--card-bg);
+}
+.search-box:focus { border-color: var(--primary); outline: none; box-shadow: 0 0 0 3px rgba(26, 35, 126, 0.1); }
+.sort-buttons { display: flex; gap: 8px; flex-wrap: wrap; }
+.sort-btn {
+  padding: 10px 18px;
+  border: 2px solid var(--border);
+  background: var(--card-bg);
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 0.88em;
+  transition: var(--transition);
+  color: var(--text);
+  font-weight: 500;
+}
+.sort-btn:hover { border-color: var(--primary); color: var(--primary); }
+.sort-btn.active {
+  background: var(--primary);
+  color: white;
+  border-color: var(--primary);
+  box-shadow: 0 2px 8px rgba(26, 35, 126, 0.25);
+}
+/* Cards Grid */
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(390px, 1fr));
+  gap: 20px;
+}
+.card {
+  background: var(--card-bg);
+  border-radius: var(--radius);
+  padding: 24px;
+  box-shadow: var(--shadow);
+  transition: var(--transition);
+  border: 1px solid transparent;
+}
+.card:hover {
+  box-shadow: var(--shadow-hover);
+  transform: translateY(-3px);
+  border-color: rgba(26, 35, 126, 0.1);
+}
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 14px;
+  gap: 10px;
+}
+.card-header h3 {
+  font-size: 1.12em;
+  color: var(--primary);
+  font-weight: 600;
+  line-height: 1.3;
+}
+.card-links { display: flex; gap: 8px; flex-shrink: 0; }
+.card-links a {
+  font-size: 0.8em;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 3px 10px;
+  border-radius: 6px;
+  transition: var(--transition);
+  white-space: nowrap;
+}
+.lattes-link { color: var(--primary); background: #e8eaf6; }
+.lattes-link:hover { background: var(--primary); color: white; }
+.scholar-link { color: #1565c0; background: #e3f2fd; }
+.scholar-link:hover { background: #1565c0; color: white; }
+.card-meta { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+.badge {
+  font-size: 0.72em;
+  padding: 3px 9px;
+  border-radius: 20px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.badge-active { background: #c8e6c9; color: #2e7d32; }
+.badge-off { background: #f5f5f5; color: #bbb; }
+.badge-info { background: #e3f2fd; color: #1565c0; }
+.badge-date { background: #fff3e0; color: #e65100; }
+.badge-scholar { background: #f3e5f5; color: #7b1fa2; }
+.card-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  margin-bottom: 14px;
+}
+.stat {
+  text-align: center;
+  padding: 10px 4px;
+  background: #f8f9fa;
+  border-radius: 10px;
+  transition: var(--transition);
+}
+.stat:hover { background: #eef2ff; }
+.stat-num { display: block; font-size: 1.5em; font-weight: 700; color: var(--primary); line-height: 1.2; }
+.stat-label { font-size: 0.68em; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; }
+.card-production {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 12px;
+  font-size: 0.82em;
+  color: var(--text-muted);
+  flex-wrap: wrap;
+  padding: 8px 0;
+  border-top: 1px solid #f0f0f0;
+  border-bottom: 1px solid #f0f0f0;
+}
+.prod-item { white-space: nowrap; }
+.card-resumo { font-size: 0.87em; color: var(--text-muted); margin-bottom: 12px; line-height: 1.6; }
+.card-areas {
+  font-size: 0.8em;
+  color: var(--text-muted);
+  padding: 10px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  line-height: 1.5;
+}
+.card-areas strong { color: var(--text); }
+.no-results { text-align: center; padding: 50px; color: var(--text-muted); display: none; font-size: 1.1em; }
+/* Footer */
+footer {
+  text-align: center;
+  padding: 36px 24px;
+  color: var(--text-muted);
+  font-size: 0.85em;
+  border-top: 1px solid var(--border);
+  margin-top: 30px;
+  background: var(--card-bg);
+}
+footer a { color: var(--primary); text-decoration: none; font-weight: 500; }
+footer a:hover { text-decoration: underline; }
+.labhd-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  margin-bottom: 16px;
+}
+.labhd-footer img { width: 52px; height: 52px; border-radius: 10px; }
+.labhd-footer .labhd-text { text-align: left; }
+.labhd-footer .labhd-text strong { color: var(--primary); font-size: 1.05em; display: block; }
+.labhd-footer .labhd-text small { color: var(--text-muted); font-size: 0.88em; }
+footer .update-info { margin-top: 10px; color: #bbb; }
+/* Responsive */
+@media (max-width: 768px) {
+  header h1 { font-size: 1.6em; }
+  .card-stats { grid-template-columns: repeat(2, 1fr); }
+  .stats-bar { margin: -15px 16px 0; border-radius: 10px; }
+  .stat-item { min-width: 90px; padding: 12px 8px; }
+  .stat-item .num { font-size: 1.5em; }
+  .charts-grid { grid-template-columns: 1fr; }
+  .container { padding: 24px 16px; }
+}
+</style>
+</head>
+<body>
+<header>
+<h1>PPGS · Sociologia — UFRGS</h1>
+<p class="subtitle">Corpo Docente Permanente · Análise dos Currículos Lattes</p>
+<p class="meta">30 docentes · 1284 projetos · 446 orientações · 481 citações · Coleta: 09/10/2026</p>
+</header>
+
+<div class="stats-bar">
+<div class="stat-item"><div class="num">30</div><div class="label">Docentes</div></div>
+<div class="stat-item"><div class="num">30</div><div class="label">Doutores</div></div>
+<div class="stat-item"><div class="num">19</div><div class="label">Pós-doc</div></div>
+<div class="stat-item"><div class="num">1284</div><div class="label">Projetos</div></div>
+<div class="stat-item"><div class="num">446</div><div class="label">Orientações</div></div>
+<div class="stat-item"><div class="num">188</div><div class="label">Bancas</div></div>
+<div class="stat-item"><div class="num">153</div><div class="label">Artigos</div></div>
+<div class="stat-item"><div class="num">481</div><div class="label">Citações</div></div>
+</div>
+
+<div class="container">
+
+<div class="charts-section">
+<h2>Produção Bibliográfica ao Longo do Tempo</h2>
+<div class="charts-grid">
+<div class="chart-card">
+<h3>📄 Artigos por Ano</h3>
+<canvas id="chartArtigos"></canvas>
+</div>
+<div class="chart-card">
+<h3>📚 Livros por Ano</h3>
+<canvas id="chartLivros"></canvas>
+</div>
+<div class="chart-card">
+<h3>📖 Capítulos por Ano</h3>
+<canvas id="chartCapitulos"></canvas>
+</div>
+</div>
+</div>
+
+<div class="rankings" id="rankings"></div>
+
+<div class="controls">
+<input type="text" class="search-box" id="search" placeholder="🔍 Buscar por nome, área, tema...">
+<div class="sort-buttons">
+<button class="sort-btn active" data-sort="nome">Nome (A-Z)</button>
+<button class="sort-btn" data-sort="projetos">Projetos</button>
+<button class="sort-btn" data-sort="citacoes">Citações</button>
+<button class="sort-btn" data-sort="orientacoes">Orientações</button>
+</div>
+</div>
+
+<div class="cards-grid" id="cards"></div>
+<div class="no-results" id="noResults">Nenhum docente encontrado.</div>
+
+</div>
+
+<footer>
+<div class="labhd-footer">
+<img src="https://labhdufba.github.io/images/labhd_hu_f740b91ea7236ce2.webp" alt="LABHD-UFRGS" onerror="this.style.display='none'">
+<div class="labhd-text">
+<strong>Laboratório de Humanidades Digitais da UFRGS — LABHD-UFRGS</strong>
+<small>Desenvolvido por Leonardo Fernandes Nascimento (LABHD-UFRGS)</small>
+</div>
+</div>
+<p>Dados extraídos da <a href="https://lattes.cnpq.br/" target="_blank">Plataforma Lattes</a> (CNPq) e <a href="https://scholar.google.com" target="_blank">Google Scholar</a> em 14/08/2026</p>
+<p class="update-info"><a href="https://github.com/leofn/lattes_ppgcs">github.com/leofn/lattes_ppgcs</a></p>
+</footer>
+
+<script>
+const DATA = [
+  {
+    "nome": "Alex Niche Teixeira",
+    "lattes_url": "http://lattes.cnpq.br/1410830458885658",
+    "email": "alex.teixeira@ufrgs.br",
+    "formacao": "2004 - 2009Doutorado em Sociologia.Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.Título: A abordagem televisiva do crime violento na modernidade tardia, Ano de obtenção: 2009.Orientador:Jos",
+    "areas": "1.Grande área: Ciências Humanas / Área: Sociologia / Subárea: Fundamentos da Sociologia.2.Grande área: Ciências Humanas / Área: Sociologia / Subárea: Fundamentos da Sociologia/Especialidade: Métodos e Técnicas de Pesquisa.3.Grande área: Ciências Humanas / Área: Sociologia / Subárea: Outras Sociologi",
+    "resumo": "Vice-Diretor do Instituto de Filosofia e Ciências Humanas (IFCH) da Universidade Federal do Rio Grande do Sul (UFRGS). Professor Associado do Departamento de Sociologia do IFCH-UFRGS, do Programa de Pós-Graduação em Sociologia - UFRGS e do Curso de Mestrado Profissional do Programa de Pós-Graduação ",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "18/09/2025",
+    "num_projetos": 34,
+    "num_orient_total": 38,
+    "num_bancas_total": 52,
+    "num_artigos": 17,
+    "num_livros": 4,
+    "num_capitulos": 17,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Alexandre Almeida de Magalhães",
+    "lattes_url": "http://lattes.cnpq.br/4055235251214892",
+    "email": "alexandre.magalhaes@ufrgs.br",
+    "formacao": "2009 - 2013Doutorado em Sociologia.Instituto de Estudos Sociais e Políticos, IESP, Brasil.comperíodosanduícheem Universidade de Lisboa (Orientador: Susana Durão).Título: Transformações no ´problema fa",
+    "areas": "1.Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Urbana.2.Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia dos Movimentos Sociais.3.Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia e Antropologia do Estado.4.Grande área: Ciências Hu",
+    "resumo": "Professor Adjunto de Sociologia na Universidade Federal do Rio Grande do Sul, onde integra o Programa de Pós-Graduação em Sociologia. Possui graduação em Ciências Sociais pela Universidade do Estado do Rio de Janeiro (2006), licenciatura em Ciências Sociais também pela Uerj (2010) e mestrado em Soci",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "01/10/2026",
+    "num_projetos": 40,
+    "num_orient_total": 64,
+    "num_bancas_total": 62,
+    "num_artigos": 25,
+    "num_livros": 4,
+    "num_capitulos": 11,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Andrea Fachel Leal",
+    "lattes_url": "http://lattes.cnpq.br/3362937671462104",
+    "email": "fachel.leal@ufrgs.br",
+    "formacao": "2004 - 2008Doutorado em Antropologia Social.Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.Título: No peito e na raça - A construção da vulnerabilidade de caminhoneiros: um estudo antropológ",
+    "areas": "1.Grande área: Ciências Humanas / Área: Antropologia / Subárea: Antropologia Aplicada.2.Grande área: Ciências Humanas / Área: Antropologia / Subárea: Antropologia Aplicada/Especialidade: Antropologia Médica.3.Grande área: Ciências Humanas / Área: Ciência Política / Subárea: Políticas Públicas.4.Gran",
+    "resumo": "Possui graduação em Licenciatura (1999) e Bacharelado (1997) em Filosofia pela Universidade Federal do Rio Grande do Sul (1999), mestrado (2003) e doutorado (2008) em Antropologia Social pela Universidade Federal do Rio Grande do Sul, com estágio pós doutoral (2012) no Programa de Pós Graduação em E",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "02/03/2026",
+    "num_projetos": 90,
+    "num_orient_total": 100,
+    "num_bancas_total": 28,
+    "num_artigos": 51,
+    "num_livros": 0,
+    "num_capitulos": 8,
+    "scholar_citacoes": 47
+  },
+  {
+    "nome": "Bernardo Mattes Caprara",
+    "lattes_url": "http://lattes.cnpq.br/4459762840246092",
+    "email": "bernardo.caprara@ufrgs.br",
+    "formacao": "2014 - 2017Doutorado em Sociologia.Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.Título: Classes sociais e desempenho educacional no BrasilO Portal Brasileiro de Publicações e Dados Científ",
+    "areas": "1.Grande área: Ciências Humanas / Área: Sociologia.2.Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia da Educação.3.Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia das Desigualdades.4.Grande área: Ciências Humanas / Área: Sociologia / Subárea: Ensino de S",
+    "resumo": "Professor no Programa de Pós-Graduação em Sociologia (PPGS) e no Departamento de Sociologia (DESOC) da Universidade Federal do Rio Grande do Sul (UFRGS). Doutor e mestre em Sociologia pelo PPGS da UFRGS. Licenciado em Ciências Sociais pela UFRGS. Lidera o Sociologiartesanal - Coletivo de Pesquisas, ",
+    "doutorado": true,
+    "pos_doutorado": false,
+    "ultima_atualizacao": "04/08/2026",
+    "num_projetos": 9,
+    "num_orient_total": 64,
+    "num_bancas_total": 8,
+    "num_artigos": 23,
+    "num_livros": 4,
+    "num_capitulos": 6,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Camila Penna de Castro",
+    "lattes_url": "http://lattes.cnpq.br/5815740752338790",
+    "email": "camilapennac@gmail.com",
+    "formacao": "2011 - 2013Doutorado em Sociologia.Universidade de Brasília, UnB, Brasil.Título: Conexões e controvérsias no INCRA de Marabá: o Estado como um ator heterogêneoO Portal Brasileiro de Publicações e Dado",
+    "areas": "1.Grande área: Ciências Humanas / Área: Ciência Política / Subárea: Estado e Governo.2.Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Rural.3.Grande área: Ciências Humanas / Área: Sociologia / Subárea: Fundamentos da Sociologia/Especialidade: Teoria Sociológica.4.Grande área:",
+    "resumo": "Professora Adjunta de Sociologia da Universidade Federal do Rio Grande do Sul (UFRGS). Doutora em Sociologia (UnB), mestre em Ciência Política (UnB) e bacharel em Relações Internacionais (PUC Minas). Membro permanente do Programa de Pós-Graduação em Sociologia (PPGS/UFRGS) e do Programa de Pós-Gradu",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "02/05/2026",
+    "num_projetos": 31,
+    "num_orient_total": 82,
+    "num_bancas_total": 38,
+    "num_artigos": 37,
+    "num_livros": 1,
+    "num_capitulos": 12,
+    "scholar_citacoes": 434
+  },
+  {
+    "nome": "Daniel Gustavo Mocelin",
+    "lattes_url": "http://lattes.cnpq.br/6855371859011719",
+    "email": "daniel.mocelin@ufrgs.br",
+    "formacao": "2007 - 2011Doutorado em Sociologia.Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.T�tulo: Dinamismo econ�mico e qualidade do emprego: estudo sobre o mercado de trabalho no novo cen�rio das t",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia Econ�mica.2.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia do Trabalho.3.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Fundamentos da Sociologia.4.Grande �rea: Ci�ncias Humanas / �rea: Soci",
+    "resumo": "Daniel Gustavo Mocelin � soci�logo, Doutor (2011) e Mestre em Sociologia (2006) e Bacharel (2002) e Licenciado (2008) em Ci�ncias Sociais pela Universidade Federal do Rio Grande do Sul, mesma institui��o onde exerce o cargo de Professor Associado, lotado no Departamento de Sociologia do Instituto de",
+    "doutorado": true,
+    "pos_doutorado": false,
+    "ultima_atualizacao": "13/08/2026",
+    "num_projetos": 36,
+    "num_orient_total": 2,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 33,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Enio Passiani",
+    "lattes_url": "http://lattes.cnpq.br/3396333225250833",
+    "email": "eniopassiani@gmail.com",
+    "formacao": "2003 - 2007Doutorado em PROGRAMA DE P�S-GRADUA��O EM SOCIOLOGIA.Universidade de S�o Paulo, USP, Brasil.T�tulo: P�ginas recolhidas: cultura impressa, modernismo e protocolos de leitura em S�o Paulo (19",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: sociologia da literatura.2.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Outras Sociologias Espec�ficas/Especialidade: sociologia da cultura.3.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Outras Sociologias Es",
+    "resumo": "Doutor pelo PROGRAMA DE P�S-GRADUA��O EM SOCIOLOGIA da Universidade de S�o Paulo, em 2007; Professor de Sociologia no Instituto de Filosofia e Ci�ncias Humanas (IFCH) e do Programa de P�s-Gradua��o em Sociologia da Universidade Federal do Rio Grande do Sul (UFRGS); Editor-Adjunto do peri�dico Sociol",
+    "doutorado": true,
+    "pos_doutorado": false,
+    "ultima_atualizacao": "31/03/2026",
+    "num_projetos": 9,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 25,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Éverton Garcia da Costa",
+    "lattes_url": "http://lattes.cnpq.br/4996903913348992",
+    "email": "evert.costa@ufrgs.br",
+    "formacao": "2014 - 2018Doutorado em Sociologia.Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.T�tulo: A avalanche chegou? Uma an�lise do crescimento da educa��o superior a dist�nciaO Portal Brasileiro d",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia.2.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Epistemologia.3.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Ci�ncias Sociais.\n1.\nGrande �rea: Ci�ncias Humanas / �rea: Sociologia.\n2.\nGrande �rea: Ci�ncias Humanas / �rea:",
+    "resumo": "Soci�logo. Professor Adjunto do Departamento de Sociologia e Permanente do Programa de P�s-Gradua��o em Sociologia da UFRGS. L�der do Grupo de Pesquisas sobre Games, Cultura e Sociedade (GamePesq). Atualmente, � Coordenador da Comiss�o de Gradua��o em Ci�ncias Sociais da UFRGS. � doutor em Sociologi",
+    "doutorado": true,
+    "pos_doutorado": false,
+    "ultima_atualizacao": "19/12/2025",
+    "num_projetos": 5,
+    "num_orient_total": 0,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 8,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Gabriel Bandeira Coelho",
+    "lattes_url": "http://lattes.cnpq.br/5520537266860368",
+    "email": "gabriel.coelho@ufrgs.br",
+    "formacao": "2016 - 2020Doutorado em Sociologia.Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.comper�odosandu�cheem Universidad Nacional de Quilmes (Orientador: Javier Balsa).T�tulo: Lutas por hegemonia",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia da Ci�ncia.\n1.\nGrande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia da Ci�ncia.\nIdiomasPortugu�sCompreende Bem, Fala Bem, L� Bem, Escreve Bem.EspanholCompreende Bem, Fala Bem, L� Bem, Escreve Razoavelmente.Ing",
+    "resumo": "Professor Adjunto do Departamento de Sociologia (UFRGS), professor colaborador no Programa de P�s-gradua��o em Sociologia (PPGS/UFRGS), professor tutor do PET-SA�DE-EQUIDADES (UFRGS), professor permanente no Programa de P�s-Gradua��o em Ensino na Sa�de (PPGENSAU/UFRGS). Doutor em Sociologia pela Uni",
+    "doutorado": true,
+    "pos_doutorado": false,
+    "ultima_atualizacao": "20/07/2026",
+    "num_projetos": 9,
+    "num_orient_total": 2,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 14,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Guilherme Francisco Waterloo Radomsky",
+    "lattes_url": "http://lattes.cnpq.br/9288994144974473",
+    "email": "guilherme.radomsky@ufrgs.br",
+    "formacao": "2007 - 2010Doutorado em Antropologia Social.Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.comper�odosandu�cheem University of North Carolina at Chapel Hill. (Orientador: Arturo Escobar).T�t",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia do Desenvolvimento.2.Grande �rea: Ci�ncias Humanas / �rea: Antropologia / Sub�rea: Antropologia do Desenvolvimento.\n1.\nGrande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia do Desenvolvimento.\n2.\nGrande �rea: C",
+    "resumo": "Professor Associado IV do departamento de Sociologia e do Programa de P�s-gradua��o em Sociologia (PPGS/UFRGS) da Universidade Federal do Rio Grande do Sul (UFRGS). Doutor em Antropologia Social pela Universidade Federal do Rio Grande do Sul (2010). Foi professor adjunto da Unipampa, Research Schola",
+    "doutorado": true,
+    "pos_doutorado": false,
+    "ultima_atualizacao": "07/10/2026",
+    "num_projetos": 41,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 33,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "José Carlos Gomes Dos Anjos",
+    "lattes_url": "http://lattes.cnpq.br/8743307347624567",
+    "email": "jcdosanjos@gmail.com",
+    "formacao": "1994 - 1998Doutorado em Antropologia Social.Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.T�tulo: Intelectuais, Literatura e Poder em Cabo Verde: lutas pela defini��o da identidade nacional",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociedade e Conhecimento/Especialidade: Rela��es Inter�tnicas.2.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia Rural/Especialidade: Remanescentes das Comunidades dos Quilombos.\n1.\nGrande �rea: Ci�ncias Humanas / �r",
+    "resumo": "Jos�  Carlos Gomes dos Anjos possui doutorado em Antropologia Social pela Universidade Federal do Rio Grande do Sul (1998). P�s-doutorado em Ecole Normale Superieure de Paris (2007). Atualmente � professor da Universidade Federal do Rio Grande do Sul atuando na P�s-Gradua��o em Sociologia e Desenvol",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "25/09/2026",
+    "num_projetos": 7,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 28,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Jose Vicente Tavares dos Santos",
+    "lattes_url": "http://lattes.cnpq.br/5237998905026010",
+    "email": "jvicente@ufrgs.br",
+    "formacao": "1982 - 1987Doutorado em DOCTORAT D�ETAT SOCIOLOGIE.Universit� de Paris X, Nanterre, Paris X, Fran�a.T�tulo: MATUCHOS, LE REVE DE LA TERRE (Etude sur le processus de colonisation agricole et les luttes",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Fundamentos da Sociologia/Especialidade: Teoria Sociol�gica.2.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia da Conflitualidade/Especialidade: Sociologia da Conflitualidade.3.Grande �rea: Ci�ncias Humanas / �rea: S",
+    "resumo": "Jos� Vicente Tavares dos Santos - Soci�logo (UFRGS, 1971), Mestre (USP, 1977), ''Docteur dEtat ''(Universit� de Paris-Nanterre, 1987), P�s-doutorado (University of Cambridge, 2008). Professor Titular do Departamento de Sociologia, aposentado (professor desde 1978);Professor Colaborador dos PPG em Se",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "05/10/2026",
+    "num_projetos": 118,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 108,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Karl Martin Monsma",
+    "lattes_url": "http://lattes.cnpq.br/5133375697266421",
+    "email": "karlmonsma@hotmail.com",
+    "formacao": "1985 - 1992Doutorado em Sociologia.University of Michigan, UMICH, Estados Unidos.T�tulo: Ranchers, Rural People, and the State in Post-Colonial Argentina, Ano de obten��o: 1992.Orientador: Jeffery M P",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia Hist�rica.2.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Teoria Social.3.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Racismos.4.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Migra��e",
+    "resumo": "Professor Titular de Sociologia na Universidade Federal do Rio Grande do Sul. Possui gradua��o em Sociologia - University of California Santa Cruz (1981), mestrado em Sociologia - University of Michigan - Ann Arbor (1985) e doutorado em Sociologia - University of Michigan - Ann Arbor (1992). Fez p�s",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "04/07/2025",
+    "num_projetos": 30,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 25,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Letícia Maria Schabbach",
+    "lattes_url": "http://lattes.cnpq.br/9673923147586714",
+    "email": "leticiams65@gmail.com",
+    "formacao": "2002 - 2007Doutorado em Sociologia.Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.T�tulo: Tend�ncias e preditores da criminalidade violenta no Rio Grande do SulO Portal Brasileiro de Publica",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Fundamentos da Sociologia/Especialidade: Teoria Sociol�gica.2.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Pol�ticas P�blicas.3.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Outras Sociologias Espec�ficas.4.Gr",
+    "resumo": "Possuo gradua��o em Licenciatura e Bacharelado em Ci�ncias Sociais (1986;1987), Mestrado (1995) e Doutorado em Sociologia (2007), pela Universidade Federal do Rio Grande do Sul (UFRGS). Desde 2010, sou professora titular do Departamento de Sociologia da UFRGS, atuando nos cursos de gradua��o de Pol�",
+    "doutorado": true,
+    "pos_doutorado": false,
+    "ultima_atualizacao": "27/08/2026",
+    "num_projetos": 119,
+    "num_orient_total": 12,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 22,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Lorena Cândido Fleury",
+    "lattes_url": "http://lattes.cnpq.br/3759940793842831",
+    "email": "lorenafleury@gmail.com",
+    "formacao": "2009 - 2013Doutorado em Sociologia.Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.comper�odosandu�cheem Universit� Paris Nanterr� (Orientador: Jean-Paul Billaud).T�tulo: Conflito ambiental e",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Outras Sociologias Espec�ficas/Especialidade: Sociologia dos Conflitos Ambientais.2.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Estudos Sociais de Ci�ncia e Tecnologia.3.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / S",
+    "resumo": "� professora do Departamento de Sociologia, do Programa de P�s-Gradua��o em Sociologia (PPGS) e do Programa de P�s-Gradua��o em Desenvolvimento Rural (PGDR) da Universidade Federal do Rio Grande do Sul (UFRGS). Possui gradua��o em Ci�ncias Biol�gicas pela Universidade Federal de Minas Gerais (2006),",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "09/06/2025",
+    "num_projetos": 37,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 15,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Luciana Garcia de Mello",
+    "lattes_url": "http://lattes.cnpq.br/6786214333053144",
+    "email": "lusociais@yahoo.com.br",
+    "formacao": "2007 - 2010Doutorado em Sociologia.Universit� de Nice Sophia Antipolis, UNSA, Fran�a.comper�odoco-tutelaem Universit� de Nice Sophia Antipolis (Orientador: Jocelyne Streiff-Fenart).T�tulo: A Luta do R",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia das Rela��es Raciais.2.Grande �rea: Ci�ncias Humanas / �rea: Ci�ncia Pol�tica / Sub�rea: Pol�ticas P�blicas.3.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia do Trabalho.\n1.\nGrande �rea: Ci�ncias Humanas ",
+    "resumo": "Professora associada  da Universidade Federal do Rio Grande do Sul - UFRGS.  Possui t�tulo de Doutora em Sociologia pela Universidade Federal do Rio Grande do Sul (2010) e pela Universit� de Nice Sophia-Antipolis (2010), possui gradua��o em Bacharelado e Licenciatura em Ci�ncias Sociais pela Univers",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "10/06/2026",
+    "num_projetos": 26,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 11,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Luciano Joel Fedozzi",
+    "lattes_url": "http://lattes.cnpq.br/2880900997835659",
+    "email": "lucianofedozzi@gmail.com",
+    "formacao": "1996 - 2002Doutorado em Sociologia.Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.T�tulo: Cidadania e Cultura Pol�tica. Doze anos de governo participativo em Porto Alegre (1989-2000), Ano de",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia Pol�tica.2.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia Urbana.3.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia Pol�tica/Especialidade: Participa��o.4.Grande �rea: Ci�ncias Huma",
+    "resumo": "Possui doutorado (2002) e mestrado (1996) em Sociologia pela Universidade Federal do Rio Grande do Sul. Professor titular na Universidade Federal do Rio Grande do Sul. Integra o corpo de docentes do Departamento e do Programa de P�s-Gradua��o em Sociologia, na linha de pesquisa Sociedade, Participa�",
+    "doutorado": true,
+    "pos_doutorado": false,
+    "ultima_atualizacao": "17/08/2026",
+    "num_projetos": 48,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 33,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Marcelo Kunrath Silva",
+    "lattes_url": "http://lattes.cnpq.br/3630123802753991",
+    "email": "mksilva@ufrgs.br",
+    "formacao": "1997 - 2001Doutorado em Sociologia.Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.T�tulo: Constru��o da Participa��o Popular, Ano de obten��o: 2001.Orientador: S�nia Maria Guimar�es Larangei",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia.\n1.\nGrande �rea: Ci�ncias Humanas / �rea: Sociologia.\nIdiomasEspanholCompreende Razoavelmente, L� Bem.Ingl�sCompreende Bem, Fala Razoavelmente, L� Bem, Escreve Pouco.Franc�sCompreende Pouco, L� Razoavelmente.",
+    "resumo": "Possui gradua��o em Licenciatura em Hist�ria pela Universidade Federal do Rio Grande do Sul (1989), mestrado em Sociologia pela Universidade Federal do Rio Grande do Sul (1996), doutorado em Sociologia pela Universidade Federal do Rio Grande do Sul (2001) e p�s-doutorado no Watson Institute for Inte",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "02/10/2026",
+    "num_projetos": 45,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 48,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Marília Luz David",
+    "lattes_url": "http://lattes.cnpq.br/9297699488917145",
+    "email": "marilia.david@ufrgs.br",
+    "formacao": "2012 - 2016Doutorado em Sociologia Pol�tica.Universidade Federal de Santa Catarina, UFSC, Brasil.comper�odosandu�cheem Universit� de Li�ge (Orientador: S�bastien Brunet).T�tulo: Certifica��o de alimen",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia.2.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: sociologia ambiental.3.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia Rural.4.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: estudos sociais da ci�nci",
+    "resumo": "Professora do Departamento de Sociologia da Universidade Federal do Rio Grande do Sul (UFRGS), onde integra como professora permanente o Programa de P�s-Gradua��o em Sociologia (PPGS/UFRGS). � Doutora em Sociologia Pol�tica pela Universidade Federal de Santa Catarina (UFSC). Desenvolve pesquisas na ",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "18/09/2026",
+    "num_projetos": 27,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 7,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Marília Patta Ramos",
+    "lattes_url": "http://lattes.cnpq.br/7621678113798532",
+    "email": "mariliaramos68@gmail.com",
+    "formacao": "1996 - 2001Doutorado em Sociologia.Purdue University, PURDUE, Estados Unidos.T�tulo: Inter-Influ�ncias Causais entre as Rela��es Sociais e a Depress�o dos Idosos no Sul do Brasil, Ano de obten��o: 200",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia.2.Grande �rea: Ci�ncias Sociais Aplicadas / �rea: Planejamento Urbano e Regional.3.Grande �rea: Ci�ncias da Sa�de / �rea: Sa�de Coletiva.4.Grande �rea: Ci�ncias Humanas / �rea: Ci�ncia Pol�tica / Sub�rea: Pol�ticas P�blicas.5.Grande �rea: Ci�ncias S",
+    "resumo": "Possui gradua��o em Licenciatura e Bacharelado Em Ci�ncias Sociais pela Universidade Federal do Rio Grande do Sul (1990), mestrado em Sociologia pela Universidade Federal do Rio Grande do Sul (1993) e doutorado em Sociologia pela Purdue University, EUA (2001). Concluiu seu p�s-doutoramento no Progra",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "18/05/2026",
+    "num_projetos": 43,
+    "num_orient_total": 6,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 21,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Matheus Mazzilli Pereira",
+    "lattes_url": "http://lattes.cnpq.br/3083976186448735",
+    "email": "matheus.mazzilli@ufrgs.br",
+    "formacao": "2014 - 2018Doutorado em Sociologia.Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.comper�odosandu�cheem University of California, Irvine (Orientador: David S. Meyer).T�tulo: Um Confronto Pol",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia.\n1.\nGrande �rea: Ci�ncias Humanas / �rea: Sociologia.\nLicença Maternidade, Paternidade e Adoção07/07/2025 a 26/07/2025Paternidade20 dias",
+    "resumo": "Professor do Departamento de Sociologia e do Programa de P�s-Gradua��o em Sociologia da Universidade Federal do Rio Grande do Sul (UFRGS). Doutor em Sociologia pela mesma institui��o de ensino, com per�odo de doutorado sandu�che na University of California, Irvine. Integrante do Grupo de Pesquisa As",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "05/10/2026",
+    "num_projetos": 30,
+    "num_orient_total": 2,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 12,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Maycon Noremberg Schubert",
+    "lattes_url": "http://lattes.cnpq.br/3984757781834334",
+    "email": "maycon.schubert@gmail.com",
+    "formacao": "2015 - 2018Doutorado em Programa de Doctorado en Econom�a y Empresa.Universidad de Oviedo, UNIOVI, Espanha.comper�odoco-tutelaem University of Manchester (Orientador: Alan Ward).T�tulo: Comer fuera de",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia Rural/Especialidade: Sociologia do Desenvolvimento.2.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia Rural/Especialidade: Sociologia Econ�mica.3.Grande �rea: Ci�ncias Sociais Aplicadas / �rea: Economia / ",
+    "resumo": "Professor Adjunto do Departamento de Sociologia da Universidade Federal do Rio Grande do Sul (UFRGS). Atua nos Programas de P�s-Gradua��o em Sociologia (conceito 7 na CAPES) e em Desenvolvimento Rural (conceito 6 na CAPES) da UFRGS. Coordena o Grupo de Pesquisa em Sociologia das Pr�ticas Sociais (SO",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "09/02/2026",
+    "num_projetos": 45,
+    "num_orient_total": 2,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 11,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Melissa de Mattos Pimenta",
+    "lattes_url": "http://lattes.cnpq.br/2983516301087100",
+    "email": "melissampimenta@gmail.com",
+    "formacao": "2002 - 2007Doutorado em Sociologia.Universidade de S�o Paulo, USP, Brasil.comper�odosandu�cheem Universidade de Lisboa (Orientador: Jos� Machado Pais).T�tulo: Ser Jovem e Ser Adulto: Identidades, Repr",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia da Juventude.2.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Viol�ncia e Conflitualidade.3.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: M�todos de Pesquisa/Especialidade: Seguran�a P�blica.4.Grande ",
+    "resumo": "� Bacharel em Ci�ncias Sociais (1998), Mestre em Sociologia (2001) e Doutora em Sociologia (2007) pela Universidade de S�o Paulo (USP). Atualmente � Coordenadora do Mestrado Profissional em Seguran�a Cidad� (PPGSEG) da Universidade Federal do Rio Grande do Sul, onde tamb�m � professora associada do ",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "05/08/2026",
+    "num_projetos": 46,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 22,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Paulo André Niederle",
+    "lattes_url": "http://lattes.cnpq.br/3985133612947371",
+    "email": "pauloniederle@gmail.com",
+    "formacao": "2007 - 2011Doutorado em Ci�ncias Sociais em Desenvolvimento, Agricultura e Sociedade.Universidade Federal Rural do Rio de Janeiro, UFRRJ, Brasil.comper�odosandu�cheem Universit� Lumiere Lyon 2 (Orient",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia Econ�mica.2.Grande �rea: Ci�ncias Sociais Aplicadas / �rea: Economia / Sub�rea: Teoria Econ�mica/Especialidade: Economia Institucional.3.Grande �rea: Ci�ncias Sociais Aplicadas / �rea: Economia / Sub�rea: Teoria Econ�mica/Espec",
+    "resumo": "Professor do Departamento de Sociologia da Universidade Federal do Rio Grande do Sul (UFRGS), onde tamb�m atua como docente permanentes nos Programas de P�s-Gradua��o em Sociologia (PPGS) e Pol�ticas P�blicas (PPGPP). Doutor em Ci�ncias Sociais em Agricultura, Desenvolvimento e Sociedade pela Univer",
+    "doutorado": true,
+    "pos_doutorado": false,
+    "ultima_atualizacao": "09/09/2026",
+    "num_projetos": 78,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 65,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Raquel Andrade Weiss",
+    "lattes_url": "http://lattes.cnpq.br/2720382688548557",
+    "email": "weiss.raquel@gmail.com",
+    "formacao": "2006 - 2011Doutorado em Filosofia.Universidade de S�o Paulo, USP, Brasil.comper�odosandu�cheem University of Oxford (Orientador: William Pickering - British Centre for Durkheimian Studies).T�tulo: �mi",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Fundamentos da Sociologia/Especialidade: Teoria Sociol�gica.2.Grande �rea: Ci�ncias Humanas / �rea: Filosofia / Sub�rea: �tica.3.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Fundamentos da Sociologia.\n1.\nGrande �rea: Ci�nci",
+    "resumo": "Possui gradua��o em ci�ncias sociais pela Universidade de S�o Paulo - USP  (2003), mestrado em Sociologia pela USP -FAPESP (2006) e doutorado em Filosofia pela USP-FAPESP (2011), com est�gio na University of Oxford [2009]. Realizou pesquisa de p�s-doutorado em Filosofia na UFRGS [2011] com apoio do ",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "23/02/2026",
+    "num_projetos": 30,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 24,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Rochele Fellini Fachinetto",
+    "lattes_url": "http://lattes.cnpq.br/4803135608733740",
+    "email": "rocheleff@gmail.com",
+    "formacao": "2008 - 2012Doutorado em Programa de P�s-Gradua��o em Sociologia.Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.T�tulo: Quando eles as matam, quando elas os matam: uma an�lise dos julgamentos",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia.2.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia da Viol�ncia.3.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia Jur�dica.4.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia da Educa",
+    "resumo": "Professora Associada do Departamento de Sociologia da UFRGS e docente permanente do Programa de P�s-Gradua��o em Sociologia e do Programa de P�s-Gradua��o em Seguran�a Cidad� da Universidade Federal do Rio Grande do Sul (UFRGS). Coordenadora do Grupo de Pesquisa Viol�ncia e Cidadania - UFRGS/CNPq. P",
+    "doutorado": true,
+    "pos_doutorado": false,
+    "ultima_atualizacao": "22/09/2026",
+    "num_projetos": 49,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 32,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Sandro Ruduit Garcia",
+    "lattes_url": "http://lattes.cnpq.br/7865080933555325",
+    "email": "sandro.ruduit@ufrgs.br",
+    "formacao": "2001 - 2006Doutorado em Sociologia.Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.T�tulo: Global e Local: o novo p�lo automobil�stico de Gravata� e suas implica��es sociais e pol�ticasO Port",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Outras Sociologias Espec�ficas/Especialidade: Sociologia Econ�mica.2.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia do Desenvolvimento.3.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia do Tra",
+    "resumo": "Soci�logo, Doutor em Sociologia pela Universidade Federal do Rio Grande do Sul (UFRGS). Professor Associado IV do Departamento de Sociologia e Professor Permanente do Programa de P�s-Gradua��o em Sociologia, IFCH/UFRGS. Chefe do Departamento de Sociologia, IFCH/ UFRGS. Recebeu o Pr�mio Capes de Tese",
+    "doutorado": true,
+    "pos_doutorado": false,
+    "ultima_atualizacao": "22/09/2026",
+    "num_projetos": 23,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 17,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Sergio Schneider",
+    "lattes_url": "http://lattes.cnpq.br/9374550818298328",
+    "email": "schneide@ufrgs.br",
+    "formacao": "1994 - 1999Doutorado em Sociologia.Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.T�tulo: Agricultura Familiar e PluriatividadeO Portal Brasileiro de Publica��es e Dados Cient�ficos em Acess",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia.2.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia Rural.3.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia do Desenvolvimento.4.Grande �rea: Ci�ncias Sociais Aplicadas / �rea: Economia / Sub�rea: Desenvol",
+    "resumo": "58, � Professor Titular do Departamento de Sociologia e membro permanente dos Programas de P�s-Gradua��o em Desenvolvimento Rural (www.ufrgs.br/pgdr) e de Sociologia (www.ufrgs.br/ppgs) da UFRGS. Presidente eleito da IRSA  Associa��o Internacional de Sociologia Rural  mandato de 2026-030. P�s-doutor",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "03/09/2026",
+    "num_projetos": 91,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 132,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Soraya Maria Vargas Cortes",
+    "lattes_url": "http://lattes.cnpq.br/1805029396938951",
+    "email": "vargas.cortes@ufrgs.br",
+    "formacao": "1991 - 1995Doutorado em Social Policy And Administration.London School Of Economics And Political Science, LSE, Inglaterra.T�tulo: User Participation and Reform of the Brazilian Health System: The Cas",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia Pol�tica.2.Grande �rea: Ci�ncias Humanas / �rea: Ci�ncia Pol�tica / Sub�rea: Pol�ticas P�blicas.3.Grande �rea: Ci�ncias Humanas / �rea: Sociologia / Sub�rea: Sociologia da Sa�de.4.Grande �rea: Ci�ncias Humanas / �rea: Sociologi",
+    "resumo": "Soraya Vargas Cortes concluiu o doutorado em Social Policy and Administration, na London School of Economics and Political Science, em 1995 e realizou est�gio p�s-doutoral na Facultad de Ciencias Pol�ticas y Sociolog�a da Universidad Complutense de Madrid, 2018 e 2019. Atualmente � professora titula",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "13/02/2026",
+    "num_projetos": 41,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 41,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  },
+  {
+    "nome": "Vanessa Marx",
+    "lattes_url": "http://lattes.cnpq.br/7673130100519405",
+    "email": "vanessa.marx@ufrgs.br",
+    "formacao": "2002 - 2008Doutorado em Ci�ncia Pol�tica.Universitat Aut�noma de Barcelona - UAB, UAB, Espanha.T�tulo: As cidades como atores pol�ticos nas rela��es internacionais, Ano de obten��o: 2008.Orientador: D",
+    "areas": "1.Grande �rea: Ci�ncias Humanas / �rea: Sociologia.2.Grande �rea: Ci�ncias Humanas / �rea: Ci�ncia Pol�tica / Sub�rea: Pol�ticas P�blicas.3.Grande �rea: Ci�ncias Humanas / �rea: Ci�ncia Pol�tica.4.Grande �rea: Ci�ncias Humanas / �rea: Ci�ncia Pol�tica / Sub�rea: Rela��es Internacionais.5.Grande �rea",
+    "resumo": "Professora do Programa de P�s-Gradua��o em Sociologia, do Programa de P�s-Gradua��o em Pol�ticas P�blicas e Professora Associada I do Departamento de Sociologia da Universidade Federal do Rio Grande do Sul (UFRGS). P�s-Doutorado em Ci�ncia Pol�tica pela Universidade Federal do Rio Grande do Sul (UFR",
+    "doutorado": true,
+    "pos_doutorado": true,
+    "ultima_atualizacao": "21/08/2026",
+    "num_projetos": 47,
+    "num_orient_total": 4,
+    "num_bancas_total": 0,
+    "num_artigos": 0,
+    "num_livros": 30,
+    "num_capitulos": 0,
+    "scholar_citacoes": 0
+  }
+];
+const RANKINGS = {
+  "citacoes": [
+    {
+      "nome": "Camila Penna de Castro",
+      "val": 434
+    },
+    {
+      "nome": "Andrea Fachel Leal",
+      "val": 47
+    },
+    {
+      "nome": "Alex Niche Teixeira",
+      "val": 0
+    },
+    {
+      "nome": "Alexandre Almeida de Magalhães",
+      "val": 0
+    },
+    {
+      "nome": "Bernardo Mattes Caprara",
+      "val": 0
+    }
+  ],
+  "projetos": [
+    {
+      "nome": "Letícia Maria Schabbach",
+      "val": 119
+    },
+    {
+      "nome": "Jose Vicente Tavares dos Santos",
+      "val": 118
+    },
+    {
+      "nome": "Sergio Schneider",
+      "val": 91
+    },
+    {
+      "nome": "Andrea Fachel Leal",
+      "val": 90
+    },
+    {
+      "nome": "Paulo André Niederle",
+      "val": 78
+    }
+  ],
+  "orientacoes": [
+    {
+      "nome": "Andrea Fachel Leal",
+      "val": 100
+    },
+    {
+      "nome": "Camila Penna de Castro",
+      "val": 82
+    },
+    {
+      "nome": "Alexandre Almeida de Magalhães",
+      "val": 64
+    },
+    {
+      "nome": "Bernardo Mattes Caprara",
+      "val": 64
+    },
+    {
+      "nome": "Alex Niche Teixeira",
+      "val": 38
+    }
+  ]
+};
+const ARTIGOS = {"1995": 2, "1996": 4, "1997": 9, "1998": 9, "2000": 5, "2001": 4, "2002": 7, "2003": 15, "2004": 16, "2005": 16, "2006": 27, "2007": 35, "2008": 27, "2009": 40, "2010": 33, "2011": 34, "2012": 23, "2013": 29, "2014": 26, "2015": 59, "2016": 32, "2017": 46, "2018": 49, "2019": 35, "2020": 86, "2021": 53, "2022": 52, "2023": 43, "2024": 56, "2025": 40, "2026": 26};
+const LIVROS = {"1997": 1, "1998": 3, "1999": 4, "2000": 1, "2002": 2, "2004": 1, "2006": 1, "2007": 1, "2008": 1, "2009": 1, "2010": 2, "2011": 5, "2012": 8, "2013": 8, "2014": 5, "2015": 2, "2016": 5, "2017": 4, "2018": 5, "2019": 7, "2020": 3, "2021": 2, "2022": 2, "2024": 6, "2025": 3};
+const CAPITULOS = {"1995": 10, "1996": 11, "1997": 10, "1998": 16, "1999": 20, "2000": 6, "2001": 5, "2002": 8, "2003": 8, "2004": 8, "2005": 11, "2006": 16, "2007": 16, "2008": 9, "2009": 22, "2010": 18, "2011": 25, "2012": 24, "2013": 25, "2014": 17, "2015": 21, "2016": 15, "2017": 11, "2018": 22, "2019": 16, "2020": 17, "2021": 11, "2022": 18, "2023": 12, "2024": 22, "2025": 14, "2026": 7};
+
+// Escape HTML
+function esc(s) {
+  const d = document.createElement('div');
+  d.textContent = s || '';
+  return d.innerHTML;
+}
+
+// Render rankings
+function renderRankings() {
+  const container = document.getElementById('rankings');
+  const titles = { citacoes: '🔗 Citações (Google Scholar)', projetos: '📊 Projetos de Pesquisa', orientacoes: '🎓 Orientações' };
+  let html = '';
+  for (const [key, items] of Object.entries(RANKINGS)) {
+    let rows = items.map((item, i) => {
+      return '<div class="rank-row"><span class="rank-pos">' + (i+1) + 'º</span><span class="rank-name">' + esc(item.nome) + '</span><span class="rank-val">' + item.val + '</span></div>';
+    }).join('');
+    html += '<div class="ranking-card"><h3>' + titles[key] + '</h3>' + rows + '</div>';
+  }
+  container.innerHTML = html;
+}
+
+// Render cards
+function renderCards(data) {
+  const container = document.getElementById('cards');
+  if (data.length === 0) {
+    container.innerHTML = '';
+    document.getElementById('noResults').style.display = 'block';
+    return;
+  }
+  document.getElementById('noResults').style.display = 'none';
+  
+  container.innerHTML = data.map(d => {
+    const doutorado = d.doutorado ? '<span class="badge badge-active">Doutorado ✓</span>' : '<span class="badge badge-off">Doutorado</span>';
+    const posdoc = d.pos_doutorado ? '<span class="badge badge-active">Pós-doc ✓</span>' : '<span class="badge badge-off">Pós-doc</span>';
+    const scholarLink = d.scholar_url ? '<a href="' + d.scholar_url + '" target="_blank" class="scholar-link">Scholar ↗</a>' : '';
+    const hIndex = d.scholar_h_index ? '<span class="badge badge-scholar">h-index: ' + d.scholar_h_index + '</span>' : '';
+    const updated = d.ultima_atualizacao ? '<span class="badge badge-date">Atualizado: ' + d.ultima_atualizacao + '</span>' : '';
+    
+    // Extrair instituição do doutorado
+    let inst = '';
+    const instMatch = (d.formacao || '').match(/Doutorado.*?\.([^\.]+?)\./);
+    if (instMatch) inst = '<span class="badge badge-info">' + esc(instMatch[1].trim().substring(0, 50)) + '</span>';
+    
+    return '<div class="card" data-name="' + esc(d.nome.toLowerCase()) + '" data-projetos="' + d.num_projetos + '" data-citacoes="' + d.scholar_citacoes + '" data-orientacoes="' + d.num_orient_total + '">' +
+      '<div class="card-header"><h3>' + esc(d.nome) + '</h3><div class="card-links"><a href="' + d.lattes_url + '" target="_blank" class="lattes-link">Lattes ↗</a>' + scholarLink + '</div></div>' +
+      '<div class="card-meta">' + doutorado + posdoc + inst + hIndex + updated + '</div>' +
+      '<div class="card-stats">' +
+      '<div class="stat"><span class="stat-num">' + d.num_projetos + '</span><span class="stat-label">Projetos</span></div>' +
+      '<div class="stat"><span class="stat-num">' + d.num_orient_total + '</span><span class="stat-label">Orientações</span></div>' +
+      '<div class="stat"><span class="stat-num">' + d.num_bancas_total + '</span><span class="stat-label">Bancas</span></div>' +
+      '<div class="stat"><span class="stat-num">' + d.scholar_citacoes + '</span><span class="stat-label">Citações</span></div>' +
+      '</div>' +
+      '<div class="card-production"><span class="prod-item">📄 ' + d.num_artigos + ' artigos</span><span class="prod-item">📚 ' + d.num_livros + ' livros</span><span class="prod-item">📖 ' + d.num_capitulos + ' capítulos</span></div>' +
+      (d.resumo ? '<p class="card-resumo">' + esc(d.resumo) + '...</p>' : '') +
+      (d.areas ? '<div class="card-areas"><strong>Áreas:</strong> ' + esc(d.areas) + '</div>' : '') +
+    '</div>';
+  }).join('');
+}
+
+// Sort
+function sortData(key) {
+  const sorted = [...DATA];
+  if (key === 'nome') sorted.sort((a, b) => a.nome.localeCompare(b.nome));
+  else sorted.sort((a, b) => (b[key] || 0) - (a[key] || 0));
+  return sorted;
+}
+
+// Filter
+function filterData(query) {
+  if (!query) return DATA;
+  const q = query.toLowerCase();
+  return DATA.filter(d => d.nome.toLowerCase().includes(q) || (d.areas || '').toLowerCase().includes(q) || (d.resumo || '').toLowerCase().includes(q));
+}
+
+// Charts
+function createChart(canvasId, data, color, label) {
+  const ctx = document.getElementById(canvasId);
+  if (!ctx) return;
+  const labels = Object.keys(data);
+  const values = Object.values(data);
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: labels,
+      datasets: [{
+        label: label,
+        data: values,
+        backgroundColor: color + 'cc',
+        borderColor: color,
+        borderWidth: 1,
+        borderRadius: 4,
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { ticks: { font: { size: 9 }, maxRotation: 45, autoSkip: true } },
+        y: { beginAtZero: true, ticks: { font: { size: 10 } } }
+      }
+    }
+  });
+}
+
+// Init
+renderRankings();
+renderCards(sortData('nome'));
+
+// Charts
+createChart('chartArtigos', ARTIGOS, '#1a237e', 'Artigos');
+createChart('chartLivros', LIVROS, '#283593', 'Livros');
+createChart('chartCapitulos', CAPITULOS, '#3949ab', 'Capítulos');
+
+// Search
+const searchInput = document.getElementById('search');
+searchInput.addEventListener('input', () => {
+  const filtered = filterData(searchInput.value);
+  // Apply current sort
+  const activeBtn = document.querySelector('.sort-btn.active');
+  const sortKey = activeBtn ? activeBtn.dataset.sort : 'nome';
+  const sorted = sortData(sortKey);
+  // Intersect filtered with sorted order
+  const filteredSet = new Set(filtered.map(d => d.nome));
+  renderCards(sorted.filter(d => filteredSet.has(d.nome)));
+});
+
+// Sort buttons
+document.querySelectorAll('.sort-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    const key = btn.dataset.sort;
+    const filtered = filterData(searchInput.value);
+    const sorted = sortData(key);
+    const filteredSet = new Set(filtered.map(d => d.nome));
+    renderCards(sorted.filter(d => filteredSet.has(d.nome)));
+  });
+});
+</script>
+</body>
+</html>

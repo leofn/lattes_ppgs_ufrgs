@@ -1,0 +1,6 @@
+output/ppgs/*.html
+output/ppgs/*.json
+output/ppgs/download_*
+__pycache__/
+*.pyc
+.env
