@@ -1,0 +1,988 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "4055235251214892",
+    "nome_completo": "Alexandre Almeida de Magalhães",
+    "nome_citacoes": "",
+    "sexo": "",
+    "rotulo": "",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "",
+    "url": "http://lattes.cnpq.br/4055235251214892",
+    "texto_resumo": ""
+  },
+  "formacao_academica": [],
+  "atuacao_profissional": [],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Urbana.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Urbana."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia dos Movimentos Sociais.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia dos Movimentos Sociais."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia e Antropologia do Estado.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia e Antropologia do Estado."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Metodologia de Pesquisa",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Metodologia de Pesquisa"
+    }
+  ],
+  "idiomas": [],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "F. 2026 SOUSA, S. F. ; OLIVEIRA, B. G. S. ; MAGALHÃES, A. ; SCHABBACH, L. M. . Entre a catástrofe e o cadastro: racionalidade burocrática no acesso à proteção nas enchentes do Rio Grande do Sul (2024)",
+        "ano": "2026",
+        "autores": "SOUSA, S",
+        "revista": "Revista Brasileira de Sociologia",
+        "volume": "14",
+        "numero": "",
+        "paginas": "1-32",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2025 MAGALHÃES, A. . Violência, cotidiano e sociabilidades: a descida ao ordinário para pensar a emergência e ocaso das UPPs no Rio de Janeiro",
+        "ano": "2025",
+        "autores": "MAGALHÃES, A",
+        "revista": "Laje",
+        "volume": "4",
+        "numero": "",
+        "paginas": "338-345",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2025 FREIRE-MEDEIROS, B. ; MAGALHÃES, A. ; MOCHEL, L. . O condomínio fechado como personagem em Os Outros: uma entrevista com Lucas Paraizo",
+        "ano": "2025",
+        "autores": "FREIRE-MEDEIROS, B",
+        "revista": "ANTROPOLÍTICA (UFF)",
+        "volume": "53",
+        "numero": "",
+        "paginas": "1-18",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2025 LAZZARIN, G. ; MAGALHÃES, A. . Remoção e reassentamento de pessoas catadoras em Porto Alegre: reconfigurações das dinâmicas de trabalho, território e mobilidade",
+        "ano": "2025",
+        "autores": "LAZZARIN, G",
+        "revista": "ANTROPOLÍTICA (UFF)",
+        "volume": "57",
+        "numero": "",
+        "paginas": "1-29",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2023 MAGALHÃES, A. ; PETTI, D. . Remoções de favelas no Rio de Janeiro: formas de governo, justificações e temporalidades",
+        "ano": "2023",
+        "autores": "MAGALHÃES, A",
+        "revista": "SOCIOLOGIA E ANTROPOLOGIA",
+        "volume": "13",
+        "numero": "",
+        "paginas": "1-27",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "S. P. F. 2023 MEDEIROS, B. S. P. F. ; MAGALHÃES, A. ; MENEZES, P. V. . Mobilidades e infraestruturas: algumas possibilidades interpretativas",
+        "ano": "2023",
+        "autores": "MEDEIROS, B",
+        "revista": "Revista Brasileira de Sociologia",
+        "volume": "11",
+        "numero": "",
+        "paginas": "5-23",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2021 MAGALHÃES, A. . A guerra como modo de governo em favelas do Rio de Janeiro",
+        "ano": "2021",
+        "autores": "MAGALHÃES, A",
+        "revista": "REVISTA BRASILEIRA DE CIÊNCIAS SOCIAIS (IMPRESSO)",
+        "volume": "36",
+        "numero": "",
+        "paginas": "1-20",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "V. 2021 MENEZES, P. V. ; MAGALHÃES, A. ; AZAEL, C. . Painéis comunitários: a disputa pela verdade da pandemia nas favelas cariocas. HORIZONTES ANTROPOLÓGICOS (UFRGS",
+        "ano": "2021",
+        "autores": "MENEZES, P",
+        "revista": "IMPRESSO)",
+        "volume": "27",
+        "numero": "",
+        "paginas": "109-128",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2021 MAGALHÃES, A. ; MENEZES, P. V. ; FLEURY, S. . Deslocando enquadramentos: coletivos de favelas em ação na pandemia",
+        "ano": "2021",
+        "autores": "MAGALHÃES, A",
+        "revista": "REVISTA BRASILEIRA DE SOCIOLOGIA",
+        "volume": "9",
+        "numero": "",
+        "paginas": "256-279",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2020 MAGALHÃES, A. . As periferias na pandemia: explicitação da política de precarização e de exposição à morte",
+        "ano": "2020",
+        "autores": "MAGALHÃES, A",
+        "revista": "TESSITURAS: REVISTA DE ANTROPOLOGIA E ARQUEOLOGIA",
+        "volume": "8",
+        "numero": "",
+        "paginas": "79-85",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2020 MAGALHÃES, A. ; YSTANES, M. . Racialized Governance: the production and destruction of secure spaces in Olympic Rio de Janeiro",
+        "ano": "2020",
+        "autores": "MAGALHÃES, A",
+        "revista": "Conflict and Society",
+        "volume": "6",
+        "numero": "",
+        "paginas": "165-182",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2020 MAGALHÃES, A. ; MENEZES, P. V. ; BARROS, R. ; GUTERRES, A. . Apresentação Dossiê Sociologia e Antropologia dos Rumores",
+        "ano": "2020",
+        "autores": "MAGALHÃES, A",
+        "revista": "Sociabilidades Urbanas â013 Revista de Antropologia e Sociologia",
+        "volume": "4",
+        "numero": "",
+        "paginas": "15-20",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2019 MAGALHÃES, A. . A -lógica da intervenção- e a questão da circulação: as remoções de favelas como forma de gerir o espaço urbano no Rio de Janeiro dos Jogos Olímpicos",
+        "ano": "2019",
+        "autores": "MAGALHÃES, A",
+        "revista": "TEMPO SOCIAL (ONLINE)",
+        "volume": "31",
+        "numero": "",
+        "paginas": "221-242",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2018 MAGALHÃES, A. ; PETTI, D. . ?Nossa casa está condenada?: o recurso à técnica como o modo de gerir populações no Rio de Janeiro",
+        "ano": "2018",
+        "autores": "MAGALHÃES, A",
+        "revista": "R@U : REVISTA DE ANTROPOLOGIA SOCIAL DOS ALUNOS DO PPGAS-UFSCAR",
+        "volume": "10",
+        "numero": "",
+        "paginas": "257-274",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2018 MAGALHÃES, A. . 'O trator passará em cima de sua casa de qualquer maneira': os mecanismos de gestão populacional agenciados nos processos de remoção de favelas no Rio de Janeiro",
+        "ano": "2018",
+        "autores": "MAGALHÃES, A",
+        "revista": "PONTO URBE",
+        "volume": "22",
+        "numero": "",
+        "paginas": "1-17",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2017 MAGALHÃES, A. . Críticas e Denúncias: A Configuração da Ação Coletiva contra a Remoção de Favelas do Rio de Janeiro",
+        "ano": "2017",
+        "autores": "MAGALHÃES, A",
+        "revista": "DADOS-REVISTA DE CIENCIAS SOCIAIS",
+        "volume": "60",
+        "numero": "",
+        "paginas": "209-238",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2017 MAGALHÃES, A. . 'Logique d'intervention' et circulation: éradiquer les favelas pour gérer l?espace urbain dans le Rio olympique",
+        "ano": "2017",
+        "autores": "MAGALHÃES, A",
+        "revista": "PROBLÈMES D'AMÉRIQUE LATINE",
+        "volume": "103",
+        "numero": "",
+        "paginas": "79-93",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2016 MAGALHÃES, A. . ?A remoção foi satanizada, mas não deveria?: o retorno da remoção como forma de intervenção estatal nas favelas do Rio de Janeiro",
+        "ano": "2016",
+        "autores": "MAGALHÃES, A",
+        "revista": "Dilemas: Revista de Estudos de Conflito e Controle Social",
+        "volume": "9",
+        "numero": "",
+        "paginas": "293-315",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2015 MAGALHÃES, A. . Uma análise de conjuntura desde baixo: o que conecta as remoções de favelas, o neodesenvolvimentismo e a operação ?Lava-Jato??",
+        "ano": "2015",
+        "autores": "MAGALHÃES, A",
+        "revista": "Relatório do Observatório dos Países de Língua Oficial Portuguesa",
+        "volume": "1",
+        "numero": "",
+        "paginas": "5",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2013 MAGALHÃES, A. . O 'legado' dos megaeventos esportivos: a reatualização da remoção de favelas no Rio de Janeiro. HORIZONTES ANTROPOLÓGICOS (UFRGS",
+        "ano": "2013",
+        "autores": "MAGALHÃES, A",
+        "revista": "IMPRESSO)",
+        "volume": "19",
+        "numero": "",
+        "paginas": "89-118",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2013 MAGALHÃES, A. . A Ação Coletiva Enquanto Processo de Codefinição e Codomínio de Situações Problemáticas: Os Limites e Possibilidades do Pragmatismo Francês",
+        "ano": "2013",
+        "autores": "MAGALHÃES, A",
+        "revista": "MEDIAÇÕES - REVISTA DE CIÊNCIAS SOCIAIS",
+        "volume": "18",
+        "numero": "",
+        "paginas": "172",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2012 MAGALHÃES, A. . A gramática da ordem na cidade: a reatualização da remoção de favelas no Rio de Janeiro. e-metropolis: Revista eletrônica de Estudos Urbanos e Regionais , v",
+        "ano": "2012",
+        "autores": "2 MAGALHÃES, A",
+        "revista": "n° 8",
+        "volume": "",
+        "numero": "",
+        "paginas": "44-51",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2012 MAGALHÃES, A. . Entre o legal e o extralegal: a reatualização da remoção de favelas no Rio de Janeiro",
+        "ano": "2012",
+        "autores": "1 MAGALHÃES, A",
+        "revista": "Revista Brasileira de Estudos Urbanos e Regionais (ANPUR)",
+        "volume": "14",
+        "numero": "",
+        "paginas": "119",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2010 MAGALHÃES, A. . Transversalidade da ação coletiva: a experiência em redes como possibilidade de crítica e publicização",
+        "ano": "2010",
+        "autores": "3 MAGALHÃES, A",
+        "revista": "Política & Sociedade (Impresso)",
+        "volume": "9",
+        "numero": "",
+        "paginas": "289-323",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2007 MAGALHÃES, A. . A campanha contra o \"caveirão\" no Rio de Janeiro",
+        "ano": "2007",
+        "autores": "4 MAGALHÃES, A",
+        "revista": "Estudos e Pesquisas em Psicologia (Online)",
+        "volume": "7",
+        "numero": "",
+        "paginas": "169-176",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "MEDEIROS, B. S. P. F. (Org.) ;",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "MAGALHÃES, A.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "MAGALHÃES, A.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "MAGALHÃES, A.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "MAGALHÃES, A.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MEDEIROS, B. S. P. F. ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MAGALHÃES, A.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MAGALHÃES, A.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MAGALHÃES, A.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MAGALHÃES, A.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MAGALHÃES, A.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MAGALHÃES, A.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MAGALHÃES, A.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MAGALHÃES, A.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MAGALHÃES, A.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      }
+    ],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": [],
+  "patentes_registros": [],
+  "producao_artistica": [],
+  "orientacoes": {
+    "orientacoes_concluidas": [
+      {
+        "tipo_orientacao": "",
+        "titulo": "Thais Pereira Santos. Entre a violência infraestrutural e a produção da vida: saneamento, racialidade e precarização na comunidade Bom Jesus em Porto Alegre.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul, . Orientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Barbara Gabriela Santos Oliveira. A Gramática Cartográfica do desastre: a gestão burocrática da precariedade e o apagamento das comunidades quilombolas no Rio Grande do Sul.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul, . Orientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Amanda Porto de Porto. Experiências de remoções de pessoas em situação de rua em Porto Alegre/RS: Abjeção, necropolítica e movimento como dispositivos de poder.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul, . Orientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Karolline da Silva Silveira. Quando quem mata é a polícia: enquadramentos midiáticos da letalidade policial no Jornal Zero Hora.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul, . Orientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Edson Linhares da Silva. O \"R.A.P enC.I.N.A: Revolusom Através de Palavras - Conhecimento, Identidade, Negritude e Antirracismo.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Luís Gustavo Ruwer da Silva. Por um mundo onde caibam muitos morros: Reflexões ontológicas desde o Morro Santana, Porto Alegre (RS.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Vitor Martins Ferreira. Tecnologias microeletronicas e socializacao: efeitos da utilizacao de aparelhos celulares na experiência escolar.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Carolina Martins dos Santos. O governo de corpos negros e a postergação da morte: técnicas de fazer saúde no interior de uma cadeia.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul, . Orientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Vatusi de Paula Silva. Interseccionalidade: inovação e tradição unidas em um conceito.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Ciências Sociais) - Pontifícia Universidade Católica do Rio de Janeiro, . Coorientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Tainá Paula Alvarenga. Trajetórias de vida: análise sobre os moradores reassentados num condomínio da Zona Oeste da cidade do Rio de Janeiro.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Planejamento Urbano e Regional) - Universidade Federal do Rio de Janeiro, . Coorientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Pedro D´Angelo da Costa. Luta por direitos no processo de remoção na favela Metrô-Mangueira.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Direito) - Universidade Federal do Rio de Janeiro, . Coorientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Gabriel Saboia.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Monografia. (Aperfeiçoamento/Especialização em Curso de Especialização em Sociologia Urbana) - Universidade do Estado do Rio de Janeiro. Orientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Karla Regina Coutinho.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Monografia. (Aperfeiçoamento/Especialização em Curso de Especialização em Sociologia Urbana) - Universidade do Estado do Rio de Janeiro. Orientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Camilla Santos do Traco.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Monografia. (Aperfeiçoamento/Especialização em Curso de Especialização em Sociologia Urbana) - Universidade do Estado do Rio de Janeiro. Orientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Renan Antunes.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Monografia. (Aperfeiçoamento/Especialização em Curso de Especialização em Sociologia Urbana) - Universidade do Estado do Rio de Janeiro. Orientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "William Bueno Rebouças.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Monografia. (Aperfeiçoamento/Especialização em Curso de Especialização em Sociologia Urbana) - Universidade do Estado do Rio de Janeiro. Orientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Tainá de Paula Alvarenga.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Monografia. (Aperfeiçoamento/Especialização em Curso de Especialização em Sociologia Urbana) - Universidade do Estado do Rio de Janeiro. Orientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Nathália de Araújo Azevedo.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Monografia. (Aperfeiçoamento/Especialização em Curso de Especialização em Sociologia Urbana) - Universidade do Estado do Rio de Janeiro. Orientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Marina Cristina dos Santos Brum.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Trabalho de Conclusão de Curso. (Graduação em Políticas Públicas) - Universidade Federal do Rio Grande do Sul. Orientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Julia Kras Soares do Amaral.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Trabalho de Conclusão de Curso. (Graduação em Ciências Sociais) - Universidade Federal do Rio Grande do Sul. Orientador: Alexandre Almeida de Magalhães.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Juliana L",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      }
+    ],
+    "orientacoes_em_andamento": []
+  },
+  "eventos": [],
+  "bancas": [
+    {
+      "descricao": "MAGALHÃES, A."
+    },
+    {
+      "descricao": "Associação Nacional de Pós-Graduação e Pesquisa em Ciências Sociais."
+    },
+    {
+      "descricao": "MAGALHÃES, A."
+    },
+    {
+      "descricao": "Universidade Federal do Estado do Rio de Janeiro."
+    },
+    {
+      "descricao": "FLEURY, L. C.;"
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "MAGALHÃES, A."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "MAGALHÃES, A."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "TEIXEIRA, A. N.;"
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "MAGALHÃES, A."
+    },
+    {
+      "descricao": "Universidade de São Paulo."
+    },
+    {
+      "descricao": "MAGALHÃES, A."
+    },
+    {
+      "descricao": "Associação Nacional de Pós-Graduação e Pesquisa em Ciências Sociais."
+    },
+    {
+      "descricao": "MAGALHÃES, A."
+    },
+    {
+      "descricao": "Pontifícia Universidade Católica do Rio Grande do Sul."
+    },
+    {
+      "descricao": "MAGALHÃES, A."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "MAGALHÃES, A."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "MAGALHÃES, A."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "MAGALHÃES, A."
+    },
+    {
+      "descricao": "Universidade do Estado d"
+    }
+  ],
+  "estatisticas": {
+    "total_artigos_periodicos": 25,
+    "total_livros": 4,
+    "total_capitulos": 11,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 41,
+    "total_orientacoes_andamento": 0
+  },
+  "_doutorado": false,
+  "_pos_doutorado": false
+}

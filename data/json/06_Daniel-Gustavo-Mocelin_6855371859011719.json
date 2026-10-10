@@ -1,0 +1,684 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "6855371859011719",
+    "nome_completo": "Daniel Gustavo Mocelin",
+    "nome_citacoes": "",
+    "sexo": "",
+    "rotulo": "",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "",
+    "url": "http://lattes.cnpq.br/6855371859011719",
+    "texto_resumo": ""
+  },
+  "formacao_academica": [],
+  "atuacao_profissional": [],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Econômica.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Econômica."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia do Trabalho.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia do Trabalho."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Fundamentos da Sociologia.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Fundamentos da Sociologia."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Metodologia da Pesquisa Sociológ",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Metodologia da Pesquisa Sociológ"
+    }
+  ],
+  "idiomas": [],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Redução da jornada de trabalho: em nome da quantidade ou da qualidade do emprego?",
+        "ano": "2009",
+        "autores": "MOCELIN, Daniel Gustavo 2009 MOCELIN, Daniel Gustavo",
+        "revista": "Revista Simpe-RS",
+        "volume": "2",
+        "numero": "",
+        "paginas": "71-94",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Redução da jornada de trabalho e qualidade dos empregos: entre o discurso, a teoria e a realidade. Revista de Sociologia e Política (UFPR",
+        "ano": "2011",
+        "autores": "Mocelin, Daniel Gustavo 2011 Mocelin, Daniel Gustavo",
+        "revista": "Impresso)",
+        "volume": "19",
+        "numero": "",
+        "paginas": "101-119",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "O Ensino da Disciplina de Sociologia no Brasil: Diagnóstico e Desafios para a Formação de Professores",
+        "ano": "2017",
+        "autores": "RAIZER, Leandro 2017 RAIZER, Leandro ; CAREGNATO, Célia Elizabete ; MOCELIN, Daniel Gustavo ; PEREIRA, Thiago Ingrassia",
+        "revista": "Revista Espaço Acadêmico (UEM)",
+        "volume": "16",
+        "numero": "",
+        "paginas": "15-26",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FORMAS ELEMENTARES DO TRABALHO SOCIOLÓGICO",
+        "ano": "2025",
+        "autores": "MOCELIN, Daniel Gustavo 2025 MOCELIN, Daniel Gustavo",
+        "revista": "CONTEMPORÂNEA - REVISTA DE ÉTICA E FILOSOFIA POLÍTICA",
+        "volume": "5",
+        "numero": "",
+        "paginas": "",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "GEHLEN, Ivaldo",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "GONCALVES, Danyelle Nilin. (Org.) ;",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "MEIRELLES, Mauro (Org.) ;",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "MEIRELLES, Mauro (Org.) ;",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "MEIRELLES, Mauro (Org.) ;",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "MEIRELLES, Mauro (Org.) ;",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "MEIRELLES, Mauro (Org.) ;",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "MEIRELLES, Mauro (Org.) ;",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "PEREIRA, Thiago Ingrassia (Org.) ; MEIRELLES, Mauro (Org.) ;",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "MEIRELLES, Mauro (Org.) ;",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "GEHLEN, Ivaldo",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MEIRELLES, Mauro ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "RUSCHEINSKY, Aloisio ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "RAIZER, Leandro",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "GUIMARÃES, Sônia Maria Karam",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "GUIMARÃES, Sônia Maria Karam",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "GUIMARÃES, Sônia Maria Karam",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "GUIMARÃES, Sônia Maria Karam",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "KIELING, Francisco dos Santos",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MOCELIN, Daniel Gustavo",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      }
+    ],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": [],
+  "patentes_registros": [],
+  "producao_artistica": [],
+  "orientacoes": {
+    "orientacoes_concluidas": [
+      {
+        "tipo_orientacao": "",
+        "titulo": "Aline Stumpf. Entre a oportunidade e o contexto: experiências de ensino de Sociologia na aplicação dos Temas Contemporâneos Transversais nos anos finais do Ensino Fundamental.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul, . Orientador: Daniel Gustavo Mocelin.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Leonel Antonio Mattjie Neto. Professores em plataformas digitais: novas dinâmicas do trabalho docente no Brasil.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul, . Orientador: Daniel Gustavo Mocelin.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Eduarda Marina Wiedemann. O empreendedorismo na BNCC e as singularidades do social: uma análise da percepção dos pais d",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      }
+    ],
+    "orientacoes_em_andamento": []
+  },
+  "eventos": [],
+  "bancas": [
+    {
+      "descricao": "MOCELIN, Daniel Gustavo"
+    }
+  ],
+  "estatisticas": {
+    "total_artigos_periodicos": 4,
+    "total_livros": 13,
+    "total_capitulos": 33,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 5,
+    "total_orientacoes_andamento": 0
+  },
+  "_doutorado": false,
+  "_pos_doutorado": false
+}

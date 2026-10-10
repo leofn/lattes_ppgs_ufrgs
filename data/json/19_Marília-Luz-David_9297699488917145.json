@@ -1,0 +1,401 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "9297699488917145",
+    "nome_completo": "Marília Luz David",
+    "nome_citacoes": "",
+    "sexo": "",
+    "rotulo": "",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "",
+    "url": "http://lattes.cnpq.br/9297699488917145",
+    "texto_resumo": ""
+  },
+  "formacao_academica": [],
+  "atuacao_profissional": [],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: sociologia ambiental.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: sociologia ambiental."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Rural.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Rural."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: estudos sociais da ciência e da tecnologia.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: estudos sociais da ciência e da tecnologia."
+    }
+  ],
+  "idiomas": [],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "L. 2018 DAVID, M. L. ; GUIVANT, J. S. . Uma abordagem sociológica das certificações: o caso do Selo de Aprovação SBC",
+        "ano": "2018",
+        "autores": "DAVID, M",
+        "revista": "REVISTA BRASILEIRA DE CIÊNCIAS SOCIAIS (ONLINE)",
+        "volume": "33",
+        "numero": "",
+        "paginas": "11",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "L. 2022 DAVID, M. L. ; PREMEBIDA, A. ; FLEURY, L. C. ; ALMEIDA, J. . A Sociologia da Ciência e da Tecnologia no Brasil: uma análise a partir da produção em periódicos A1 entre 2010 e 2018",
+        "ano": "2022",
+        "autores": "DAVID, M",
+        "revista": "REVISTA SOCIEDADE E ESTADO",
+        "volume": "37",
+        "numero": "",
+        "paginas": "1-30",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2022 ALMEIDA, J. ; DAVID, M. L. ; FLEURY, L. C. ; CAMANA, Ângela ; PRATES, C. ; COELHO, Gabriel . Em favor das associações: uma homenagem à sociologia de Bruno Latour (1947-2022)",
+        "ano": "2022",
+        "autores": "ALMEIDA, J",
+        "revista": "Sociologias (UFRGS)",
+        "volume": "24",
+        "numero": "",
+        "paginas": "142-168",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "",
+        "ano": "",
+        "autores": "",
+        "revista": "",
+        "volume": "",
+        "numero": "",
+        "paginas": "",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "COELHO, Gabriel (Org.) ;",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "Schubert, Maycon (Org.) ;",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "DUARTE, Vitória G. ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "DAVID, M. L.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "DUARTE, Vitória G. ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "DAVID, Marília Luz",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "DAVID, M. L.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "DAVID, M. L.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "DAVID, M. L.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      }
+    ],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": [],
+  "patentes_registros": [],
+  "producao_artistica": [],
+  "orientacoes": {
+    "orientacoes_concluidas": [
+      {
+        "tipo_orientacao": "",
+        "titulo": "Paula Mariani de Andrade. Os ?Rio Grande do Sul do futuro?: uma análise de imaginários sociotécnicos na reconstrução do estado pós-desastre de 2024.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul, . Orientador: Marília Luz David.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Vitória Giovana Duarte. Práticas e questões alimentares nos territórios: os arranjos de ativismo alimentar periféricos de coletivos da cidade de Porto Alegre, Rio Grande do Sul.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Marília Luz David.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Jéssica Maria Dias de Souza. A formação de docentes do ensino superior: uma análise de professores de universidades federais na região Sul do Brasil.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul, . Orientador: Marília Luz David.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Eleandra Raquel da Silva Koch.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Tese",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Priscila Fernanda Prado Beltrán.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Tese",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Marina Alves.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Trabalho de Conclusão de Curso. (Graduação em Ciências Sociais) - Universidade Federal do Rio Grande do Sul. Orientador: Marília Luz David.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Lucas Ângelo de Fraga Oliveira.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Trabalho de Conclusão de Curso. (Graduação em Ciências Sociais) - Universidade Federal do Rio Grande do Sul. Orientador: Marília Luz David.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Paula Mariani de Andrade.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      }
+    ],
+    "orientacoes_em_andamento": []
+  },
+  "eventos": [],
+  "bancas": [
+    {
+      "descricao": "DAVID, M. L."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "DAVID, Marília Luz"
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "MAGALHÃES, Alexandre;"
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "DAVID, Marília Luz"
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "DAVID, M. L."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "DAVID, M. L."
+    },
+    {
+      "descricao": "Universidade Federal do Rio G"
+    }
+  ],
+  "estatisticas": {
+    "total_artigos_periodicos": 4,
+    "total_livros": 2,
+    "total_capitulos": 7,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 15,
+    "total_orientacoes_andamento": 0
+  },
+  "_doutorado": false,
+  "_pos_doutorado": false
+}

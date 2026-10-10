@@ -1,0 +1,781 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "6786214333053144",
+    "nome_completo": "Luciana Garcia de Mello",
+    "nome_citacoes": "",
+    "sexo": "",
+    "rotulo": "",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "",
+    "url": "http://lattes.cnpq.br/6786214333053144",
+    "texto_resumo": ""
+  },
+  "formacao_academica": [],
+  "atuacao_profissional": [],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia das Relações Raciais.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia das Relações Raciais."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Ciência Política / Subárea: Políticas Públicas.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Ciência Política / Subárea: Políticas Públicas."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia do Trabalho.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia do Trabalho."
+    }
+  ],
+  "idiomas": [],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "2019 MELLO, Luciana G. ; XAVIER, Luany B. . Titulação Quilombola como instrumento de políticas públicas",
+        "ano": "2019",
+        "autores": "MELLO, Luciana G",
+        "revista": "REVISTA LITERATURA EM DEBATE",
+        "volume": "13",
+        "numero": "",
+        "paginas": "47-57",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "",
+        "ano": "2024",
+        "autores": "",
+        "revista": "",
+        "volume": "",
+        "numero": "",
+        "paginas": "",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "",
+        "ano": "2025",
+        "autores": "",
+        "revista": "",
+        "volume": "",
+        "numero": "",
+        "paginas": "",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "",
+        "ano": "2020",
+        "autores": "",
+        "revista": "",
+        "volume": "",
+        "numero": "",
+        "paginas": "",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "",
+        "ano": "2026",
+        "autores": "",
+        "revista": "",
+        "volume": "",
+        "numero": "",
+        "paginas": "",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "MELLO, LUCIANA",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "MELLO, Luciana G.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "MELLO, Luciana G.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "ALMEIDA, Marilis L. (Org.) ; SPOLLE, Marcus V. (Org.) ; OLIVEIRA, M. B. (Org.) ;",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "DAMION, Daniela (Org.) ; FOGLIATTO, Débora (Org.) ; SCAPINI, Gabriela (Org.) ; FOLA, Nina (Org.) ; MARX, Vanessa (Org.) ;",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "SPOLLE, Marcus V. (Org.) ;",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "MELLO, Luciana G.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MELLO, Luciana G.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MELLO, Luciana G.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MELLO, Luciana G.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MELLO, Luciana G.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MELLO, Luciana G.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MELLO, Luciana G.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MELLO, Luciana G.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MELLO, Luciana G.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MELLO, Luciana G.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MELLO, Luciana G.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      }
+    ],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": [],
+  "patentes_registros": [],
+  "producao_artistica": [],
+  "orientacoes": {
+    "orientacoes_concluidas": [
+      {
+        "tipo_orientacao": "",
+        "titulo": "Carina Kunze da Rosa. Relações de trabalho e emprego em coletivos de jornalistas autônomos.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, . Orientador: Luciana Garcia de Mello.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Aparício Marques Vieira. Idas e vindas: as experiências e os sentidos atribuídos ao desemprego pelos jovens de Guiné-Bissau.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Luciana Garcia de Mello.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Elen Cristina Ramos dos Santos. Lélia Gonzalez, intelectual amefricana: a (in)visibilidade de uma intérprete negra no pensamento social brasileiro.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Luciana Garcia d",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Henrique da Rosa Muller. O lugar do negro no trabalho informal.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Luciana Garcia d",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Rebecca Bernard. Superando estigmas,construindo resistências: a inserçao e a permanencia dos alunos haitianos nas escolas de Porto Alegre.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Luciana Garcia d",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "João Pedro da Silva Araújo. A presença das mulheres negras nos cultos neopentecostais.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Luciana Garcia d",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Débora Coward Fogliatto. Padrões de gênero e migrações internacionais.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Luciana Garcia d",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dinamara da Silva Prates. Empreender e resistir: trajetória de mulheres negras empreendoras no RS.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul, . Orientador: Luciana Garcia de Mello.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Andressa Teixeira das Neves. Vozes no silêncio: homicídio de jovens negros em POA e sofrimento das que ficam.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Luciana Garcia d",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Wagner Lemes do Nascimento. O vesibular nunca acaba pra nós. Trajetória acadêmica de diplomados da UFRGS beneficiados pela política de cotas e sua inserção profissional.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Coorientador: Luciana Garc",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Thiago Prestes de Oliveira.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Tese",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Junara Nascentes Ferreira.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Tese",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dener Santos Silveira.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Universidade Federal do Rio Grande do Sul, . Luciana Garcia de Mello.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Bruno de Azambuja Silveira.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Monografia. (Aperfeiçoamento/Especialização em O Ensino da sociologia para professores do ensino médio - EAD) - Universidade Federal do Rio Grande do Sul. Orientador: Luciana Garcia de Mello.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Mario Alex Duarte de Candido.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Monografia. (Aperfeiçoamento/Especialização em O Ensino da sociologia para professores do ensino médio - EAD) - Universidade Federal do Rio Grande do Sul. Orientador: Luciana Garcia de Mello.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Eduardo Braga de Souza.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Monografia. (Aperfeiçoamento/Especialização em O Ensino da sociologia para professores do ensino médio - EAD) - Universidade Federal do Rio Grande do Sul. Orientador: Luciana Garcia de Mello.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Juliano Luiz Baumgarten.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Monografia. (Aperfeiçoamento/Especialização em O Ensino da sociologia para professores do ensino médio - EAD) - Universidade Federal do Rio Grande do Sul. Orientador: Luciana Garcia de Mello.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Nadir Pires de Matos.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Monografia. (Aperfeiçoamento/Especialização em O Ensino da sociologia para professores do ensino médio - EAD) - Universidade Federal do Rio Grande do Sul. Orientador: Luciana Garcia de Mello.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Cassio Michel dos Santos Camargo.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Monografia. (Aperfeiçoamento/Especialização em O Ensino da sociologia para professores do ensino médio - EAD) - Universidade Federal do Rio Grande do Sul. Orientador: Luciana Garcia de Mello.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Fabrício Meneghini.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Monografia. (Aperfeiçoamento/Especialização em O Ensino da sociologia para professores do ensino médio - EAD) - Universidade Federal do Rio Grande do Sul. Orientador: Luciana Garcia de Mello.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "João Adolfo de Souza Guerreiro.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Monografia. (Aperfeiçoamento/Especialização em O Ensino da sociologia para professores do ensino médio - EAD) - Universidade Federal do Rio Grande do Sul. Orientador: Luciana Garcia de Mello.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Eva Loreni Fernandes.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Monografia. (Aperfeiçoamento/Especialização em O Ensino da sociologia para professores do ensino médio - EAD) - Universidade Federal do Rio Grande do Sul. Orientador: Luciana Garcia de Mello.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Paulo César Goulart de Quadros.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      }
+    ],
+    "orientacoes_em_andamento": []
+  },
+  "eventos": [],
+  "bancas": [
+    {
+      "descricao": "ALONSO, Angela; FREIRE-MEDEIROS, Bianca; FIGUEIREDO, Angela; MEDEIROS, Mário A.;"
+    },
+    {
+      "descricao": "Universidade de São Paulo."
+    },
+    {
+      "descricao": "BORGES, Jamile;"
+    },
+    {
+      "descricao": "Universidade Federal da Bahia."
+    },
+    {
+      "descricao": "FLEURY, Lorena C.;"
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "MELLO, Luciana G."
+    },
+    {
+      "descricao": "Sociedade Brasileira de Sociologia."
+    },
+    {
+      "descricao": "MELLO, Luciana G."
+    },
+    {
+      "descricao": "Associação Nacional de Pós-Graduação e Pesquisa em Ciências Sociais."
+    },
+    {
+      "descricao": "MELLO, Luciana G."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "MELLO, Luciana G."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "MELLO, Luciana G."
+    },
+    {
+      "descricao": "Sociedade Brasileira de Sociologia."
+    },
+    {
+      "descricao": "MELLO, Luciana G."
+    },
+    {
+      "descricao": "Associação Nacional de Pós-Graduação e Pesquisa em Ciências Sociais."
+    },
+    {
+      "descricao": "MELLO, Luciana G."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "MELLO, Luciana G."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "MELLO, Luciana G."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "MELLO, Luciana G."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "MELLO, Luciana G."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "MELLO, Luciana G."
+    }
+  ],
+  "estatisticas": {
+    "total_artigos_periodicos": 5,
+    "total_livros": 6,
+    "total_capitulos": 11,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 45,
+    "total_orientacoes_andamento": 0
+  },
+  "_doutorado": false,
+  "_pos_doutorado": false
+}

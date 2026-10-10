@@ -1,0 +1,1312 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "2880900997835659",
+    "nome_completo": "Luciano Joel Fedozzi",
+    "nome_citacoes": "",
+    "sexo": "",
+    "rotulo": "",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "",
+    "url": "http://lattes.cnpq.br/2880900997835659",
+    "texto_resumo": ""
+  },
+  "formacao_academica": [],
+  "atuacao_profissional": [],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Política.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Política."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Urbana.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Urbana."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Política/Especialidade: Participação.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Política/Especialidade: Participação."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: associativismo.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: associativismo."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Gestão Pública.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Gestão Pública."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Cidadania.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Cidadania."
+    }
+  ],
+  "idiomas": [],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Democratização e desdemocratização na metrópole de Porto Alegre: três décadas do Orçamento Participativo",
+        "ano": "2024",
+        "autores": "MÜLLER, IVAN DANIEL 2024 MÜLLER, IVAN DANIEL ; FEDOZZI, LUCIANO",
+        "revista": "OPINIÃO PÚBLICA",
+        "volume": "30",
+        "numero": "",
+        "paginas": "01-36",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "J. . Justiça restaurativa e reconhecimento",
+        "ano": "2022",
+        "autores": "Marcos Rolim 2022 Marcos Rolim ; FEDOZZI, L",
+        "revista": "Contemporanea",
+        "volume": "12",
+        "numero": "",
+        "paginas": "373-394",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Uma sociologia das políticas de waterfront regeneration no Brasil: análise de três casos emblemáticos",
+        "ano": "2021",
+        "autores": "FEDOZZI, LUCIANO 2021 FEDOZZI, LUCIANO ; VIVIAN, MARIANA",
+        "revista": "Sociedade e Estado",
+        "volume": "36",
+        "numero": "",
+        "paginas": "719-743",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Orçamentos Participativos: variáveis explicativas e novos cenários que desafiam a sua implementação",
+        "ano": "2020",
+        "autores": "FEDOZZI, LUCIANO 2020 FEDOZZI, LUCIANO ; RAMOS, MARILIA PATTA ; GONÇALVES, FERNANDO GONÇALVES DE",
+        "revista": "Revista de Sociologia e Política",
+        "volume": "28",
+        "numero": "",
+        "paginas": "1-20",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "The Porto Alegre Metropolitan Area",
+        "ano": "2016",
+        "autores": "FEDOZZI, LUCIANO 2016 FEDOZZI, LUCIANO ; SOARES, PAULO ROBERTO RODRIGUES",
+        "revista": "disP",
+        "volume": "52",
+        "numero": "",
+        "paginas": "53-61",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Porto Alegre e sua região metropolitana no contexto das contradições da metropolização brasileira contemporânea",
+        "ano": "2016",
+        "autores": "SOARES, PAULO ROBERTO RODRIGUES 2016 SOARES, PAULO ROBERTO RODRIGUES ; FEDOZZI, LUCIANO JOEL",
+        "revista": "Sociologias (UFRGS)",
+        "volume": "18",
+        "numero": "",
+        "paginas": "162-197",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2015 FEDOZZI, Luciano. ; MARTINS, A. L. B. . Trajetória do orçamento participativo de Porto Alegre: representação e elitização política",
+        "ano": "2015",
+        "autores": "FEDOZZI, Luciano",
+        "revista": "Lua Nova (Impresso)",
+        "volume": "1",
+        "numero": "",
+        "paginas": "181-224",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Participação, cultura política e cidades. Sociologias (UFRGS",
+        "ano": "2012",
+        "autores": "FEDOZZI, LUCIANO 2012 FEDOZZI, LUCIANO ; MARTINS, ANDRÉ LUIS BORGES ; NOGUEIRA, FERNANDO ; CORRÊA, GILSON PIANTA CÉSAR ; PONTES, JOÃO ; CRUZ, Milton ; BORBA, SHEILA",
+        "revista": "Impresso)",
+        "volume": "14",
+        "numero": "",
+        "paginas": "14-44",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "J. 2009 FEDOZZI, L. J. . Orçamento Participativo de Porto Alegre. Gênese, avanços e limites de uma idéia que se globaliza",
+        "ano": "2009",
+        "autores": "FEDOZZI, L",
+        "revista": "Cidades Comunidades e Territórios",
+        "volume": "18",
+        "numero": "",
+        "paginas": "41-57",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "J. 2009 FEDOZZI, L. J. . Cultura política e Orçamento Participativo",
+        "ano": "2009",
+        "autores": "FEDOZZI, L",
+        "revista": "Cadernos Metrópole (PUCSP)",
+        "volume": "11",
+        "numero": "",
+        "paginas": "385-414",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "J. 2001 FEDOZZI, L. J. . Práticas Inovadoras de Gestão Urbana: o paradigma participativo. Revista Paranaense de Desenvolvimento , Curitiba, v",
+        "ano": "2001",
+        "autores": "FEDOZZI, L",
+        "revista": "100",
+        "volume": "100",
+        "numero": "",
+        "paginas": "91-105",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "J",
+        "ano": "1998",
+        "autores": "FEDOZZI, L",
+        "revista": "1",
+        "volume": "1",
+        "numero": "",
+        "paginas": "1-22",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "J",
+        "ano": "1998",
+        "autores": "FEDOZZI, L",
+        "revista": "19",
+        "volume": "19",
+        "numero": "",
+        "paginas": "236-271",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "J",
+        "ano": "1997",
+        "autores": "FEDOZZI, L",
+        "revista": "1",
+        "volume": "1",
+        "numero": "",
+        "paginas": "98-114",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "J. 1994 FEDOZZI, L. J. . Poder Local e Governabilidade: o caso de Porto Alegre. FASE/RJ.. Revista Proposta (Rio de Janeiro), Rio de Janeiro, v",
+        "ano": "1994",
+        "autores": "FEDOZZI, L",
+        "revista": "62",
+        "volume": "62",
+        "numero": "",
+        "paginas": "23-29",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "J. 1993 FEDOZZI, L. J. ; PRATES, C. ; PEREIRA, S. . Reforma Urbana e Democratização em Porto Alegre. A Reforma Urbana, Porto Alegre, v",
+        "ano": "1993",
+        "autores": "FEDOZZI, L",
+        "revista": "Único",
+        "volume": "",
+        "numero": "",
+        "paginas": "21-40",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "FEDOZZI, Luciano.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "FEDOZZI, LUCIANO.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "FEDOZZI, Luciano.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "FEDOZZI, Luciano.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "FEDOZZI, Luciano.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "FEDOZZI, L. J.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "FEDOZZI, L. J.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "FEDOZZI, L. J.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "FEDOZZI, L. J.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "FEDOZZI, Luciano.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MULLER, Ivan ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, Luciano.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, LUCIANO.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, LUCIANO.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "MARX, V. ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, Luciano.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, Luciano.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, LUCIANO",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, L. J.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, Luciano.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "ESPINDULA, B. ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "LIMA, Priscila. G. ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Milton Cruz ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, Luciano.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, Luciano.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, LUCIANO.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, Luciano.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, Luciano.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, LUCIANO",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, Luciano.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, Luciano.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, L. J.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, L. J.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, L. J.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, L. J.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, L. J.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, L. J.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, L. J.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, L. J.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, L. J.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, L. J.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "FEDOZZI, L. J.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      }
+    ],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": [],
+  "patentes_registros": [],
+  "producao_artistica": [],
+  "orientacoes": {
+    "orientacoes_concluidas": [
+      {
+        "tipo_orientacao": "",
+        "titulo": "Brenda de Fraga Epíndula. As interfaces socioestatais proporcionadas por uma iniciativa de participação digital: uma análise da wikicidade Porto Alegre.cc.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Luciano Joel Fed",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Fernando Somões Nogueira. A transformação das formas de engajamento associativo no contexto da institucionalização do orçamento participativo de Porto Alegre.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Luciano Joel Fed",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Janaína Ruviario da Silva. A VULNERABILIDADE SOCIAL COMO DESAFIO INCLUSIVO DA DEMOCRACIA PARTICIPATIVA: UM ESTUDO SOBRE O ORÇAMENTO PARTICIPATIVO DE PORTO ALEGRE.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Luciano Joel Fed",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "André Aloísio Mombach. As \"novas\" dinâmicas dos \"velhos\" personagens na cena da ação coletiva transnacional: um estudo da Confederação Sindical dos Trabalhadores das Américas.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, . Orientador: Luciano Joel Fedozzi.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Diego Monte Blanco. À luz do dia, nem todos os gatos são pardos: percepções de jovens sobre os limites e possibilidades do Pro-Jovem Urbano.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Luciano Joel Fed",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Maira Graciela Daniel. Dilemas da construção do espaço público e seus vínculos com os fluxos comunicativos prmários: a experiência da rádio comunitária do bairro Restinga.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Luciano Joel F",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Ana Paula Antunes Martins. AS POSIÇÕES POLÍTICAS E IDEOLÓGICAS DA ASSOCIAÇÃO DOS JUÍZES DO RIO GRANDE DO SUL: as lutas por definição no contexto das reformas do Estado.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Luciano Joel Fedozzi.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Letícia Núñez Almeida. Tolerância zero ou nova prevenção : a experiência da política de segurança pública do município de Porto Alegre.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, . Orientador: Luciano Joel Fedozzi.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Ivan Daniel Muller.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Tese",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Alejandro Lezcano Schwarzkopf.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Tese",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Gilson César Pianta Corrêa.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Tese",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Marcos Caprio da Fonseca.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Tese",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Daniel Guerrini.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Tese",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Priscila Gualberto de Lima.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Tese",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Milton Cruz.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Tese",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Marcos Flavio Rolim.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Universidade Federal do Rio Grande do Sul, . Luciano Joel Fedozzi.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Lucas Hornos Rangel.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Trabalho de Conclusão de Curso. (Graduação em Ciências Sociais) - Universidade Federal do Rio Grande do Sul. Orientador: Luciano Joel Fedozzi.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Bruno Henrique Fanchin.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Trabalho de Conclusão de Curso. (Graduação em Ciências Sociais) - Universidade Federal do Rio Grande do Sul. Orientador: Luciano Joel Fedozzi.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "BIANCA FALLER CORREA.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Trabalho de Conclusão de Curso. (Graduação em Ciências Sociais) - Universidade Federal do Rio Grande do Sul. Orientador: Luciano Joel Fedozzi.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "André Luis Borges Martins.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Trabalho de Conclusão de Curso. (Graduação em Ciências Sociais) - Universidade Federal do Rio Grande do Sul. Orientador: Luciano Joel Fedozzi.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "JOAO PAULO PONTES E SILVA.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Trabalho de Conclusão de Curso. (Graduação em Ciências Sociais) - Universidade Federal do Rio Grande do Sul. Orientador: Luciano Joel Fedozzi.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Ricardo Machado de Brito.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Trabalho de Conclusão de Curso. (Graduação em Ciências Sociais) - Universidade Federal do Rio Grande do Sul. Orientador: Luciano Joel Fedozzi.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Clara Natalia Steigleder Walter.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Trabalho de Conclusão de Curso. (Graduação em Ciências Sociais) - Universidade Federal do Rio Grande do Sul. Orientador: Luciano Joel Fedozzi.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Maribel Vieira da Silva.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Trabalho de Conclusão de Curso. (Graduação em Ciências Sociais) - Universidade Federal do Rio Grande do Sul. Orientador: Luciano Joel Fedozzi.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Lucas Hornos Rangel.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Iniciação Científica. (Graduando em Ciências Sociais) - Universidade Federal do Rio Grande do Sul. Orientador: Luciano Joel Fedozzi.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Savyo Avila.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Iniciação Científica. (Graduando em Ciências Sociais) - Universidade Federal do Rio Grande do Sul. Orientador: Luciano Joel Fedozzi.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      }
+    ],
+    "orientacoes_em_andamento": []
+  },
+  "eventos": [],
+  "bancas": [
+    {
+      "descricao": "FEDOZZI, L. J."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "FEDOZZI, L. J."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "FEDOZZI, Luciano."
+    },
+    {
+      "descricao": "Universidade Estadual de Campinas."
+    },
+    {
+      "descricao": "FEDOZZI, LUCIANO"
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "FEDOZZI, Luciano."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "FEDOZZI, L. J."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "FEDOZZI, L. J."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "FEDOZZI, L. J."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "CATTANI, A. D.;"
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "FEDOZZI, LUCIANO."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "COTANDA, F. C.;"
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "COTANDA, F. C.;"
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "COTANDA, F. C.;"
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "COTANDA, F. C.;"
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "SANTOS, J. V. T.; BRUMER, A.;"
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "FEDOZZI, L. J."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "GEHLEN, I.; SILVA, M. K.;"
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "FEDOZZI, L. J."
+    },
+    {
+      "descricao": "16."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "FEDOZZI, L. J."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul."
+    },
+    {
+      "descricao": "FEDOZZI, L. J."
+    },
+    {
+      "descricao": "Universidade Federal do Rio Grande do Sul"
+    }
+  ],
+  "estatisticas": {
+    "total_artigos_periodicos": 16,
+    "total_livros": 9,
+    "total_capitulos": 33,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 52,
+    "total_orientacoes_andamento": 0
+  },
+  "_doutorado": false,
+  "_pos_doutorado": false
+}

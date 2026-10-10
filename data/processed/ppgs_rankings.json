@@ -1,68 +1,68 @@
 {
   "artigos": [
     {
-      "nome": "José Vicente Tavares dos Santos",
-      "val": 86
-    },
-    {
-      "nome": "Paulo Niederle",
-      "val": 67
+      "nome": "Paulo André Niederle",
+      "val": 102
     },
     {
       "nome": "Marcelo Kunrath Silva",
       "val": 56
     },
     {
-      "nome": "Guilherme F. W. Radomsky",
+      "nome": "Guilherme Francisco Waterloo Radomsky",
       "val": 53
     },
     {
       "nome": "Andrea Fachel Leal",
       "val": 51
+    },
+    {
+      "nome": "Marília Patta Ramos",
+      "val": 50
     }
   ],
   "projetos": [
     {
+      "nome": "Karl Martin Monsma",
+      "val": 460
+    },
+    {
+      "nome": "Sergio Schneider",
+      "val": 318
+    },
+    {
       "nome": "Marcelo Kunrath Silva",
-      "val": 123
-    },
-    {
-      "nome": "Karl Monsma",
-      "val": 7
-    },
-    {
-      "nome": "José Vicente Tavares dos Santos",
-      "val": 6
-    },
-    {
-      "nome": "Raquel Weiss",
-      "val": 6
+      "val": 309
     },
     {
       "nome": "Rochele Fellini Fachinetto",
-      "val": 6
+      "val": 61
+    },
+    {
+      "nome": "Jose Vicente Tavares dos Santos",
+      "val": 34
     }
   ],
   "orientacoes": [
     {
-      "nome": "Karl Monsma",
-      "val": 235
+      "nome": "Karl Martin Monsma",
+      "val": 284
     },
     {
       "nome": "Sergio Schneider",
-      "val": 232
+      "val": 256
     },
     {
-      "nome": "Paulo Niederle",
-      "val": 137
+      "nome": "José Carlos Gomes Dos Anjos",
+      "val": 161
+    },
+    {
+      "nome": "Paulo André Niederle",
+      "val": 132
     },
     {
       "nome": "Marcelo Kunrath Silva",
-      "val": 118
-    },
-    {
-      "nome": "Vanessa Marx",
-      "val": 111
+      "val": 113
     }
   ],
   "citacoes": [

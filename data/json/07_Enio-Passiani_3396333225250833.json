@@ -1,0 +1,954 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "3396333225250833",
+    "nome_completo": "Enio Passiani",
+    "nome_citacoes": "",
+    "sexo": "",
+    "rotulo": "",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "",
+    "url": "http://lattes.cnpq.br/3396333225250833",
+    "texto_resumo": ""
+  },
+  "formacao_academica": [],
+  "atuacao_profissional": [],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: sociologia da literatura.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: sociologia da literatura."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Outras Sociologias Específicas/Especialidade: sociologia da cultura.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Outras Sociologias Específicas/Especialidade: sociologia da cultura."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Outras Sociologias Específicas/Especialidade: sociologia da leitura.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Outras Sociologias Específicas/Especialidade: sociologia da leitura."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Outras Sociologias Específicas/Especialidade: sociologia da comunicação.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Outras Sociologias Específicas/Especialidade: sociologia da comunicação."
+    }
+  ],
+  "idiomas": [],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "T. C. . 'Leitura & Cultura: uma abordagem interdisciplinar': Entrevista com Roger Chartier. PLURAL (SÃO PAULO",
+        "ano": "1999",
+        "autores": "PASSIANI, Enio 1999 PASSIANI, Enio ; ROBERTO, A",
+        "revista": "ONLINE)",
+        "volume": "6",
+        "numero": "",
+        "paginas": "118",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Max Weber: um pensador da cultura",
+        "ano": "2008",
+        "autores": "PASSIANI, Enio 2008 PASSIANI, Enio",
+        "revista": "DIALOGIA",
+        "volume": "",
+        "numero": "",
+        "paginas": "47-55",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Na trilha do Jeca: Monteiro Lobato, o público leitor e a formação do campo literário no Brasil. SOCIOLOGIAS (UFRGS",
+        "ano": "2002",
+        "autores": "PASSIANI, Enio 2002 PASSIANI, Enio",
+        "revista": "IMPRESSO)",
+        "volume": "1",
+        "numero": "",
+        "paginas": "245-270",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Como nascem os clássicos (resenha)",
+        "ano": "2002",
+        "autores": "PASSIANI, Enio 2002 PASSIANI, Enio",
+        "revista": "Revista Brasileira de Ciências Sociais (Impresso)",
+        "volume": "17",
+        "numero": "",
+        "paginas": "174-176",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Imposturas intelectuais: A sociologia (auto) crítica de Pierre Bourdieu (resenha)",
+        "ano": "2006",
+        "autores": "PASSIANI, Enio 2006 PASSIANI, Enio",
+        "revista": "Novos Estudos CEBRAP (Impresso)",
+        "volume": "1",
+        "numero": "",
+        "paginas": "207-212",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Classes sociais",
+        "ano": "2006",
+        "autores": "PASSIANI, Enio 2006 PASSIANI, Enio",
+        "revista": "Sexta Feira (São Paulo)",
+        "volume": "1",
+        "numero": "",
+        "paginas": "219-224",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Por uma sociologia sensível às coisas miúdas (resenha)",
+        "ano": "2008",
+        "autores": "PASSIANI, Enio 2008 PASSIANI, Enio",
+        "revista": "Agitprop (São Paulo)",
+        "volume": "1",
+        "numero": "",
+        "paginas": "1-6",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "A construção da hegemonia: Monteiro Lobato, mercado editorial e campo literário no Brasil. Miscelânea (Assis",
+        "ano": "2009",
+        "autores": "PASSIANI, Enio 2009 PASSIANI, Enio",
+        "revista": "Online)",
+        "volume": "6",
+        "numero": "",
+        "paginas": "124-138",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2009 PASSIANI, E. . Afinidades seletivas: uma comparação entre as sociologias da literatura de Pierre Bourdieu e Raymond Williams",
+        "ano": "2009",
+        "autores": "PASSIANI, E",
+        "revista": "Estudos de Sociologia (São Paulo)",
+        "volume": "14",
+        "numero": "",
+        "paginas": "285-299",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "N. 2009 FROTA, W. N. ; PASSIANI, E. . Entre caminhos e fronteiras: a gênese do conceito de \\",
+        "ano": "2009",
+        "autores": "FROTA, W",
+        "revista": "Estudos de Literatura Brasileira Contemporânea",
+        "volume": "1",
+        "numero": "",
+        "paginas": "11-41",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Proceso de civilización en los trópicos: formación del Estado y la sociedad de la corte imperial en Brasil (1822-1889)",
+        "ano": "2011",
+        "autores": "PASSIANI, Enio 2011 PASSIANI, Enio",
+        "revista": "UNIVERSITAS HUMANISTICA",
+        "volume": "71",
+        "numero": "",
+        "paginas": "133-151",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Não existe pecado abaixo do Equador?: algumas considerações sobre o processo de formação da sociedade de corte no Brasil (1808-1889). Sociedade e Estado (UnB",
+        "ano": "2012",
+        "autores": "PASSIANI, Enio 2012 PASSIANI, Enio",
+        "revista": "Impresso)",
+        "volume": "27",
+        "numero": "",
+        "paginas": "571-593",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "A geografia literária de Macunaíma: Protocolos de leitura e a hegemonia do modernismo paulista (1922-1928)",
+        "ano": "2015",
+        "autores": "PASSIANI, Enio 2015 PASSIANI, Enio",
+        "revista": "Arquivos do CMD",
+        "volume": "3",
+        "numero": "",
+        "paginas": "12-33",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2016 ANJOS, G. ; PASSIANI, Enio ; SALOM, J. S. . Para um país de leitores: uma análise do Plano Nacional do Livro e da Leitura (PNLL)",
+        "ano": "2016",
+        "autores": "ANJOS, G",
+        "revista": "Indicadores Econômicos FEE (Online)",
+        "volume": "43",
+        "numero": "",
+        "paginas": "97-110",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "S. ; ANJOS, G. . A singularidade das práticas culturais (Entrevista com Bernard Lahire). PLURAL (SÃO PAULO",
+        "ano": "2017",
+        "autores": "PASSIANI, Enio 2017 PASSIANI, Enio ; SALOM, J",
+        "revista": "ONLINE)",
+        "volume": "24",
+        "numero": "",
+        "paginas": "181-199",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Figuras do intelectual: gênese e devir",
+        "ano": "2018",
+        "autores": "PASSIANI, Enio 2018 PASSIANI, Enio",
+        "revista": "Sociologias (UFRGS)",
+        "volume": "20",
+        "numero": "",
+        "paginas": "16-47",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "V. T. 2018 SANTOS, J. V. T. ; CORREA, M. B. ; PASSIANI, Enio . A critical sociology from Latin America: tradition and creativity",
+        "ano": "2018",
+        "autores": "SANTOS, J",
+        "revista": "Sosyoloji Divanà131 (Diwan of Sociology)",
+        "volume": "12",
+        "numero": "",
+        "paginas": "170-196",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Uma longa jornada: a gênese da sociologia das formas discursivas de Raymond Williams",
+        "ano": "2020",
+        "autores": "Passiani, Enio 2020 Passiani, Enio",
+        "revista": "RESGATE - Revista Interdisciplinar de Cultura",
+        "volume": "28",
+        "numero": "",
+        "paginas": "1-35",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "DESCAMINHOS E DESESPERANÇA: O BRASIL DE LUIZ RUFFATO EM VERÃO TARDIO / Aimless and hopelessness: the Brazilian middle classes in the novel Verão Tardio",
+        "ano": "2020",
+        "autores": "PASSIANI, Enio 2020 PASSIANI, Enio",
+        "revista": "arte e ensaios",
+        "volume": "26",
+        "numero": "",
+        "paginas": "333-345",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "P. 2022 BUENO, M. P. ; PASSIANI, Enio . Émile Durkheim e o reino dos fins. Novos Estudos",
+        "ano": "2022",
+        "autores": "BUENO, M",
+        "revista": "CEBRAP",
+        "volume": "41",
+        "numero": "",
+        "paginas": "103-120",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": ". O romance testemunhal como romance de formação: figurações da violência e da crueldade na obra 'Memórias de um sobrevivente', de Luiz Alberto Mendes",
+        "ano": "2023",
+        "autores": "PASSIANI, Enio 2023 PASSIANI, Enio ; ANJOS, G",
+        "revista": "O PÚBLICO E O PRIVADO",
+        "volume": "21",
+        "numero": "",
+        "paginas": "101-112",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Memória, trauma e Ditadura no Brasil: a literatura testemunhal de Renato Tapajós. O romance testemunhal -Em câmara lenta- amplia a circulação social de experiências vividas individualmente, mas produtos de condições que ressoam coletivamente",
+        "ano": "2023",
+        "autores": "Passiani, Enio 2023 Passiani, Enio",
+        "revista": "CIÊNCIA E CULTURA",
+        "volume": "75",
+        "numero": "",
+        "paginas": "1-11",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "T. S. 2024 ABRAO, R. T. S. ; PASSIANI, Enio . Castigat ridendo mores: A Rede Globo, o humor e a ditadura na década de 1980",
+        "ano": "2024",
+        "autores": "ABRAO, R",
+        "revista": "ACERVO: REVISTA DO ARQUIVO NACIONAL",
+        "volume": "37",
+        "numero": "",
+        "paginas": "1-25",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "T. S. 2024 ABRAO, R. T. S. ; PASSIANI, Enio . Castigat ridendo mores: The Globo Television Network, humor and the dictatorship during the 1980s",
+        "ano": "2024",
+        "autores": "ABRAO, R",
+        "revista": "ACERVO: REVISTA DO ARQUIVO NACIONAL",
+        "volume": "37",
+        "numero": "",
+        "paginas": "1-25",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "B. 2025 MARTINS, C. B. ; PASSIANI, Enio . Troca em que termos? Circulação intelectual e a formação das ciências sociais no Brasil (Resenha)",
+        "ano": "2025",
+        "autores": "MARTINS, C",
+        "revista": "Tempo Social",
+        "volume": "37",
+        "numero": "",
+        "paginas": "267-279",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": ". O Hip-Hop na linha do tiro: Rap noventista e a denúncia estética da necropolítica",
+        "ano": "2025",
+        "autores": "PASSIANI, Enio 2025 PASSIANI, Enio ; ROCHA, R",
+        "revista": "PRAGMATIZES- REVISTA LATINO AMERICANA DE ESTUDOS EM CULTURA",
+        "volume": "1",
+        "numero": "",
+        "paginas": "123-147",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "A. 2025 GIRALDO, M. A. ; PASSIANI, Enio . Narrativas indígenas y territorios amazónicos: Una revisión crítica de los conceptos y las metodologías de la literatura académica",
+        "ano": "2025",
+        "autores": "GIRALDO, M",
+        "revista": "REVISTA DE CIENCIAS HUMANAS Y SOCIALES DE LA UNIVERSIDAD CIENTÍFICA DEL SUR (ONLINE)",
+        "volume": "14",
+        "numero": "",
+        "paginas": "1-27",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "M. ; MORAES, W. D. B. . La sociología de Pierre Bourdieu: potencialidades, delimitaciones y alternativas",
+        "ano": "2026",
+        "autores": "PASSIANI, Enio 2026 PASSIANI, Enio ; CAPRARA, B",
+        "revista": "REVISTA DE CIENCIAS HUMANAS Y SOCIALES DE LA UNIVERSIDAD CIENTÍFICA DEL SUR (ONLINE)",
+        "volume": "18",
+        "numero": "",
+        "paginas": "1-28",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "D. B. . Gerações docentes e herança: a construção de um programa de excelência acadêmica",
+        "ano": "2025",
+        "autores": "PASSIANI, Enio 2025 PASSIANI, Enio ; MORAES, W",
+        "revista": "Sociologias (UFRGS)",
+        "volume": "1",
+        "numero": "",
+        "paginas": "1-35",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "ALVES, A. R. C. (Org.) ; JALLES, C. (Org.) ;",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "SANTOS, J. V. T. (Org.) ; FACHINETTO, R. F. (Org.) ; TEIXEIRA, A. N. (Org.) ; MADEIRA, L. M. (Org.) ; SCHABBACH, L. M. (Org.) ;",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "PASSIANI, E.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "MARTINS, D. S. ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PERETI, S. R. S. N. ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PASSIANI, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PASSIANI, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PASSIANI, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PASSIANI, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PASSIANI, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PASSIANI, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PASSIANI, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PASSIANI, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Passiani, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "SANTOS, J. V. T. ; BAUMGARTEN, M. ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PASSIANI, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PASSIANI, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PASSIANI, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PASSIANI, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PASSIANI, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "SANTOS, J. V. T. ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PASSIANI, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "SANTOS, J. V. T. ; FACHINETTO, R. F. ; TEIXEIRA, A. N. ; MADEIRA, L. M. ; CELMER, E. ; SCHABBACH, L. M. ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PASSIANI, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PASSIANI, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Passiani, Enio",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "DEPELTEAU, F. ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "PASSIANI, E.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      }
+    ],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": [],
+  "patentes_registros": [],
+  "producao_artistica": [],
+  "orientacoes": {
+    "orientacoes_concluidas": [
+      {
+        "tipo_orientacao": "",
+        "titulo": "Claúdia Kaul Aranalde Dias. Representação social sobre punição entre pessoas privadas de liberdade nas penitenciárias estaduais do Rio Grande do Sul.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós-Graduação em Segurança Cidadã) - Universidade Federal do Rio Grande do Sul, . Orientador: Enio Passiani.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Anahí da Silva da Cunha Guimarães. De delegado a romancista: representações da violência e figura policial nos romances de Joaquim Nogueira.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, . Orientador: Enio Passiani.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Antonio Carlos Rocha de Sousa. Gilberto Freyre, uma perspectiva de processo civilizador brasileiro?.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Enio Passiani.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Rachel Tomás dos Santos Abrão. Ditadura e televisão na transição: uma análise sobre três quadros humorísticos.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Enio Passiani.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Robson Peres da Rocha. Voz, batida e movimento: narrativas de vida e a formação de sujeitos no rap.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Enio Passiani.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Isadora da Silva Binot. Feminismo(s), reconhecimento e mídias digitais: análise da página Não me Kahlo.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, . Orientador: Enio Passiani.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Marília Pereira Bueno. Humanismo ou Barbárie? Indivíduo e civilização nas teorias de Norbert Elias e Max Horkheimer.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, . Orientador: Enio Passiani.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Alexandre da Silva Manzoni. A escola e a produção de subjetividades: Os efeitos das normas e práticas na corporalidade discente.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Enio Passiani.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Sacha Rochele da Silva Nuñez. Os bastidores da produção da notícia na Segurança Pública: A construção da realidade social na Brigada Militar do Rio Grande do Sul.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Segurança Cidadã) - Universidade Federal do Rio Grande do Sul, . Orientador: Enio Passiani.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Daniel Schneider Martins. \"A polícia diz que eu já causei muito distúrbio, o repórter quer saber porque eu me drogo, o que é que eu uso\":",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      }
+    ],
+    "orientacoes_em_andamento": []
+  },
+  "eventos": [],
+  "bancas": [
+    {
+      "descricao": "WERNECK, A.; GAHYVA, H. C.;"
+    },
+    {
+      "descricao": "Universidade Federal do Rio de Janeiro."
+    },
+    {
+      "descricao": "LEAO, A. B.; TEIXEIRA, A. L.; BRASIL JUNIOR, A.; BEZERRA, G. M. P.; OLIVEIRA, L. A.;"
+    },
+    {
+      "descricao": "Universidade de São Paulo."
+    },
+    {
+      "descricao": "PASSIANI, Enio"
+    },
+    {
+      "descricao": "Sociedade Brasileira de Sociologia."
+    },
+    {
+      "descricao": "PASSIANI, E."
+    },
+    {
+      "descricao": "Fundação Carlos Chagas."
+    }
+  ],
+  "estatisticas": {
+    "total_artigos_periodicos": 29,
+    "total_livros": 3,
+    "total_capitulos": 25,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 19,
+    "total_orientacoes_andamento": 0
+  },
+  "_doutorado": false,
+  "_pos_doutorado": false
+}

@@ -1,0 +1,553 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "4459762840246092",
+    "nome_completo": "Bernardo Mattes Caprara",
+    "nome_citacoes": "",
+    "sexo": "",
+    "rotulo": "",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "",
+    "url": "http://lattes.cnpq.br/4459762840246092",
+    "texto_resumo": ""
+  },
+  "formacao_academica": [],
+  "atuacao_profissional": [],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia da Educação.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia da Educação."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia das Desigualdades.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia das Desigualdades."
+    },
+    {
+      "area": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Ensino de Sociologia.",
+      "grande_area": "",
+      "subarea": "",
+      "nivel": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Ensino de Sociologia."
+    }
+  ],
+  "idiomas": [],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "La sociología de Pierre Bourdieu: potencialidades, delimitaciones y alternativas",
+        "ano": "2026",
+        "autores": "PASSIANI, ENIO 2026 PASSIANI, ENIO ; MATTES CAPRARA, Bernardo ; BUENO MORAES, WESLLEY DANIEL",
+        "revista": "REVISTA DE CIENCIAS HUMANAS Y SOCIALES DE LA UNIVERSIDAD CIENTÍFICA DEL SUR (ONLINE)",
+        "volume": "18",
+        "numero": "",
+        "paginas": "",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Entre o passado e o presente na configuração de futuros prováveis: análise multirrelacional entre condições objetivas, expectativas e o ingresso no Ensino Superior em desenho longitudinal",
+        "ano": "2026",
+        "autores": "SANTOS, HARLON ROMARIZ RABELO 2026 SANTOS, HARLON ROMARIZ RABELO ; CAPRARA, BERNARDO MATTES ; PEDROSO, MURILO MARRECO",
+        "revista": "Sociologias (UFRGS)",
+        "volume": "28",
+        "numero": "",
+        "paginas": "1",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "M. 2025 CAPRARA, B. M. . Sometimes, learning requires more attention and less intention: possibilities and limits of teacher training in Sociology",
+        "ano": "2025",
+        "autores": "CAPRARA, B",
+        "revista": "Sociological Teaching",
+        "volume": "2",
+        "numero": "",
+        "paginas": "05",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "M. 2025 CAPRARA, B. M. ; PINHEIRO, J. J. ; SANTOS, G. R. . Práticas pedagógicas de docentes de Sociologia iniciantes na profissão: uma análise no contexto do Rio Grande do Sul (RS)",
+        "ano": "2025",
+        "autores": "CAPRARA, B",
+        "revista": "DEBATES EM EDUCAÇÃO",
+        "volume": "17",
+        "numero": "",
+        "paginas": "1-20",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "O Setor de Educação do Movimento dos Trabalhadores Sem Teto do Rio Grande do Sul (MTST/RS): Uma análise da percepção de militantes sobre a sua construção e implementação em 2023",
+        "ano": "2025",
+        "autores": "SCHULTZ, ANA PAULA 2025 SCHULTZ, ANA PAULA ; MATTES CAPRARA, Bernardo",
+        "revista": "POIÉSIS - Revista do Programa de Pós-Graduação em Educação (Unisul)",
+        "volume": "19",
+        "numero": "",
+        "paginas": "248-267",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Educação e democracia na América Latina: práxis, resistência e esperança",
+        "ano": "2025",
+        "autores": "DA ROCHA, LUCIANO DAUDT 2025 DA ROCHA, LUCIANO DAUDT ; CAPRARA, BERNARDO MATTES",
+        "revista": "POIÉSIS - Revista do Programa de Pós-Graduação em Educação (Unisul)",
+        "volume": "19",
+        "numero": "",
+        "paginas": "2-5",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Efeito colateral do sistema: Mano Brown e um pensamento social negro de periferia",
+        "ano": "2025",
+        "autores": "CAPRARA, BERNARDO MATTES 2025 CAPRARA, BERNARDO MATTES ; MACHADO, LUCAS ANTUNES",
+        "revista": "RESGATE - Revista Interdisciplinar de Cultura",
+        "volume": "33",
+        "numero": "",
+        "paginas": "",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Aprender e ensinar Sociologia: experienciar, narrar e formar na e para a docência",
+        "ano": "2025",
+        "autores": "CAPRARA, BERNARDO MATTES 2025 CAPRARA, BERNARDO MATTES ; SARMENTO, CAROLINE SILVEIRA",
+        "revista": "REVISTA BRASILEIRA DE PESQUISA (AUTO)BIOGRÁFICA",
+        "volume": "10",
+        "numero": "",
+        "paginas": "",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "M. 2024 CAPRARA, B. M. . Para além da ilusão: biografias sociológicas como método de pesquisa",
+        "ano": "2024",
+        "autores": "CAPRARA, B",
+        "revista": "Revista do NUPEM",
+        "volume": "16",
+        "numero": "",
+        "paginas": "1-16",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "M. 2024 CAPRARA, B. M. ; MACHADO, L. A. . Contribuições para uma educação escolar antirracista",
+        "ano": "2024",
+        "autores": "CAPRARA, B",
+        "revista": "RETRATOS DA ESCOLA",
+        "volume": "18",
+        "numero": "",
+        "paginas": "23-37",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Por um ensino de Sociologia engajado: proposições a partir da pedagogia de bell hooks",
+        "ano": "2024",
+        "autores": "MACHADO, LUCAS ANTUNES 2024 MACHADO, LUCAS ANTUNES ; CAPRARA, BERNARDO MATTES",
+        "revista": "PRÁXIS EDUCATIVA (IMPRESSO)",
+        "volume": "19",
+        "numero": "",
+        "paginas": "1-18",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "2024 MADEIRA, F. ; CAPRARA, B. M. . Condições de docência, origens sociais e resultados educacionais: análise quantitativa sobre o desempenho de estudantes no Saeb 2021. INTER-AÇÃO (UFG",
+        "ano": "2024",
+        "autores": "MADEIRA, F",
+        "revista": "ONLINE)",
+        "volume": "49",
+        "numero": "",
+        "paginas": "1533-1550",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "M. 2024 CAPRARA, B. M. . Comunidade de práticas de sociologia escolar: uma agenda alternativa ao conceito de campo",
+        "ano": "2024",
+        "autores": "CAPRARA, B",
+        "revista": "Cadernos da Associação Brasileira de Ensino de Ciências Sociais",
+        "volume": "8",
+        "numero": "",
+        "paginas": "01-22",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Mediação didática lúdica em Sociologia no Ensino Fundamental: análises e proposições",
+        "ano": "2024",
+        "autores": "KERN, EDUARDA BONORA 2024 KERN, EDUARDA BONORA ; CAPRARA, BERNARDO MATTES ; BARROS, RAFAEL D?ÁVILA",
+        "revista": "SIMBIÓTICA",
+        "volume": "11",
+        "numero": "",
+        "paginas": "94-113",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "M. 2023 CAPRARA, B. M. . A teoria das práticas sociais em Pierre Bourdieu e Bernard Lahire",
+        "ano": "2023",
+        "autores": "CAPRARA, B",
+        "revista": "Revista Eletrônica Espaço Acadêmico (Online)",
+        "volume": "239",
+        "numero": "",
+        "paginas": "71-79",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "Condição de Classe e Desempenho Educacional no Brasil",
+        "ano": "2020",
+        "autores": "CAPRARA, BERNARDO MATTES 2020 CAPRARA, BERNARDO MATTES",
+        "revista": "EDUCAÇÃO E REALIDADE",
+        "volume": "45",
+        "numero": "",
+        "paginas": "1",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "M. 2019 CAPRARA, B. M. . Sociedade, educação e desigualdade: um panorama sobre teorias e pesquisa",
+        "ano": "2019",
+        "autores": "CAPRARA, B",
+        "revista": "Barbarói",
+        "volume": "1",
+        "numero": "",
+        "paginas": "89-116",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "M. 2017 CAPRARA, B. M. . Thomas Piketty e 'O Capital no Século XXI': da economia política à Sociologia contemporânea. SOCIOLOGIAS (UFRGS",
+        "ano": "2017",
+        "autores": "CAPRARA, B",
+        "revista": "IMPRESSO)",
+        "volume": "19",
+        "numero": "",
+        "paginas": "424-439",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "M. 2016 CAPRARA, B. M. . Desigualdade e desempenho: uma introdução à sociologia da escola brasileira (Resenha crítica)",
+        "ano": "2016",
+        "autores": "CAPRARA, B",
+        "revista": "MOVIMENTAÇÃO",
+        "volume": "3",
+        "numero": "",
+        "paginas": "183-187",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "D. 2016 GRISA, G. D. ; CAPRARA, B. M. . As políticas de ações afirmativas no ensino superior sob a ótica dos gestores: o caso da Universidade Federal do Rio Grande do Sul",
+        "ano": "2016",
+        "autores": "GRISA, G",
+        "revista": "Revista Ciências Sociais Unisinos",
+        "volume": "52",
+        "numero": "",
+        "paginas": "172-181",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "M. 2016 CAPRARA, B. M. . The Impact of Cultural Capital on Secondary Student's Performance in Brazil",
+        "ano": "2016",
+        "autores": "CAPRARA, B",
+        "revista": "Universal Journal of Educational Research",
+        "volume": "4",
+        "numero": "",
+        "paginas": "2627-2635",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "M. 2014 CAPRARA, B. M. . O Ensino de Sociologia: proposta de abertura teórica e epistêmica",
+        "ano": "2014",
+        "autores": "CAPRARA, B",
+        "revista": "Revista Café com Sociologia",
+        "volume": "03",
+        "numero": "",
+        "paginas": "177-187",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "M. 2008 CAPRARA, B. M. . A resistência dos trabalhadores na Primeira República através do jornal gaúcho O Exemplo. Cadernos de História (UFOP",
+        "ano": "2008",
+        "autores": "CAPRARA, B",
+        "revista": "Mariana)",
+        "volume": "6",
+        "numero": "",
+        "paginas": "159-177",
+        "issn": "",
+        "doi": "",
+        "qualis": "",
+        "idioma": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "CAPRARA, B. M.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "CAPRARA, B. M.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "CAPRARA, B. M.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      },
+      {
+        "titulo": "CAPRARA, B. M.",
+        "ano": "",
+        "autores": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "idioma": "",
+        "edicao": ""
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "RAUPP, S. ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "CAPRARA, B. M.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "CAPRARA, B. M.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "BUJES, J. S. ;",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "CAPRARA, B. M.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      },
+      {
+        "titulo": "CAPRARA, B. M.",
+        "ano": "",
+        "autores": "",
+        "titulo_livro": "",
+        "editora": "",
+        "local_publicacao": "",
+        "isbn": "",
+        "paginas": "",
+        "idioma": ""
+      }
+    ],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": [],
+  "patentes_registros": [],
+  "producao_artistica": [],
+  "orientacoes": {
+    "orientacoes_concluidas": [
+      {
+        "tipo_orientacao": "",
+        "titulo": "Rafael D'Ávila Barros. Reagregando a Sociologia Escolar: práticas de resistência para o ensino de Sociologia no contexto do Novo Ensino Médio no Rio Grande do Sul.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, . Orientador: Bernardo Mattes Caprara.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Weslley Daniel Bueno Moraes. Aprendizes de feiticeiro: a socialização acadêmica de sociólogos formados no PPGS/UFRGS.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Bernardo Mattes ",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      },
+      {
+        "tipo_orientacao": "",
+        "titulo": "Elisandra Reinhold Santolin.",
+        "nome_aluno": "",
+        "ano_conclusao": "",
+        "nome_instituicao": "",
+        "nivel": ""
+      }
+    ],
+    "orientacoes_em_andamento": []
+  },
+  "eventos": [],
+  "bancas": [
+    {
+      "descricao": "ROCHA, H. J.;"
+    },
+    {
+      "descricao": "Universidade Federal da Fronteira Sul."
+    },
+    {
+      "descricao": "CAPRARA, B. M."
+    },
+    {
+      "descricao": "Instituto Federal Farroupilha."
+    }
+  ],
+  "estatisticas": {
+    "total_artigos_periodicos": 23,
+    "total_livros": 4,
+    "total_capitulos": 6,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 5,
+    "total_orientacoes_andamento": 0
+  },
+  "_doutorado": false,
+  "_pos_doutorado": false
+}
