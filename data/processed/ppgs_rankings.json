@@ -23,24 +23,24 @@
   ],
   "projetos": [
     {
+      "nome": "Jose Vicente Tavares dos Santos",
+      "val": 125
+    },
+    {
       "nome": "Karl Martin Monsma",
-      "val": 460
+      "val": 90
     },
     {
       "nome": "Sergio Schneider",
-      "val": 318
+      "val": 84
     },
     {
-      "nome": "Marcelo Kunrath Silva",
-      "val": 309
+      "nome": "Daniel Gustavo Mocelin",
+      "val": 77
     },
     {
-      "nome": "Rochele Fellini Fachinetto",
-      "val": 61
-    },
-    {
-      "nome": "Jose Vicente Tavares dos Santos",
-      "val": 34
+      "nome": "Marília Patta Ramos",
+      "val": 67
     }
   ],
   "orientacoes": [
@@ -107,6 +107,28 @@
     {
       "nome": "Letícia Maria Schabbach",
       "val": 1740
+    }
+  ],
+  "bancas": [
+    {
+      "nome": "Rochele Fellini Fachinetto",
+      "val": 238
+    },
+    {
+      "nome": "Alex Niche Teixeira",
+      "val": 106
+    },
+    {
+      "nome": "Melissa de Mattos Pimenta",
+      "val": 94
+    },
+    {
+      "nome": "Sandro Ruduit Garcia",
+      "val": 63
+    },
+    {
+      "nome": "Marília Patta Ramos",
+      "val": 43
     }
   ]
 }

@@ -14,7 +14,274 @@
   },
   "formacao_academica": [],
   "atuacao_profissional": [],
-  "projetos_pesquisa": [],
+  "projetos_pesquisa": [
+    {
+      "nome": "",
+      "ano_inicio": "0000",
+      "ano_conclusao": "0003",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2066",
+      "ano_conclusao": "1677",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1996",
+      "ano_conclusao": "2002",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1989",
+      "ano_conclusao": "2000",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1992",
+      "ano_conclusao": "1996",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1978",
+      "ano_conclusao": "1981",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2012",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1997",
+      "ano_conclusao": "1998",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1991",
+      "ano_conclusao": "1991",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2008",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2006",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2002",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2009",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1993",
+      "ano_conclusao": "1997",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2016",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2016",
+      "ano_conclusao": "2020",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2014",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2012",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2012",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2016",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2013",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2009",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2009",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2007",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2007",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2008",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2003",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2000",
+      "ano_conclusao": "2000",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1998",
+      "ano_conclusao": "1999",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1995",
+      "ano_conclusao": "1995",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1993",
+      "ano_conclusao": "1993",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    }
+  ],
   "projetos_extensao": [],
   "projetos_desenvolvimento": [],
   "areas_de_atuacao": [
@@ -1173,127 +1440,70 @@
   "eventos": [],
   "bancas": [
     {
-      "descricao": "FEDOZZI, L. J."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "FEDOZZI, L. J."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "FEDOZZI, Luciano."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Estadual de Campinas."
+      "descricao": ""
     },
     {
-      "descricao": "FEDOZZI, LUCIANO"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "FEDOZZI, Luciano."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "FEDOZZI, L. J."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "FEDOZZI, L. J."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "FEDOZZI, L. J."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "CATTANI, A. D.;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "FEDOZZI, LUCIANO."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "COTANDA, F. C.;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "COTANDA, F. C.;"
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "COTANDA, F. C.;"
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "COTANDA, F. C.;"
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "SANTOS, J. V. T.; BRUMER, A.;"
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "FEDOZZI, L. J."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "GEHLEN, I.; SILVA, M. K.;"
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "FEDOZZI, L. J."
-    },
-    {
-      "descricao": "16."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "FEDOZZI, L. J."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "FEDOZZI, L. J."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul"
+      "descricao": ""
     }
   ],
   "estatisticas": {
@@ -1301,7 +1511,7 @@
     "total_livros": 9,
     "total_capitulos": 33,
     "total_trabalhos_congressos": 0,
-    "total_projetos_pesquisa": 0,
+    "total_projetos_pesquisa": 38,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,
     "total_orientacoes_concluidas": 52,

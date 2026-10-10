@@ -14,7 +14,162 @@
   },
   "formacao_academica": [],
   "atuacao_profissional": [],
-  "projetos_pesquisa": [],
+  "projetos_pesquisa": [
+    {
+      "nome": "",
+      "ano_inicio": "0000",
+      "ano_conclusao": "0002",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "4446",
+      "ano_conclusao": "2173",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2018",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2013",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2010",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2013",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2018",
+      "ano_conclusao": "2018",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2014",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2022",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2016",
+      "ano_conclusao": "2016",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2020",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2019",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2020",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2022",
+      "ano_conclusao": "2022",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2012",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2018",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    }
+  ],
   "projetos_extensao": [],
   "projetos_desenvolvimento": [],
   "areas_de_atuacao": [
@@ -816,16 +971,13 @@
   "eventos": [],
   "bancas": [
     {
-      "descricao": "CAMPOS, R.;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal de Pelotas."
+      "descricao": ""
     },
     {
-      "descricao": "SEVERO, R. P.;"
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     }
   ],
   "estatisticas": {
@@ -833,7 +985,7 @@
     "total_livros": 5,
     "total_capitulos": 8,
     "total_trabalhos_congressos": 0,
-    "total_projetos_pesquisa": 0,
+    "total_projetos_pesquisa": 22,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,
     "total_orientacoes_concluidas": 14,

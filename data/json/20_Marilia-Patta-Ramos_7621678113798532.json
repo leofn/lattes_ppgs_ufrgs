@@ -14,7 +14,477 @@
   },
   "formacao_academica": [],
   "atuacao_profissional": [],
-  "projetos_pesquisa": [],
+  "projetos_pesquisa": [
+    {
+      "nome": "",
+      "ano_inicio": "0000",
+      "ano_conclusao": "0003",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "0880",
+      "ano_conclusao": "8269",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1996",
+      "ano_conclusao": "2001",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1991",
+      "ano_conclusao": "1993",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1986",
+      "ano_conclusao": "1990",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2025",
+      "ano_conclusao": "2025",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2025",
+      "ano_conclusao": "2025",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2017",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2017",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2011",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2003",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2002",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1998",
+      "ano_conclusao": "1998",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1995",
+      "ano_conclusao": "1995",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2010",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2019",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2019",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2017",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2015",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2014",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2011",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2010",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2010",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2010",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2004",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1999",
+      "ano_conclusao": "2001",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1993",
+      "ano_conclusao": "2010",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1993",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1993",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1994",
+      "ano_conclusao": "1996",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1990",
+      "ano_conclusao": "1990",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1989",
+      "ano_conclusao": "1989",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1988",
+      "ano_conclusao": "1989",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2018",
+      "ano_conclusao": "2022",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2022",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2016",
+      "ano_conclusao": "2017",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2016",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2013",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2010",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2005",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2022",
+      "ano_conclusao": "2022",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2016",
+      "ano_conclusao": "2016",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2014",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2013",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2013",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2013",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    }
+  ],
   "projetos_extensao": [],
   "projetos_desenvolvimento": [],
   "areas_de_atuacao": [
@@ -1163,199 +1633,133 @@
   "eventos": [],
   "bancas": [
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade de Santa Cruz do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "Silva. M.K;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "Cattani, A.D;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "Luciano F;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "RAMOS, M. P."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "Guimarães, S;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "Oliveira,R; Maciel, M;"
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "RAMOS, M. P."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "RAMOS, M. P."
-    },
-    {
-      "descricao": "Pontifícia Universidade Católica do Rio Grande do Sul."
-    },
-    {
-      "descricao": "RAMOS, M. P."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "RAMOS, M. P."
-    },
-    {
-      "descricao": "Universidad Complutense de Madrid."
-    },
-    {
-      "descricao": "Ivaldo Gehlen; MARINO, J. M. F.;"
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "RAMOS, M. P."
-    },
-    {
-      "descricao": "Universidade de Santa Cruz do Sul."
-    },
-    {
-      "descricao": "RAMOS, M. P."
-    },
-    {
-      "descricao": "Universidade de Santa Cruz do Sul."
-    },
-    {
-      "descricao": "RAMOS, M. P."
-    },
-    {
-      "descricao": "Universidade de Santa Cruz do Sul."
-    },
-    {
-      "descricao": "RAMOS, M. P."
-    },
-    {
-      "descricao": "UNISC."
-    },
-    {
-      "descricao": "RAMOS, M. P."
-    },
-    {
-      "descricao": "Universidade de Santa"
+      "descricao": ""
     }
   ],
   "estatisticas": {
@@ -1363,7 +1767,7 @@
     "total_livros": 9,
     "total_capitulos": 21,
     "total_trabalhos_congressos": 0,
-    "total_projetos_pesquisa": 0,
+    "total_projetos_pesquisa": 67,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,
     "total_orientacoes_concluidas": 11,

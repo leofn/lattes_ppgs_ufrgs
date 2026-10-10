@@ -14,7 +14,267 @@
   },
   "formacao_academica": [],
   "atuacao_profissional": [],
-  "projetos_pesquisa": [],
+  "projetos_pesquisa": [
+    {
+      "nome": "",
+      "ano_inicio": "0000",
+      "ano_conclusao": "0003",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2502",
+      "ano_conclusao": "2364",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1991",
+      "ano_conclusao": "1995",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1980",
+      "ano_conclusao": "1985",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1976",
+      "ano_conclusao": "1979",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2009",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1997",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2020",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2015",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2010",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2002",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1997",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1997",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1997",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2021",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2013",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2017",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1987",
+      "ano_conclusao": "1987",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2000",
+      "ano_conclusao": "2004",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1996",
+      "ano_conclusao": "1997",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1981",
+      "ano_conclusao": "1996",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1989",
+      "ano_conclusao": "1990",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2020",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2018",
+      "ano_conclusao": "2021",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2018",
+      "ano_conclusao": "2021",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2016",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2013",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2011",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2012",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2008",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2008",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    }
+  ],
   "projetos_extensao": [],
   "projetos_desenvolvimento": [],
   "areas_de_atuacao": [
@@ -1237,97 +1497,52 @@
   "eventos": [],
   "bancas": [
     {
-      "descricao": "CÔRTES, SORAYA VARGAS"
+      "descricao": ""
     },
     {
-      "descricao": "CORTES, S. M. V."
+      "descricao": ""
     },
     {
-      "descricao": "MARQUES, E.C.; MENICUCCI,T.M.G.; COUTO, C.G.;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade de São Paulo."
+      "descricao": ""
     },
     {
-      "descricao": "CORTES, S. M. V."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio de Janeiro."
+      "descricao": ""
     },
     {
-      "descricao": "CORTES, S. M. V."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "CORTES, S. M. V."
+      "descricao": ""
     },
     {
-      "descricao": "(CAPES) Coordenação de Aperfeiçoamento de Pessoal de Nível Superior."
+      "descricao": ""
     },
     {
-      "descricao": "CORTES, S. M. V."
+      "descricao": ""
     },
     {
-      "descricao": "(CAPES) Coordenação de Aperfeiçoamento de Pessoal de Nível Superior."
+      "descricao": ""
     },
     {
-      "descricao": "CORTES, S. M. V."
+      "descricao": ""
     },
     {
-      "descricao": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior."
+      "descricao": ""
     },
     {
-      "descricao": "CORTES, S. M. V."
+      "descricao": ""
     },
     {
-      "descricao": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior."
-    },
-    {
-      "descricao": "CORTES, S. M. V."
-    },
-    {
-      "descricao": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior."
-    },
-    {
-      "descricao": "CORTES, S. M. V."
-    },
-    {
-      "descricao": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior."
-    },
-    {
-      "descricao": "CORTES, S. M. V."
-    },
-    {
-      "descricao": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior."
-    },
-    {
-      "descricao": "CORTES, S. M. V."
-    },
-    {
-      "descricao": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior."
-    },
-    {
-      "descricao": "CORTES, S. M. V."
-    },
-    {
-      "descricao": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior."
-    },
-    {
-      "descricao": "CORTES, S. M. V."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "CORTES, S. M. V."
-    },
-    {
-      "descricao": "4."
-    },
-    {
-      "descricao": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
+      "descricao": ""
     }
   ],
   "estatisticas": {
@@ -1335,7 +1550,7 @@
     "total_livros": 2,
     "total_capitulos": 41,
     "total_trabalhos_congressos": 0,
-    "total_projetos_pesquisa": 0,
+    "total_projetos_pesquisa": 37,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,
     "total_orientacoes_concluidas": 11,

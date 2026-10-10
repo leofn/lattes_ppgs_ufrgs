@@ -14,7 +14,148 @@
   },
   "formacao_academica": [],
   "atuacao_profissional": [],
-  "projetos_pesquisa": [],
+  "projetos_pesquisa": [
+    {
+      "nome": "",
+      "ano_inicio": "1994",
+      "ano_conclusao": "1998",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2007",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2007",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2009",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1999",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2010",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2002",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2000",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2000",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2000",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1999",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1999",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1997",
+      "ano_conclusao": "1998",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1997",
+      "ano_conclusao": "1998",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1997",
+      "ano_conclusao": "1998",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1997",
+      "ano_conclusao": "1997",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1995",
+      "ano_conclusao": "1997",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1995",
+      "ano_conclusao": "1996",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2010",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2003",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    }
+  ],
   "projetos_extensao": [],
   "projetos_desenvolvimento": [],
   "areas_de_atuacao": [
@@ -2153,20 +2294,13 @@
     "orientacoes_em_andamento": []
   },
   "eventos": [],
-  "bancas": [
-    {
-      "descricao": "ANJOS, José Carlos Gomes dos"
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Su"
-    }
-  ],
+  "bancas": [],
   "estatisticas": {
     "total_artigos_periodicos": 35,
     "total_livros": 4,
     "total_capitulos": 28,
     "total_trabalhos_congressos": 0,
-    "total_projetos_pesquisa": 0,
+    "total_projetos_pesquisa": 20,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,
     "total_orientacoes_concluidas": 161,

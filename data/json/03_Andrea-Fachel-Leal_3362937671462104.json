@@ -14,7 +14,316 @@
   },
   "formacao_academica": [],
   "atuacao_profissional": [],
-  "projetos_pesquisa": [],
+  "projetos_pesquisa": [
+    {
+      "nome": "Estudo de Prevalência da Sífilis e outras Infecções Sexualmente Transmissíveis entre Travestis e Mulheres Transexuais no Brasil: cuidado e prevenção",
+      "ano_inicio": "2020",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Estudo de Prevalência da Sífilis e outras Infecções Sexualmente Transmissíveis entre Travestis e Mulheres Transexuais no Brasil: cuidado e prevenção",
+      "ano_inicio": "2020",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Estudo de Prevalência da Sífilis e outras Infecções Sexualmente Transmissíveis entre Travestis e Mulheres Transexuais no Brasil: cuidado e prevenção",
+      "ano_inicio": "2020",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Abandono do tratamento do HIV em três capitais brasileiras",
+      "ano_inicio": "2019",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Teleconsultorias: perspectivas dos médicos da Atenção Básica do Telessaúde/RS sobre o serviço de telemedicina.",
+      "ano_inicio": "2018",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Teleconsultorias: perspectivas dos médicos da Atenção Básica do Telessaúde/RS sobre o serviço de telemedicina.",
+      "ano_inicio": "2018",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Teleconsultorias: perspectivas dos médicos da Atenção Básica do Telessaúde/RS sobre o serviço de telemedicina.",
+      "ano_inicio": "2018",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "O uso da profilaxia pré-exposição sexual (PrEP) por pessoas com alta exposição e vulnerabilidade ao HIV no contexto dos serviços de saúde brasileiros: Projeto Combina! fase 2",
+      "ano_inicio": "2017",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Autoteste para HIV entre adolescentes e pessoas jovens: um olhar para políticas públicas",
+      "ano_inicio": "2016",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Autoteste para HIV entre adolescentes e pessoas jovens: um olhar para políticas públicas",
+      "ano_inicio": "2016",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Autoteste para HIV entre adolescentes e pessoas jovens: um olhar para políticas públicas",
+      "ano_inicio": "2016",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Itinerários terapêuticos e rede de assistência a pacientes do tipo near miss. Uma abordagem sócio- antropológica da mortalidade por Aids na cidade de Porto Alegre, Rio Grande do Sul",
+      "ano_inicio": "2015",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Itinerários terapêuticos e rede de assistência a pacientes do tipo near miss. Uma abordagem sócio- antropológica da mortalidade por Aids na cidade de Porto Alegre, Rio Grande do Sul",
+      "ano_inicio": "2015",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "NearMiss HIV/AIDS: abordagem qualitativa",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A efetividade da profilaxia da transmissão do HIV pós-exposição sexual consensual, do uso combinado dos métodos preventivos contra a infecção pelo HIV e da profilaxia pré-exposição sexual, em serviços",
+      "ano_inicio": "2014",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Publicação sobre o CoAg entre CDC, Fiocruz e Fiotec / Fortalecer as ações de monitoramento e avaliação do programa de DST/Aids e ações de Mestrado da colaboração do Hemisfério Sul do mesmo programa (E",
+      "ano_inicio": "2013",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Práticas sexuais e redes afetivo-sexuais de homens vivendo com HIV/Aids",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2017",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Saúde sexual e reprodutiva das mulheres no contexto da epidemia do HIV/AIDS em Porto Alegre",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2013",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Violência Doméstica e Familiar Contra a Mulher - Avaliação de implementação de uma política pública",
+      "ano_inicio": "2012",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Violência Doméstica e Familiar Contra a Mulher - Avaliação de implementação de uma política pública",
+      "ano_inicio": "2012",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Avaliação dos agravos e determinantes de saúde da população quilombola de Porto Alegre e Região Metropolitana, bem como inserção desta população na Atenção Primária à Saúde",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2013",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Violência de gênero como um problema para a Saúde Coletiva: abordagem sócio-antropológica e epidemiológico de políticas públicas",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2012",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Avaliação do efeito de ações oriundas do Acordo de Cooperação Departamento de DST/AIDS/HV e o Centers for Disease Control and Prevention (CDC/GAP)",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2011",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Uso de método contraceptivo na primeira relação sexual",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2011",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Incidência de perda dentária em idosos independentes de Carlos Barbosa - RS: um modelo de estudo quanti-qualitativo",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2011",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Incidência de perda dentária em idosos independentes de Carlos Barbosa - RS: um modelo de estudo quanti-qualitativo",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2011",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Incidência de perda dentária em idosos independentes de Carlos Barbosa - RS: um modelo de estudo quanti-qualitativo",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2011",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Violência contra a mulher: análise a partir dos dados da Vara de Violência Contra a Mulher da Comarca de Porto Alegre",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2010",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Fatores associados à gestação na adolescência: um estudo de casos e controles com jovens de 14 a 16 anos em Porto Alegre, RS",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2011",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Sexualidade e modos de ser homem na estrada: determinantes da saúde de motoristas de caminhão no Sul do Brasil",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2010",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Saúde sexual e saúde reprodutiva de adolescentes: um estudo antropológico com jovens de 14 a 16 anos em Porto Alegre (RS)",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2009",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Estudo clínico-epidemológico das co-infecções do HIV com Hepatites B e C, HTLV-I e II, na população de um município de porte médio do Rio Grande do Sul (Canoas)",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2008",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Sexualidade e modos de ser homem na estrada: determinantes da saúde de motoristas de caminhão no Sul do Brasil",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2010",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Estudo Longitudinal da Saúde do Adulto (ELSA)",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2008",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Estratégias para avaliar e monitorar ações de Organizações Não Governamentais ligadas ao movimento social da AIDS no Rio Grande do Sul com financiamento público: da elaboração de critérios e indicador",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2008",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Avaliação do Impacto de Projetos de Educação Sexual e de Intervenção com Profissionais do Sexo, Travestis e Caminhoneiros no Rio Grande do Sul",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Centro Internacional de Cooperação Técnica em HIV-AIDS (CICT)",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2005",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Pesquisa: Política, Direitos, Violência e Homossexualidade - 8ª Parada Livre de Porto Alegre 2004",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2004",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Gravidez na Adolescência: estudo multicêntrico sobre jovens, sexualidade e reprodução no Brasil",
+      "ano_inicio": "1999",
+      "ano_conclusao": "2004",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Projeto Sexualidade e Reprodução",
+      "ano_inicio": "1999",
+      "ano_conclusao": "1999",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Estudo multicêntrico sobre saúde reprodutiva no Brasil",
+      "ano_inicio": "1998",
+      "ano_conclusao": "1999",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Éticas da Virtude e Éticas do Dever",
+      "ano_inicio": "1993",
+      "ano_conclusao": "1996",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "WHO-BODY - Corpo, Sexualidade e Reprodução: um estudo de representações sociais",
+      "ano_inicio": "1993",
+      "ano_conclusao": "1993",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A questão das diferenças culturais no Brasil: tradição e modernidade e a identidade gaúcha",
+      "ano_inicio": "1992",
+      "ano_conclusao": "1993",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    }
+  ],
   "projetos_extensao": [],
   "projetos_desenvolvimento": [],
   "areas_de_atuacao": [
@@ -1007,7 +1316,7 @@
   "eventos": [],
   "bancas": [
     {
-      "descricao": "SILVA, L. S."
+      "descricao": ""
     }
   ],
   "estatisticas": {
@@ -1015,7 +1324,7 @@
     "total_livros": 8,
     "total_capitulos": 8,
     "total_trabalhos_congressos": 0,
-    "total_projetos_pesquisa": 0,
+    "total_projetos_pesquisa": 44,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,
     "total_orientacoes_concluidas": 11,

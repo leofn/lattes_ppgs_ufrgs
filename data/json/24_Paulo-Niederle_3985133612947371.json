@@ -14,7 +14,330 @@
   },
   "formacao_academica": [],
   "atuacao_profissional": [],
-  "projetos_pesquisa": [],
+  "projetos_pesquisa": [
+    {
+      "nome": "Periódico: Journal of Rural Studies",
+      "ano_inicio": "2026",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Journal of Rural Studies",
+      "ano_inicio": "2026",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Interfaz",
+      "ano_inicio": "2021",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Gestão & Políticas Públicas",
+      "ano_inicio": "2020",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: MUNDO AGRARIO (LA PLATA)",
+      "ano_inicio": "2018",
+      "ano_conclusao": "2023",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: REVISTA DE ECONOMIA E SOCIOLOGIA RURAL (IMPRESSO)",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2021",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Sociologias (UFRGS. Impresso)",
+      "ano_inicio": "2016",
+      "ano_conclusao": "2020",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista Brasileira de Tecnologia Agropecuária",
+      "ano_inicio": "2015",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Extensão Rural (Santa Maria)",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2020",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista IDEAS",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2009",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: International Sociology",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: International Sociology",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: International Sociology",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: THE JOURNAL OF PEASANT STUDIES (ONLINE)",
+      "ano_inicio": "2018",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista Brasileira de Tecnologia Agropecuária",
+      "ano_inicio": "2015",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista Brasileira de Tecnologia Agropecuária",
+      "ano_inicio": "2015",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Sociologias (UFRGS. Impresso)",
+      "ano_inicio": "2014",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Sociologias (UFRGS. Impresso)",
+      "ano_inicio": "2014",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Journal of Rural Studies",
+      "ano_inicio": "2016",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Sociologias (UFRGS. Impresso)",
+      "ano_inicio": "2014",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Sociologias (UFRGS. Impresso)",
+      "ano_inicio": "2014",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Sociologias (UFRGS. Impresso)",
+      "ano_inicio": "2014",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Sociologias (UFRGS. Impresso)",
+      "ano_inicio": "2014",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Sociologias (UFRGS. Impresso)",
+      "ano_inicio": "2014",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista IDEAS",
+      "ano_inicio": "2013",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista IDEAS",
+      "ano_inicio": "2013",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista IDEAS",
+      "ano_inicio": "2013",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista IDEAS",
+      "ano_inicio": "2013",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista IDEAS",
+      "ano_inicio": "2013",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista IDEAS",
+      "ano_inicio": "2013",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista IDEAS",
+      "ano_inicio": "2013",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista IDEAS",
+      "ano_inicio": "2013",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista IDEAS",
+      "ano_inicio": "2013",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Propriedade Intelectual e Desenvolvimento",
+      "ano_inicio": "2012",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Propriedade Intelectual e Desenvolvimento",
+      "ano_inicio": "2012",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Propriedade Intelectual e Desenvolvimento",
+      "ano_inicio": "2012",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Propriedade Intelectual e Desenvolvimento",
+      "ano_inicio": "2012",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista de Economia Agrícola (Impresso)",
+      "ano_inicio": "2011",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista de Economia Agrícola (Impresso)",
+      "ano_inicio": "2011",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista de Economia Agrícola (Impresso)",
+      "ano_inicio": "2011",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista de Economia Agrícola (Impresso)",
+      "ano_inicio": "2011",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista de Economia Agrícola (Impresso)",
+      "ano_inicio": "2011",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: African Journal of Business Management",
+      "ano_inicio": "2010",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Periódico: Revista de Economia e Sociologia Rural (Impresso)",
+      "ano_inicio": "2009",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Agência de fomento: Empresa Brasileira de Pesquisa Agropecuária",
+      "ano_inicio": "2017",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Agência de fomento: Fundação Rondônia de Amparo ao Desenvolvimento das Ações Científicas e T",
+      "ano_inicio": "2016",
+      "ano_conclusao": "2016",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    }
+  ],
   "projetos_extensao": [],
   "projetos_desenvolvimento": [],
   "areas_de_atuacao": [
@@ -3363,40 +3686,31 @@
   "eventos": [],
   "bancas": [
     {
-      "descricao": "CHAGURI, Mariana;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Estadual de Campinas."
+      "descricao": ""
     },
     {
-      "descricao": "WILKINSON, John"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal Rural do Rio de Janeiro."
+      "descricao": ""
     },
     {
-      "descricao": "SANTOS, Anadalvo J.;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Paraná."
+      "descricao": ""
     },
     {
-      "descricao": "LIMA, Luciana L.;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "ALMEIDA, Luciano;"
-    },
-    {
-      "descricao": "Universidade Federal do Paraná."
-    },
-    {
-      "descricao": "SANTOS, Ivo L.; PIRES, Paulo de Tarso de L.;"
-    },
-    {
-      "descricao": "Universidade Federal"
+      "descricao": ""
     }
   ],
   "estatisticas": {
@@ -3404,7 +3718,7 @@
     "total_livros": 17,
     "total_capitulos": 65,
     "total_trabalhos_congressos": 0,
-    "total_projetos_pesquisa": 0,
+    "total_projetos_pesquisa": 46,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,
     "total_orientacoes_concluidas": 132,

@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Soraya Maria Vargas Cortes — PPGS/UFRGS</title>
-<link rel="stylesheet" href="../assets/css/style.css">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <style>
 .profile-header { background: linear-gradient(135deg, #1a237e, #283593); color: white; padding: 40px 30px; border-radius: 12px; margin-bottom: 30px; }
@@ -12,31 +11,31 @@
 .profile-header .subtitle { opacity: 0.9; font-size: 1.05em; }
 .profile-section { background: white; border-radius: 10px; padding: 24px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
 .profile-section h2 { color: #1a237e; font-size: 1.25em; margin: 0 0 16px; border-bottom: 2px solid #e8eaf6; padding-bottom: 8px; }
-.stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; }
+.stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; margin-bottom: 20px; }
 .stat-card { background: #f5f5f5; border-radius: 8px; padding: 16px; text-align: center; }
 .stat-card .num { font-size: 1.8em; font-weight: 700; color: #1a237e; }
 .stat-card .label { font-size: 0.85em; color: #666; margin-top: 4px; }
-.pub-list { list-style: none; padding: 0; }
+.pub-list { list-style: none; padding: 0; margin: 0; }
 .pub-list li { padding: 10px 0; border-bottom: 1px solid #eee; }
 .pub-list li:last-child { border-bottom: none; }
 .pub-title { font-weight: 600; color: #333; }
 .pub-journal { color: #666; font-size: 0.9em; }
 .pub-year { color: #999; font-size: 0.85em; }
-.qualis-badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.8em; font-weight: 700; color: white; margin-left: 8px; }
 .back-link { display: inline-block; margin-bottom: 20px; color: #1a237e; text-decoration: none; font-weight: 600; }
 .back-link:hover { text-decoration: underline; }
 .score-card { background: linear-gradient(135deg, #1a472a, #2d5a3d); color: white; }
 .score-card .num { color: #a5d6a7; }
+body { background: #f0f0f5; margin: 0; padding: 20px; font-family: system-ui, sans-serif; }
+.container { max-width: 900px; margin: 0 auto; }
 </style>
 </head>
-<body style="background:#f0f0f5; margin:0; padding:20px; font-family:system-ui,sans-serif; max-width:900px; margin:0 auto;">
-
+<body>
+<div class="container">
 <a href="../index.html" class="back-link">← Voltar ao dashboard</a>
-
 <div class="profile-header">
   <h1>Soraya Maria Vargas Cortes</h1>
   <div class="subtitle">
-    Doutorado — <br>Pós-Doutorado — 
+    Doutorado — 
   </div>
   <div style="margin-top:12px;">
     <a href="http://lattes.cnpq.br/1805029396938951" target="_blank" style="color:#90caf9;text-decoration:none;">📋 Currículo Lattes ↗</a>
@@ -44,77 +43,85 @@
      &nbsp; <a href="https://www.semanticscholar.org/author/2478543142" target="_blank" style="color:#90caf9;text-decoration:none;">📚 Semantic Scholar (1170 citações) ↗</a>
   </div>
 </div>
-
 <div class="stat-grid">
   <div class="stat-card"><div class="num">46</div><div class="label">Artigos</div></div>
   <div class="stat-card"><div class="num">2</div><div class="label">Livros</div></div>
   <div class="stat-card"><div class="num">41</div><div class="label">Capítulos</div></div>
-  <div class="stat-card"><div class="num">0</div><div class="label">Projetos</div></div>
+  <div class="stat-card"><div class="num">37</div><div class="label">Projetos</div></div>
+  <div class="stat-card"><div class="num">16</div><div class="label">Bancas</div></div>
   <div class="stat-card"><div class="num">11</div><div class="label">Orientações</div></div>
   <div class="stat-card"><div class="num">1170</div><div class="label">Citações</div></div>
   <div class="stat-card score-card"><div class="num">0</div><div class="label">Score Qualis</div></div>
 </div>
 
-
-
-<div class="profile-section"><h2>🎓 Formação</h2><ul>
-<li><strong>Doutorado</strong> —  (-)</li>
-<li><strong>Pós-Doutorado</strong> —  (-)</li>
-</ul></div>
-
-<div class="profile-section"><h2>🔬 Áreas de Atuação</h2><ul>
-<li>Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Política.</li>
+<div class="profile-section"><h2>🎓 Formação</h2><ul><li><strong>Doutorado</strong> —  (-)</li></ul></div>
+<div class="profile-section"><h2>🔬 Áreas de Atuação</h2><ul><li>Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Política.</li>
 <li>Grande área: Ciências Humanas / Área: Ciência Política / Subárea: Políticas Públicas.</li>
 <li>Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia da Saúde.</li>
-<li>Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia do Conhecimento/Especialidade: Metodologia de Pesquisa.</li>
-</ul></div>
-
-<div class="profile-section"><h2>📄 Artigos Publicados (46)</h2>
-<ul class="pub-list">
-<li><div class="pub-title">Cidadania masculina e paternidade na redemocratização brasileira</div><div class="pub-journal">ESTUDOS FEMINISTAS • v. 33, p. 1-15 • <span class="pub-year">2025</span></div></li>
-<li><div class="pub-title">2024 RASIA,M.J. ; CORTES, S. M. V. ; MARTINS, A.R. . Coordenação da pandemia, economia, negacionismo e emoções nos governos Trump e Bolsonaro</div><div class="pub-journal">ESTUDOS DE SOCIOLOGIA • v. 29, p. 251-281 • <span class="pub-year">2024</span></div></li>
-<li><div class="pub-title">M. V. . Homens e cuidado: uma análise crítica da aprovação da licença-paternidade na Assembleia Nacional Constituinte (1987-1988)</div><div class="pub-journal">INTERSEÇÕES - REVISTA DE ESTUDOS INTERDISCIPLINARES • v. 25, p. 5-29 • <span class="pub-year">2023</span></div></li>
-<li><div class="pub-title">A influência dos médicos nas polí­ticas de recursos humanos em saúde: conclusêss a partir da experiênncia brasileira</div><div class="pub-journal">SAÚDE EM DEBATE • v. 47, p. 170-181 • <span class="pub-year">2023</span></div></li>
-<li><div class="pub-title">Um modelo teórico-metodológico para análises de políticas com longas trajetórias e ação de atores em prol da mudança e da estabilidade. Interface (Botucatu</div><div class="pub-journal">Online) • v. 27, p. 1-15 • <span class="pub-year">2023</span></div></li>
-<li><div class="pub-title">Tendência à estabilidade institucional: regulação, formação e provimento de médicos no Brasil durante o governo Lula</div><div class="pub-journal">Ciência &amp; Saúde Coletiva • v. 27, p. 2531-2541 • <span class="pub-year">2022</span></div></li>
-<li><div class="pub-title">O que fez com que o Programa Mais Médicos fosse possível?</div><div class="pub-journal">Ciência &amp; Saúde Coletiva • v. 27, p. 2543-2552 • <span class="pub-year">2022</span></div></li>
-<li><div class="pub-title">Análise do processo de formulação do Programa Mais Médicos</div><div class="pub-journal">SAÚDE E SOCIEDADE (ONLINE) • v. 31, p. 1-11 • <span class="pub-year">2022</span></div></li>
-<li><div class="pub-title">Da tutela à cidadania: construção social das imagens dos usuários da Política de Assistência Social</div><div class="pub-journal">REVISTA SOCIEDADE E ESTADO • v. 37, p. 245-270 • <span class="pub-year">2022</span></div></li>
-<li><div class="pub-title">Institucionalização da inovação na agenda governamental: polos tecnológicos no estado do Rio Grande do Sul</div><div class="pub-journal">REVISTA BRASILEIRA DE CIÊNCIA POLÍTICA • v. 36, p. 1-34 • <span class="pub-year">2021</span></div></li>
-<li><div class="pub-title">EFFECTS OF STATE ACTION ON HEALTH: A REGIONALIZED ANALYSIS OF BRAZIL / EFEITOS DA AÇÃO DO ESTADO NA SAÚDE: UMA ANÁLISE REGIONALIZADA DO BRASIL</div><div class="pub-journal">Brazilian Journal of Development • v. 6, p. 77879-77902 • <span class="pub-year">2020</span></div></li>
-<li><div class="pub-title">Understanding social protection systems in Latin America and the Caribbean: Typologies and efforts of classification</div><div class="pub-journal">Sociology Compass • v. 12, p.  • <span class="pub-year">2018</span></div></li>
-<li><div class="pub-title">M. V. 2018 CORTES, S. M. V. . A sociologia no contexto do sistema de pós-graduação brasileiro - Editorial</div><div class="pub-journal">REVISTA BRASILEIRA DE SOCIOLOGIA • v. 6, p. 5-7 • <span class="pub-year">2018</span></div></li>
-<li><div class="pub-title">2018 BARREIRA, I. ; CORTES, S. M. V. ; LIMA, JACOB CARLOS . A sociologia fora do eixo: diversidades regionais e campo da pós-graduação no Brasil</div><div class="pub-journal">REVISTA BRASILEIRA DE SOCIOLOGIA • v. 6, p. 76-103 • <span class="pub-year">2018</span></div></li>
-<li><div class="pub-title">M. V. 2017 CORTES, S. M. V. . Democratic governance in Brazil: policy communities shaping national councils of social policies</div><div class="pub-journal">SOCIOLOGIES IN DIALOGUE • v. 3, p. 225-239 • <span class="pub-year">2017</span></div></li>
-<li><div class="pub-title">M. V. 2017 CORTES, S. M. V. . Sociologies in Dialogue - Editorial</div><div class="pub-journal">SOCIOLOGIES IN DIALOGUE • v. 3, p. 2-3 • <span class="pub-year">2017</span></div></li>
-<li><div class="pub-title">Sociologies in Dialogue</div><div class="pub-journal">SOCIOLOGIES IN DIALOGUE • v. 2, p. 1-15 • <span class="pub-year">2016</span></div></li>
-<li><div class="pub-title">Policy community defensora de direitos e a transformação do Conselho Nacional de Assistência Social. Sociologias (UFRGS</div><div class="pub-journal">Impresso) • v. 17, p. 122-154 • <span class="pub-year">2015</span></div></li>
-<li><div class="pub-title">Tendências e Desafios Contemporâneos da Sociologia Política. Sociologias (UFRGS</div><div class="pub-journal">Impresso) • v. 17, p. 14-17 • <span class="pub-year">2015</span></div></li>
-<li><div class="pub-title">2013 DUBROW, J. ; CORTES, S. M. V. . Guest Editors&#x27; Introduction. Democracy, global governance, and political inequality</div><div class="pub-journal">International Journal of Sociology • v. 43, p. 3-12 • <span class="pub-year">2013</span></div></li>
-<li><div class="pub-title">M. V. 2013 CORTES, S. M. V. . Contribuições teóricas e à pesquisa empírica da Sociologia às políticas públicas</div><div class="pub-journal">Revista Brasileira de Sociologia • v. 1, p. 35-56 • <span class="pub-year">2013</span></div></li>
-<li><div class="pub-title">The sociology in Brazil and the interdisciplinary in social sciences</div><div class="pub-journal">Soziale Passagen (Print) • v. 5, p. 161-175 • <span class="pub-year">2013</span></div></li>
-<li><div class="pub-title">M. V. . A sociologia no Brasil e a interdisciplinaridade nas ciências sociais</div><div class="pub-journal">Civitas (Porto Alegre) • v. 13, p. 416-435 • <span class="pub-year">2013</span></div></li>
-<li><div class="pub-title">Mecanismos de participação e atores sociais em hospitais: o caso do Grupo Hospitalar Conceição-RS. Saúde e Sociedade (USP</div><div class="pub-journal">Impresso) • v. 21, p. 59-70 • <span class="pub-year">2012</span></div></li>
-<li><div class="pub-title">M. V. 2012 CORTES, S. M. V. ; LIMA, L. L. . A contribuição da sociologia para a análise de políticas públicas</div><div class="pub-journal">Lua Nova (Impresso) • v. 87, p. 33 • <span class="pub-year">2012</span></div></li>
-<li><div class="pub-title">M. V. 2011 CORTES, S. M. V. ; SILVA, M.K. ; DRACHLER, M.L. . Explaining political activism in Southern Brazil: engagement in political and nonpolitical organizations, education, motivation, and the role of the state</div><div class="pub-journal">International Journal of Sociology • v. 41, p. 74-93 • <span class="pub-year">2011</span></div></li>
-<li><div class="pub-title">M. V. 2011 CORTES, S. M. V. ; DUBROW, J. . Guest Editors&#x27; Introduction</div><div class="pub-journal">International Journal of Sociology • v. 41, p. 3-9 • <span class="pub-year">2011</span></div></li>
-<li><div class="pub-title">M. V. 2010 CORTES, S. M. V. ; GUGLIANO, A.A. . Entre neocorporativistas e deliberativos: uma interpretação sobre os paradigmas de análise dos fóruns participativos no Brasil. Sociologias (UFRGS</div><div class="pub-journal">Impresso) • v. 12, p. 44-75 • <span class="pub-year">2010</span></div></li>
-<li><div class="pub-title">M. V. 2010 CORTES, S. M. V. ; SILVA, M.K. . Sociedade civil, instituições e atores estatais: interdependências e condicionantes da atuação de atores sociais em fóruns participativos</div><div class="pub-journal">Estudos de Sociologia (São Paulo) • v. 29, p. 425-445 • <span class="pub-year">2010</span></div></li>
-<li><div class="pub-title">M. V. 2009 CORTES, S. M. V. . Sistema Único de Saúde: espaços decisórios e a arena política de saúde</div><div class="pub-journal">Cadernos de Saúde Pública (FIOCRUZ) • v. 25, p. 1626-1633 • <span class="pub-year">2009</span></div></li>
-</ul>
-<p style="color:#999;font-size:0.9em;margin-top:10px;">+ 16 artigos não exibidos</p>
-</div>
-
-<div class="profile-section"><h2>📚 Livros Publicados (2)</h2>
-<ul class="pub-list">
-<li><div class="pub-title">Möltgen-Sicking, K. (Org.) ; Otten, H. (Org.) ; Schophaus, M. (Org.) ;</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li>
-<li><div class="pub-title">CORTES, S. M. V.</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li>
-</ul></div>
-
-
-
-<div style="text-align:center;margin-top:30px;color:#999;font-size:0.85em;">
-  PPGS/UFRGS · LABHD-UFRGS · Dados extraídos da Plataforma Lattes (CNPq)
+<li>Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia do Conhecimento/Especialidade: Metodologia de Pesquisa.</li></ul></div>
+<div class="profile-section"><h2>📄 Artigos (46)</h2><ul class="pub-list"><li><div class="pub-title">Cidadania masculina e paternidade na redemocratização brasileira</div><div class="pub-journal">ESTUDOS FEMINISTAS • v.33 p.1-15 • <span class="pub-year">2025</span></div></li>
+<li><div class="pub-title">2024 RASIA,M.J. ; CORTES, S. M. V. ; MARTINS, A.R. . Coordenação da pandemia, economia, negacionismo e emoções nos governos Trump e Bolsonaro</div><div class="pub-journal">ESTUDOS DE SOCIOLOGIA • v.29 p.251-281 • <span class="pub-year">2024</span></div></li>
+<li><div class="pub-title">M. V. . Homens e cuidado: uma análise crítica da aprovação da licença-paternidade na Assembleia Nacional Constituinte (1987-1988)</div><div class="pub-journal">INTERSEÇÕES - REVISTA DE ESTUDOS INTERDISCIPLINARES • v.25 p.5-29 • <span class="pub-year">2023</span></div></li>
+<li><div class="pub-title">A influência dos médicos nas polí­ticas de recursos humanos em saúde: conclusêss a partir da experiênncia brasileira</div><div class="pub-journal">SAÚDE EM DEBATE • v.47 p.170-181 • <span class="pub-year">2023</span></div></li>
+<li><div class="pub-title">Um modelo teórico-metodológico para análises de políticas com longas trajetórias e ação de atores em prol da mudança e da estabilidade. Interface (Botucatu</div><div class="pub-journal">Online) • v.27 p.1-15 • <span class="pub-year">2023</span></div></li>
+<li><div class="pub-title">Tendência à estabilidade institucional: regulação, formação e provimento de médicos no Brasil durante o governo Lula</div><div class="pub-journal">Ciência &amp; Saúde Coletiva • v.27 p.2531-2541 • <span class="pub-year">2022</span></div></li>
+<li><div class="pub-title">O que fez com que o Programa Mais Médicos fosse possível?</div><div class="pub-journal">Ciência &amp; Saúde Coletiva • v.27 p.2543-2552 • <span class="pub-year">2022</span></div></li>
+<li><div class="pub-title">Análise do processo de formulação do Programa Mais Médicos</div><div class="pub-journal">SAÚDE E SOCIEDADE (ONLINE) • v.31 p.1-11 • <span class="pub-year">2022</span></div></li>
+<li><div class="pub-title">Da tutela à cidadania: construção social das imagens dos usuários da Política de Assistência Social</div><div class="pub-journal">REVISTA SOCIEDADE E ESTADO • v.37 p.245-270 • <span class="pub-year">2022</span></div></li>
+<li><div class="pub-title">Institucionalização da inovação na agenda governamental: polos tecnológicos no estado do Rio Grande do Sul</div><div class="pub-journal">REVISTA BRASILEIRA DE CIÊNCIA POLÍTICA • v.36 p.1-34 • <span class="pub-year">2021</span></div></li>
+<li><div class="pub-title">EFFECTS OF STATE ACTION ON HEALTH: A REGIONALIZED ANALYSIS OF BRAZIL / EFEITOS DA AÇÃO DO ESTADO NA SAÚDE: UMA ANÁLISE REGIONALIZADA DO BRASIL</div><div class="pub-journal">Brazilian Journal of Development • v.6 p.77879-77902 • <span class="pub-year">2020</span></div></li>
+<li><div class="pub-title">Understanding social protection systems in Latin America and the Caribbean: Typologies and efforts of classification</div><div class="pub-journal">Sociology Compass • v.12 p. • <span class="pub-year">2018</span></div></li>
+<li><div class="pub-title">M. V. 2018 CORTES, S. M. V. . A sociologia no contexto do sistema de pós-graduação brasileiro - Editorial</div><div class="pub-journal">REVISTA BRASILEIRA DE SOCIOLOGIA • v.6 p.5-7 • <span class="pub-year">2018</span></div></li>
+<li><div class="pub-title">2018 BARREIRA, I. ; CORTES, S. M. V. ; LIMA, JACOB CARLOS . A sociologia fora do eixo: diversidades regionais e campo da pós-graduação no Brasil</div><div class="pub-journal">REVISTA BRASILEIRA DE SOCIOLOGIA • v.6 p.76-103 • <span class="pub-year">2018</span></div></li>
+<li><div class="pub-title">M. V. 2017 CORTES, S. M. V. . Democratic governance in Brazil: policy communities shaping national councils of social policies</div><div class="pub-journal">SOCIOLOGIES IN DIALOGUE • v.3 p.225-239 • <span class="pub-year">2017</span></div></li>
+<li><div class="pub-title">M. V. 2017 CORTES, S. M. V. . Sociologies in Dialogue - Editorial</div><div class="pub-journal">SOCIOLOGIES IN DIALOGUE • v.3 p.2-3 • <span class="pub-year">2017</span></div></li>
+<li><div class="pub-title">Sociologies in Dialogue</div><div class="pub-journal">SOCIOLOGIES IN DIALOGUE • v.2 p.1-15 • <span class="pub-year">2016</span></div></li>
+<li><div class="pub-title">Policy community defensora de direitos e a transformação do Conselho Nacional de Assistência Social. Sociologias (UFRGS</div><div class="pub-journal">Impresso) • v.17 p.122-154 • <span class="pub-year">2015</span></div></li>
+<li><div class="pub-title">Tendências e Desafios Contemporâneos da Sociologia Política. Sociologias (UFRGS</div><div class="pub-journal">Impresso) • v.17 p.14-17 • <span class="pub-year">2015</span></div></li>
+<li><div class="pub-title">2013 DUBROW, J. ; CORTES, S. M. V. . Guest Editors&#x27; Introduction. Democracy, global governance, and political inequality</div><div class="pub-journal">International Journal of Sociology • v.43 p.3-12 • <span class="pub-year">2013</span></div></li>
+<li><div class="pub-title">M. V. 2013 CORTES, S. M. V. . Contribuições teóricas e à pesquisa empírica da Sociologia às políticas públicas</div><div class="pub-journal">Revista Brasileira de Sociologia • v.1 p.35-56 • <span class="pub-year">2013</span></div></li>
+<li><div class="pub-title">The sociology in Brazil and the interdisciplinary in social sciences</div><div class="pub-journal">Soziale Passagen (Print) • v.5 p.161-175 • <span class="pub-year">2013</span></div></li>
+<li><div class="pub-title">M. V. . A sociologia no Brasil e a interdisciplinaridade nas ciências sociais</div><div class="pub-journal">Civitas (Porto Alegre) • v.13 p.416-435 • <span class="pub-year">2013</span></div></li>
+<li><div class="pub-title">Mecanismos de participação e atores sociais em hospitais: o caso do Grupo Hospitalar Conceição-RS. Saúde e Sociedade (USP</div><div class="pub-journal">Impresso) • v.21 p.59-70 • <span class="pub-year">2012</span></div></li>
+<li><div class="pub-title">M. V. 2012 CORTES, S. M. V. ; LIMA, L. L. . A contribuição da sociologia para a análise de políticas públicas</div><div class="pub-journal">Lua Nova (Impresso) • v.87 p.33 • <span class="pub-year">2012</span></div></li>
+<li><div class="pub-title">M. V. 2011 CORTES, S. M. V. ; SILVA, M.K. ; DRACHLER, M.L. . Explaining political activism in Southern Brazil: engagement in political and nonpolitical organizations, education, motivation, and the role of the state</div><div class="pub-journal">International Journal of Sociology • v.41 p.74-93 • <span class="pub-year">2011</span></div></li>
+<li><div class="pub-title">M. V. 2011 CORTES, S. M. V. ; DUBROW, J. . Guest Editors&#x27; Introduction</div><div class="pub-journal">International Journal of Sociology • v.41 p.3-9 • <span class="pub-year">2011</span></div></li>
+<li><div class="pub-title">M. V. 2010 CORTES, S. M. V. ; GUGLIANO, A.A. . Entre neocorporativistas e deliberativos: uma interpretação sobre os paradigmas de análise dos fóruns participativos no Brasil. Sociologias (UFRGS</div><div class="pub-journal">Impresso) • v.12 p.44-75 • <span class="pub-year">2010</span></div></li>
+<li><div class="pub-title">M. V. 2010 CORTES, S. M. V. ; SILVA, M.K. . Sociedade civil, instituições e atores estatais: interdependências e condicionantes da atuação de atores sociais em fóruns participativos</div><div class="pub-journal">Estudos de Sociologia (São Paulo) • v.29 p.425-445 • <span class="pub-year">2010</span></div></li>
+<li><div class="pub-title">M. V. 2009 CORTES, S. M. V. . Sistema Único de Saúde: espaços decisórios e a arena política de saúde</div><div class="pub-journal">Cadernos de Saúde Pública (FIOCRUZ) • v.25 p.1626-1633 • <span class="pub-year">2009</span></div></li></ul><p style="color:#999;font-size:0.9em;margin-top:10px;">+ 16 artigos</p></div>
+<div class="profile-section"><h2>📚 Livros (2)</h2><ul class="pub-list"><li><div class="pub-title">Möltgen-Sicking, K. (Org.) ; Otten, H. (Org.) ; Schophaus, M. (Org.) ;</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li>
+<li><div class="pub-title">CORTES, S. M. V.</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li></ul></div>
+<div class="profile-section"><h2>🔧 Projetos de Pesquisa (37)</h2><ul class="pub-list"><li><div class="pub-title"></div><div class="pub-year">0000-0003</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2502-2364</div></li>
+<li><div class="pub-title"></div><div class="pub-year">1991-1995</div></li>
+<li><div class="pub-title"></div><div class="pub-year">1980-1985</div></li>
+<li><div class="pub-title"></div><div class="pub-year">1976-1979</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2009-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">1997-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2020-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2015-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2010-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2002-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">1997-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">1997-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">1997-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2021-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2013-2015</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2009-2013</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2008-2017</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2013-2015</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2003-2006</div></li>
+<li><div class="pub-title"></div><div class="pub-year">1987-1987</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2000-2004</div></li>
+<li><div class="pub-title"></div><div class="pub-year">1996-1997</div></li>
+<li><div class="pub-title"></div><div class="pub-year">1981-1996</div></li>
+<li><div class="pub-title"></div><div class="pub-year">1989-1990</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2022-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2022-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2020-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2018-2021</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2018-2021</div></li></ul><p style="color:#999;font-size:0.9em;">+ 7 projetos</p></div>
+<div style="text-align:center;margin-top:30px;color:#999;font-size:0.85em;">PPGS/UFRGS · LABHD-UFRGS · Dados extraídos da Plataforma Lattes (CNPq)</div>
 </div>
 </body>
 </html>

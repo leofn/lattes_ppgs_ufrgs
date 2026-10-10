@@ -14,7 +14,358 @@
   },
   "formacao_academica": [],
   "atuacao_profissional": [],
-  "projetos_pesquisa": [],
+  "projetos_pesquisa": [
+    {
+      "nome": "Avalia��o participativa da pol�tica territorial de alfabetiza��o de crian�as (PROALFA) do estado do Rio Grande do Norte",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Avalia��o participativa da pol�tica territorial de alfabetiza��o de crian�as (PROALFA) do estado do Rio Grande do Norte",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Avalia��o participativa da pol�tica territorial de alfabetiza��o de crian�as (PROALFA) do estado do Rio Grande do Norte",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Avalia��o participativa da pol�tica territorial de alfabetiza��o de crian�as (PROALFA) do estado do Rio Grande do Norte",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Avalia��o participativa da pol�tica territorial de alfabetiza��o de crian�as (PROALFA) do estado do Rio Grande do Norte",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A capacidade de resposta dos munic�pios ga�chos �s enchentes e inunda��es",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A capacidade de resposta dos munic�pios ga�chos �s enchentes e inunda��es",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Ideias, atores e pr�ticas relacionadas com a preven��o ao crime e � viol�ncia no Brasil: uma an�lise a partir dos conv�nios firmados entre a Uni�o e atores subnacionais no per�odo 1996 a 2020",
+      "ano_inicio": "2022",
+      "ano_conclusao": "2025",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Ideias, atores e pr�ticas relacionadas com a preven��o ao crime e � viol�ncia no Brasil: uma an�lise a partir dos conv�nios firmados entre a Uni�o e atores subnacionais no per�odo 1996 a 2020",
+      "ano_inicio": "2022",
+      "ano_conclusao": "2025",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Avalia��o participativa da A��o Saberes Ind�genas na Escola - n�cleo UFRGS",
+      "ano_inicio": "2022",
+      "ano_conclusao": "2023",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Feminic�dios: estado da arte da produ��o acad�mica e an�lise dos cen�rios de viol�ncia",
+      "ano_inicio": "2019",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Pesquisa de avalia��o da implementa��o do Sistema Nacional de Atendimento Socioeducativo (SINASE)",
+      "ano_inicio": "2018",
+      "ano_conclusao": "2022",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Cen�rios e motiva��es dos homic�dios dolosos no Sul do Brasil",
+      "ano_inicio": "2016",
+      "ano_conclusao": "2019",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Estudo dos cen�rios e motiva��es dos homic�dios dolosos nos munic�pios da Regi�o Sul inclu�dos no Pacto Nacional pela Redu��o de Homic�dios e mapeamento das propostas de pol�ticas p�blicas para o apri",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2016",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A ades�o dos munic�pios brasileiros ao Programa Nacional de Reestrutura��o e Aparelhagem da Rede Escolar P�blica de Educa��o Infantil (PROINFANCIA) e seus fatores explicativos",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2016",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Observat�rio de Pol�ticas Sociais do RS",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2014",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Caracteriza��o do atendimento as crian�as de 0 a 6 anos residentes em �reas rurais no estado do Rio Grande do Sul/ Brasil",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2016",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Programas de pol�cia comunit�ria no Rio Grande do Sul: an�lise comparativa de propostas de pol�ticas p�blicas em andamento",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Observat�rio das Metr�poles - N�cleo Porto Alegre",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2019",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Subprojeto Desigualdade, pobreza e viol�ncia em contextos metropolitanos",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2016",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Tend�ncias da criminalidade violenta na �rea metropolitana de Porto Alegre a partir da an�lise de processos judiciais envolvendo homic�dios - aprovado pela COMPESQ/IFCH, n. 20499",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Caracteriza��o das pr�ticas educativas com crian�as de 0 a 6 anos moradoras nos territ�rios rurais brasileiros",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2013",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Caracteriza��o das pr�ticas educativas com crian�as de 0 a 6 anos moradoras nos territ�rios rurais brasileiros",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2013",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Preven��o da viol�ncia urbana: as a��es do PRONASCI em Porto Alegre/RS",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2012",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Estudo Social das Delegacias de Pol�cia de Porto Alegre",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2009",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Estudo Social das Delegacias de Pol�cia de Porto Alegre",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2009",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Levantamento do Perfil dos Alunos dos Cursos Superiores de Forma��o da Academia de Pol�cia ? Curso Superior de Forma��o de Escriv�es e Inspetores de Pol�cia",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2003",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Cen�rios sociais e fatores causais da criminalidade no Rio Grande do Sul",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2007",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Criminalidade, desigualdade e exclus�o social na Regi�o Metropolitana de Porto Alegre",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2005",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A criminalidade no estado do Rio Grande do Sul: fatores causais e perfis de vitimiza��o: 1999-2002.",
+      "ano_inicio": "2001",
+      "ano_conclusao": "2002",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Cen�rios Sociais do Crime e Perfil de Vitimiza��o no RS",
+      "ano_inicio": "2000",
+      "ano_conclusao": "2001",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Cen�rios Sociais do Crime e Perfil de Vitimiza��o no RS",
+      "ano_inicio": "2000",
+      "ano_conclusao": "2001",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Banco de Indicadores Sociais",
+      "ano_inicio": "2000",
+      "ano_conclusao": "2000",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Etiologia da Criminalidade no Rio Grande do Sul - 1999 a 2002",
+      "ano_inicio": "1999",
+      "ano_conclusao": "2002",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A viol�ncia e a criminalidade em Santa Cruz do Sul e Regi�o",
+      "ano_inicio": "1999",
+      "ano_conclusao": "2000",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A Institucionaliza��o na Inf�ncia e Adolesc�ncia como fator de produ��o de carreiras criminais adultas",
+      "ano_inicio": "1998",
+      "ano_conclusao": "2001",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Subprojeto?A criminalidade no Estado do RS: uma investiga��o da varia��o hist�rica, dos fatores regionais determinantes e do perfil de vitimiza��o ? 1992-97?",
+      "ano_inicio": "1998",
+      "ano_conclusao": "2000",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Estudo comparativo dos padr�es criminais dos munic�pios da regi�o de abrang�ncia da UNISC (1992-1998)",
+      "ano_inicio": "1998",
+      "ano_conclusao": "1998",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Pesquisa sobre h�bitos e comportamentos de consumo em Sinimb� e Herveiras",
+      "ano_inicio": "1997",
+      "ano_conclusao": "1997",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A viol�ncia no Rio Grande do Sul",
+      "ano_inicio": "1995",
+      "ano_conclusao": "1997",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Perfil da Sa�de do Policial Civil",
+      "ano_inicio": "1993",
+      "ano_conclusao": "1994",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Pr�ticas e Representa��es de Funcion�rios P�blicos: Prefeitura Municipal de Porto Alegre (1989-1992)",
+      "ano_inicio": "1992",
+      "ano_conclusao": "1995",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Solidariedades e conflitos no trabalho familiar na agricultura ga�cha",
+      "ano_inicio": "1988",
+      "ano_conclusao": "1989",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Aspectos socioculturais da comunidade de Viam�o/RS",
+      "ano_inicio": "1984",
+      "ano_conclusao": "1984",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "II Semin�rio Internacional de 30 anos do GPVC/UFRGS: Viol�ncias, Conflitos Sociais e Cidadania",
+      "ano_inicio": "2025",
+      "ano_conclusao": "2025",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A capacidade de resposta dos munic�pios ga�chos �s enchentes e inunda��es",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Semin�rio Pr�-ALAS e XIII SEMIN�RIO DE ESTUDOS LATINO-AMERICANOS",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2022",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Semin�rio de Pesquisas do Grupo de Viol�ncia e Cidadania",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2019",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Semin�rio de Pesquisas do Grupo de Viol�ncia e Cidadania",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2019",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Semin�rio de Pesquisas do Grupo de Viol�ncia e Cidadania",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2019",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    }
+  ],
   "projetos_extensao": [],
   "projetos_desenvolvimento": [],
   "areas_de_atuacao": [
@@ -985,64 +1336,37 @@
   "eventos": [],
   "bancas": [
     {
-      "descricao": "SANT'ANA, Maria Helena.; TIRELLI, C.;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade de Santa Cruz do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "OLIVEIRA, Renato.; LAPIS, Naira;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "SCHABBACH, Letícia M."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "SCHABBACH, Letícia M."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "SCHABBACH, Letícia M."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "SCHABBACH, Letícia M."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "SCHABBACH, Letícia M."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "SCHABBACH, Letícia M."
-    },
-    {
-      "descricao": "Pro-reitoria de Pesquisa."
-    },
-    {
-      "descricao": "SCHABBACH, Letícia Maria"
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "SCHABBACH, Letícia M."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     }
   ],
   "estatisticas": {
@@ -1050,7 +1374,7 @@
     "total_livros": 3,
     "total_capitulos": 22,
     "total_trabalhos_congressos": 0,
-    "total_projetos_pesquisa": 0,
+    "total_projetos_pesquisa": 50,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,
     "total_orientacoes_concluidas": 19,

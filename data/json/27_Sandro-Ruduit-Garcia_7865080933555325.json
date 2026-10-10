@@ -14,7 +14,351 @@
   },
   "formacao_academica": [],
   "atuacao_profissional": [],
-  "projetos_pesquisa": [],
+  "projetos_pesquisa": [
+    {
+      "nome": "",
+      "ano_inicio": "0000",
+      "ano_conclusao": "0002",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "7060",
+      "ano_conclusao": "2678",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2001",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1999",
+      "ano_conclusao": "2001",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1994",
+      "ano_conclusao": "1997",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2011",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2008",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2004",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2003",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2001",
+      "ano_conclusao": "2001",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2000",
+      "ano_conclusao": "2000",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2000",
+      "ano_conclusao": "2000",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1999",
+      "ano_conclusao": "1999",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2010",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2009",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1999",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1994",
+      "ano_conclusao": "1999",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2026",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2026",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2026",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2026",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2026",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2021",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2021",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2019",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2017",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2015",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2015",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2014",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2014",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2012",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2010",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2010",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2010",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2008",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2025",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2021",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2020",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2017",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2014",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2012",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2009",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1997",
+      "ano_conclusao": "2001",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1995",
+      "ano_conclusao": "1997",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2021",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    }
+  ],
   "projetos_extensao": [],
   "projetos_desenvolvimento": [],
   "areas_de_atuacao": [
@@ -1265,268 +1609,193 @@
   "eventos": [],
   "bancas": [
     {
-      "descricao": "Schneider, Sérgio;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT GARCIA, S."
+      "descricao": ""
     },
     {
-      "descricao": "Faculdade Porto Alegrense."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT GARCIA, S."
+      "descricao": ""
     },
     {
-      "descricao": "Pró-Reitoria de Graduação da UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT-GARCIA, Sandro"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT-GARCIA, Sandro"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT-GARCIA, Sandro"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT-GARCIA, Sandro"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT-GARCIA, Sandro"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT-GARCIA, Sandro"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "MELLO, L.;"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT-GARCIA, Sandro"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal Fluminense."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT-GARCIA, Sandro"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT-GARCIA, Sandro"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "Ramos, M. P.;"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT GARCIA, S."
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "Schabbach, L.;"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "Niederle, P. A.; Ramos, M. P.;"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "CÔRTES, Soraya Vargas;"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT GARCIA, S."
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT GARCIA, S."
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "Monsma, Karl M.;"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "Anjos, J. C. G. dos;"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "Almeida, Jalcione; Neves, Clarissa Eckert Baeta; Rosenfield, Cinara; Schabbach, L.; Monsma, Karl M.; Radomsky, Guilherme Waterloo;"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "Silva, Marcelo Kunrath da; Schabbach, L.;"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "Rosenfield, Cinara; Silva, Marcelo Kunrath da; Ramos, M. P.; ALMEIDA, Marilís; Weiss, R.;"
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT GARCIA, S."
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT GARCIA, S."
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT GARCIA, S."
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT GARCIA, S."
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT GARCIA, S."
+      "descricao": ""
     },
     {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "RUDUIT GARCIA, S."
+      "descricao": ""
     },
     {
-      "descricao": "Pró-Reitoria de Graduação da UFRGS."
+      "descricao": ""
     },
     {
-      "descricao": "GARCIA, S. R."
-    },
-    {
-      "descricao": "Pró-Reitoria de Pesquisa UFRGS."
-    },
-    {
-      "descricao": "GARCIA, S. R."
-    },
-    {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
-    },
-    {
-      "descricao": "RUDUIT GARCIA, S."
-    },
-    {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
-    },
-    {
-      "descricao": "RUDUIT GARCIA, S."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "GEHLEN, Ivando;"
-    },
-    {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
-    },
-    {
-      "descricao": "RUDUIT GARCIA, S."
-    },
-    {
-      "descricao": "Programa de Pós-Graduação em Sociologia/UFRGS."
-    },
-    {
-      "descricao": "RUDUIT GARCIA, S."
-    },
-    {
-      "descricao": "Universidade Federal de Pelotas."
-    },
-    {
-      "descricao": "RUDUIT GARCIA, S."
-    },
-    {
-      "descricao": "Universidade Federal de Pelotas."
-    },
-    {
-      "descricao": "RUDUIT GARCIA, S."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "RUDUIT GARCIA, S."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "RUDUIT GARCIA, S."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "RUDUIT GARCIA, S."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "RUDUIT GARCIA, S."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     }
   ],
   "estatisticas": {
@@ -1534,7 +1803,7 @@
     "total_livros": 2,
     "total_capitulos": 17,
     "total_trabalhos_congressos": 0,
-    "total_projetos_pesquisa": 0,
+    "total_projetos_pesquisa": 49,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,
     "total_orientacoes_concluidas": 55,

@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Raquel Andrade Weiss — PPGS/UFRGS</title>
-<link rel="stylesheet" href="../assets/css/style.css">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <style>
 .profile-header { background: linear-gradient(135deg, #1a237e, #283593); color: white; padding: 40px 30px; border-radius: 12px; margin-bottom: 30px; }
@@ -12,31 +11,31 @@
 .profile-header .subtitle { opacity: 0.9; font-size: 1.05em; }
 .profile-section { background: white; border-radius: 10px; padding: 24px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
 .profile-section h2 { color: #1a237e; font-size: 1.25em; margin: 0 0 16px; border-bottom: 2px solid #e8eaf6; padding-bottom: 8px; }
-.stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; }
+.stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; margin-bottom: 20px; }
 .stat-card { background: #f5f5f5; border-radius: 8px; padding: 16px; text-align: center; }
 .stat-card .num { font-size: 1.8em; font-weight: 700; color: #1a237e; }
 .stat-card .label { font-size: 0.85em; color: #666; margin-top: 4px; }
-.pub-list { list-style: none; padding: 0; }
+.pub-list { list-style: none; padding: 0; margin: 0; }
 .pub-list li { padding: 10px 0; border-bottom: 1px solid #eee; }
 .pub-list li:last-child { border-bottom: none; }
 .pub-title { font-weight: 600; color: #333; }
 .pub-journal { color: #666; font-size: 0.9em; }
 .pub-year { color: #999; font-size: 0.85em; }
-.qualis-badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.8em; font-weight: 700; color: white; margin-left: 8px; }
 .back-link { display: inline-block; margin-bottom: 20px; color: #1a237e; text-decoration: none; font-weight: 600; }
 .back-link:hover { text-decoration: underline; }
 .score-card { background: linear-gradient(135deg, #1a472a, #2d5a3d); color: white; }
 .score-card .num { color: #a5d6a7; }
+body { background: #f0f0f5; margin: 0; padding: 20px; font-family: system-ui, sans-serif; }
+.container { max-width: 900px; margin: 0 auto; }
 </style>
 </head>
-<body style="background:#f0f0f5; margin:0; padding:20px; font-family:system-ui,sans-serif; max-width:900px; margin:0 auto;">
-
+<body>
+<div class="container">
 <a href="../index.html" class="back-link">← Voltar ao dashboard</a>
-
 <div class="profile-header">
   <h1>Raquel Andrade Weiss</h1>
   <div class="subtitle">
-    Doutorado — <br>Pós-Doutorado — 
+    Doutorado — 
   </div>
   <div style="margin-top:12px;">
     <a href="http://lattes.cnpq.br/2720382688548557" target="_blank" style="color:#90caf9;text-decoration:none;">📋 Currículo Lattes ↗</a>
@@ -44,80 +43,88 @@
      &nbsp; <a href="https://www.semanticscholar.org/author/118415477" target="_blank" style="color:#90caf9;text-decoration:none;">📚 Semantic Scholar (84 citações) ↗</a>
   </div>
 </div>
-
 <div class="stat-grid">
   <div class="stat-card"><div class="num">29</div><div class="label">Artigos</div></div>
   <div class="stat-card"><div class="num">7</div><div class="label">Livros</div></div>
   <div class="stat-card"><div class="num">24</div><div class="label">Capítulos</div></div>
-  <div class="stat-card"><div class="num">0</div><div class="label">Projetos</div></div>
+  <div class="stat-card"><div class="num">30</div><div class="label">Projetos</div></div>
+  <div class="stat-card"><div class="num">14</div><div class="label">Bancas</div></div>
   <div class="stat-card"><div class="num">45</div><div class="label">Orientações</div></div>
   <div class="stat-card"><div class="num">84</div><div class="label">Citações</div></div>
   <div class="stat-card score-card"><div class="num">0</div><div class="label">Score Qualis</div></div>
 </div>
 
-
-
-<div class="profile-section"><h2>🎓 Formação</h2><ul>
-<li><strong>Doutorado</strong> —  (-)</li>
-<li><strong>Pós-Doutorado</strong> —  (-)</li>
-</ul></div>
-
-<div class="profile-section"><h2>🔬 Áreas de Atuação</h2><ul>
-<li>Grande área: Ciências Humanas / Área: Sociologia / Subárea: Fundamentos da Sociologia/Especialidade: Teoria Sociológica.</li>
+<div class="profile-section"><h2>🎓 Formação</h2><ul><li><strong>Doutorado</strong> —  (-)</li></ul></div>
+<div class="profile-section"><h2>🔬 Áreas de Atuação</h2><ul><li>Grande área: Ciências Humanas / Área: Sociologia / Subárea: Fundamentos da Sociologia/Especialidade: Teoria Sociológica.</li>
 <li>Grande área: Ciências Humanas / Área: Filosofia / Subárea: Ética.</li>
-<li>Grande área: Ciências Humanas / Área: Sociologia / Subárea: Fundamentos da Sociologia.</li>
-</ul></div>
-
-<div class="profile-section"><h2>📄 Artigos Publicados (29)</h2>
-<ul class="pub-list">
-<li><div class="pub-title">Metamorfoses da Sociologia em Tempos de Crise</div><div class="pub-journal">REVISTA BRASILEIRA DE SOCIOLOGIA • v. 13, p.  • <span class="pub-year">2025</span></div></li>
-<li><div class="pub-title">Pensar o mundo na encruzilhada</div><div class="pub-journal">Civitas (Porto Alegre) • v. 24, p.  • <span class="pub-year">2024</span></div></li>
-<li><div class="pub-title">L. 2022 HAMLIN, C. L. ; WEISS, R. A. . A outra margem: quando o feminismo encontra a Teoria Social.</div><div class="pub-journal">Revista Contraponto • v. 8, p. 12-24 • <span class="pub-year">2022</span></div></li>
-<li><div class="pub-title">L. 2022 HAMLIN, C. L. ; BRITO, S. M. ; WEISS, R. A. . Por uma sociologia polifônica introduzindo vozes femininas no cânone sociológico</div><div class="pub-journal">Sociologias (UFRGS) • v. 61, p. 26-59 • <span class="pub-year">2022</span></div></li>
-<li><div class="pub-title">Max Weber ontem e hoje: entrevista com Wolfgang Schluchter</div><div class="pub-journal">TEMPO SOCIAL (ONLINE) • v. 33, p. 389-417 • <span class="pub-year">2021</span></div></li>
-<li><div class="pub-title">Talcott Parsons and the Sociology of Morality</div><div class="pub-journal">The American Sociologist • v. 52, p. 107-130 • <span class="pub-year">2021</span></div></li>
-<li><div class="pub-title">A educação como socialização em Émile Durkheim</div><div class="pub-journal">REVISTA ESPAÇO PEDAGÓGICO • v. 28, p. 13-33 • <span class="pub-year">2021</span></div></li>
-<li><div class="pub-title">B. 2020 LIEBGOTT, C. B. ; WEISS, R. A. . MARCAS DE UMA CULTURA LESBOFÓBICA EM NARRATIVAS DE DOCENTES LÉSBICAS</div><div class="pub-journal">REVISTA DIVERSIDADE E EDUCAÇÃO • v. 8, p. 284-310 • <span class="pub-year">2020</span></div></li>
-<li><div class="pub-title">BETWEEN THE SPIRIT AND THE LETTER: DURKHEIMIAN THEORY IN THE CULTURAL SOCIOLOGY OF JEFFREY ALEXANDER</div><div class="pub-journal">REVISTA SOCIOLOGIA E ANTROPOLOGIA • v. 9, p. 85-110 • <span class="pub-year">2019</span></div></li>
-<li><div class="pub-title">REFRAÇÕES MORAIS E COGNITIVAS</div><div class="pub-journal">Inter-legere (UFRN) • v. 2, p. 294-329 • <span class="pub-year">2019</span></div></li>
-<li><div class="pub-title">Uma -laicidade interacional-? Norma constitucional e expressão religiosa em uma universidade pública do Brasil.</div><div class="pub-journal">Século XXI Revista de Ciências Sociais • v. 6, p. 145-181 • <span class="pub-year">2017</span></div></li>
-<li><div class="pub-title">100 anos sem Durkheim. 100 anos com Durkheim. SOCIOLOGIAS (UFRGS</div><div class="pub-journal">IMPRESSO) • v. 19, p. 16-36 • <span class="pub-year">2017</span></div></li>
-<li><div class="pub-title">A. 2017 WEISS, R. A. ; Oliveira, Márcio de . Vers un renouveau durkheimien au Brésil</div><div class="pub-journal">Sociologie • v. 8, p. 321-330 • <span class="pub-year">2017</span></div></li>
-<li><div class="pub-title">Émile Durkheim: de ideólogo da laicidade a precursor das teorias pós-seculares</div><div class="pub-journal">Revista Política e Sociedade • v. 16, p. 428-448 • <span class="pub-year">2017</span></div></li>
-<li><div class="pub-title">A. 2015 WEISS, R. A. ; RAMOS, L. H. . A finalidade moral do fazer sociológico: sobre os sentidos do conceito de normal em Émile Durkheim</div><div class="pub-journal">Mediações - Revista de Ciências Sociais • v. 20, p. 312-339 • <span class="pub-year">2015</span></div></li>
-<li><div class="pub-title">Tradição e autenticidade em um mundo pós-convencional: uma leitura durkheimiana</div><div class="pub-journal">Sociologias (UFRGS) • v. 17, p. 110-159 • <span class="pub-year">2015</span></div></li>
-<li><div class="pub-title">A. 2014 WEISS, R. A. . Max Weber e o problema dos valores: as justificativas para a neutralidade axiológica. Revista de Sociologia e Política (UFPR</div><div class="pub-journal">Impresso) • v. 22, p. 113-137 • <span class="pub-year">2014</span></div></li>
-<li><div class="pub-title">A. 2013 WEISS, R. A. . Perspectivas sobre a política na teoria de Émile Durkheim. BIB</div><div class="pub-journal">Revista Brasileira de Informação Bibliográfica em Ciências Sociais • v. 71, p. 45-67 • <span class="pub-year">2013</span></div></li>
-<li><div class="pub-title">A. 2013 WEISS, R. A. . O Sagrado e a Moralidade Laica na Teoria Moral Durkheimiana</div><div class="pub-journal">Revista Pós Ciências Sociais • v. 10, p. 47-68 • <span class="pub-year">2013</span></div></li>
-<li><div class="pub-title">A. 2013 WEISS, R. A. . Efervescência, dinamogenia e a ontogênese social do sagrado. Mana (UFRJ</div><div class="pub-journal">Impresso) • v. 19, p. 157-179 • <span class="pub-year">2013</span></div></li>
-<li><div class="pub-title">A. 2013 WEISS, R. A. ; QUEIROZ, J. B. . Apresentação - Cem Anos de Publicação d`As Formas Elementares da Vida Religiosa</div><div class="pub-journal">Revista Pós Ciências Sociais • v. 10, p. 9-14 • <span class="pub-year">2013</span></div></li>
-<li><div class="pub-title">Do mundano ao sagrado: o papel da efervescência na teoria moral durkheimiana. Horizontes Antropológicos (UFRGS</div><div class="pub-journal">Impresso) • v. 19, p. 395-421 • <span class="pub-year">2013</span></div></li>
-<li><div class="pub-title">A. 2012 WEISS, R. A. . Durkheim e as Formas Elementares da Vida Religiosa</div><div class="pub-journal">Debates do NER • v. 13, p. 95-119 • <span class="pub-year">2012</span></div></li>
-<li><div class="pub-title">A. 2012 WEISS, R. A. . O Sagrado, a dualidade humana e a natureza social da religião. Debates do NER (UFRGS</div><div class="pub-journal">Impresso) • v. 13, p. 17-26 • <span class="pub-year">2012</span></div></li>
-<li><div class="pub-title">A. 2012 WEISS, R. A. . From Ideas to Ideals: Effervescence as the Key to Understanding Morality</div><div class="pub-journal">Durkheimian Studies • v. 18, p. 81-97 • <span class="pub-year">2012</span></div></li>
-<li><div class="pub-title">F. 2012 WEISS, R. A. ; BENTHIEN, R. F. ; A redescoberta de um sociólogo: considerações sobre a correspondência de Émile Durkheim a Salomon Reinach</div><div class="pub-journal">Novos Estudos CEBRAP (Impresso) • v. , p. 133-149 • <span class="pub-year">2012</span></div></li>
-<li><div class="pub-title">A. 2011 WEISS, R. A. . Múltiplos Sentidos de Ser um Clássico da Sociologia. Cult (São Paulo) , v. no</div><div class="pub-journal">3 • v. , p. 47-50 • <span class="pub-year">2011</span></div></li>
-<li><div class="pub-title">A. 2007 WEISS, R. A. ; Durkheim, Émile . &#x27;O Ensino da Moral na Escola Primária: Apresentação&#x27;. Novos Estudos</div><div class="pub-journal">CEBRAP • v. 78, p. 59-61 • <span class="pub-year">2007</span></div></li>
-<li><div class="pub-title">A. 2005 WEISS, R. A. . Indivíduo, razão e Liberdade: Uma Análise Comparativa de Habermas e Durkheim. Revista Plural, São Paulo, v</div><div class="pub-journal">12 • v. 12, p. 105-122 • <span class="pub-year">2005</span></div></li>
-</ul>
-
-</div>
-
-<div class="profile-section"><h2>📚 Livros Publicados (7)</h2>
-<ul class="pub-list">
-<li><div class="pub-title">ALEXANDER, J. (Org.) ;</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li>
+<li>Grande área: Ciências Humanas / Área: Sociologia / Subárea: Fundamentos da Sociologia.</li></ul></div>
+<div class="profile-section"><h2>📄 Artigos (29)</h2><ul class="pub-list"><li><div class="pub-title">Metamorfoses da Sociologia em Tempos de Crise</div><div class="pub-journal">REVISTA BRASILEIRA DE SOCIOLOGIA • v.13 p. • <span class="pub-year">2025</span></div></li>
+<li><div class="pub-title">Pensar o mundo na encruzilhada</div><div class="pub-journal">Civitas (Porto Alegre) • v.24 p. • <span class="pub-year">2024</span></div></li>
+<li><div class="pub-title">L. 2022 HAMLIN, C. L. ; WEISS, R. A. . A outra margem: quando o feminismo encontra a Teoria Social.</div><div class="pub-journal">Revista Contraponto • v.8 p.12-24 • <span class="pub-year">2022</span></div></li>
+<li><div class="pub-title">L. 2022 HAMLIN, C. L. ; BRITO, S. M. ; WEISS, R. A. . Por uma sociologia polifônica introduzindo vozes femininas no cânone sociológico</div><div class="pub-journal">Sociologias (UFRGS) • v.61 p.26-59 • <span class="pub-year">2022</span></div></li>
+<li><div class="pub-title">Max Weber ontem e hoje: entrevista com Wolfgang Schluchter</div><div class="pub-journal">TEMPO SOCIAL (ONLINE) • v.33 p.389-417 • <span class="pub-year">2021</span></div></li>
+<li><div class="pub-title">Talcott Parsons and the Sociology of Morality</div><div class="pub-journal">The American Sociologist • v.52 p.107-130 • <span class="pub-year">2021</span></div></li>
+<li><div class="pub-title">A educação como socialização em Émile Durkheim</div><div class="pub-journal">REVISTA ESPAÇO PEDAGÓGICO • v.28 p.13-33 • <span class="pub-year">2021</span></div></li>
+<li><div class="pub-title">B. 2020 LIEBGOTT, C. B. ; WEISS, R. A. . MARCAS DE UMA CULTURA LESBOFÓBICA EM NARRATIVAS DE DOCENTES LÉSBICAS</div><div class="pub-journal">REVISTA DIVERSIDADE E EDUCAÇÃO • v.8 p.284-310 • <span class="pub-year">2020</span></div></li>
+<li><div class="pub-title">BETWEEN THE SPIRIT AND THE LETTER: DURKHEIMIAN THEORY IN THE CULTURAL SOCIOLOGY OF JEFFREY ALEXANDER</div><div class="pub-journal">REVISTA SOCIOLOGIA E ANTROPOLOGIA • v.9 p.85-110 • <span class="pub-year">2019</span></div></li>
+<li><div class="pub-title">REFRAÇÕES MORAIS E COGNITIVAS</div><div class="pub-journal">Inter-legere (UFRN) • v.2 p.294-329 • <span class="pub-year">2019</span></div></li>
+<li><div class="pub-title">Uma -laicidade interacional-? Norma constitucional e expressão religiosa em uma universidade pública do Brasil.</div><div class="pub-journal">Século XXI Revista de Ciências Sociais • v.6 p.145-181 • <span class="pub-year">2017</span></div></li>
+<li><div class="pub-title">100 anos sem Durkheim. 100 anos com Durkheim. SOCIOLOGIAS (UFRGS</div><div class="pub-journal">IMPRESSO) • v.19 p.16-36 • <span class="pub-year">2017</span></div></li>
+<li><div class="pub-title">A. 2017 WEISS, R. A. ; Oliveira, Márcio de . Vers un renouveau durkheimien au Brésil</div><div class="pub-journal">Sociologie • v.8 p.321-330 • <span class="pub-year">2017</span></div></li>
+<li><div class="pub-title">Émile Durkheim: de ideólogo da laicidade a precursor das teorias pós-seculares</div><div class="pub-journal">Revista Política e Sociedade • v.16 p.428-448 • <span class="pub-year">2017</span></div></li>
+<li><div class="pub-title">A. 2015 WEISS, R. A. ; RAMOS, L. H. . A finalidade moral do fazer sociológico: sobre os sentidos do conceito de normal em Émile Durkheim</div><div class="pub-journal">Mediações - Revista de Ciências Sociais • v.20 p.312-339 • <span class="pub-year">2015</span></div></li>
+<li><div class="pub-title">Tradição e autenticidade em um mundo pós-convencional: uma leitura durkheimiana</div><div class="pub-journal">Sociologias (UFRGS) • v.17 p.110-159 • <span class="pub-year">2015</span></div></li>
+<li><div class="pub-title">A. 2014 WEISS, R. A. . Max Weber e o problema dos valores: as justificativas para a neutralidade axiológica. Revista de Sociologia e Política (UFPR</div><div class="pub-journal">Impresso) • v.22 p.113-137 • <span class="pub-year">2014</span></div></li>
+<li><div class="pub-title">A. 2013 WEISS, R. A. . Perspectivas sobre a política na teoria de Émile Durkheim. BIB</div><div class="pub-journal">Revista Brasileira de Informação Bibliográfica em Ciências Sociais • v.71 p.45-67 • <span class="pub-year">2013</span></div></li>
+<li><div class="pub-title">A. 2013 WEISS, R. A. . O Sagrado e a Moralidade Laica na Teoria Moral Durkheimiana</div><div class="pub-journal">Revista Pós Ciências Sociais • v.10 p.47-68 • <span class="pub-year">2013</span></div></li>
+<li><div class="pub-title">A. 2013 WEISS, R. A. . Efervescência, dinamogenia e a ontogênese social do sagrado. Mana (UFRJ</div><div class="pub-journal">Impresso) • v.19 p.157-179 • <span class="pub-year">2013</span></div></li>
+<li><div class="pub-title">A. 2013 WEISS, R. A. ; QUEIROZ, J. B. . Apresentação - Cem Anos de Publicação d`As Formas Elementares da Vida Religiosa</div><div class="pub-journal">Revista Pós Ciências Sociais • v.10 p.9-14 • <span class="pub-year">2013</span></div></li>
+<li><div class="pub-title">Do mundano ao sagrado: o papel da efervescência na teoria moral durkheimiana. Horizontes Antropológicos (UFRGS</div><div class="pub-journal">Impresso) • v.19 p.395-421 • <span class="pub-year">2013</span></div></li>
+<li><div class="pub-title">A. 2012 WEISS, R. A. . Durkheim e as Formas Elementares da Vida Religiosa</div><div class="pub-journal">Debates do NER • v.13 p.95-119 • <span class="pub-year">2012</span></div></li>
+<li><div class="pub-title">A. 2012 WEISS, R. A. . O Sagrado, a dualidade humana e a natureza social da religião. Debates do NER (UFRGS</div><div class="pub-journal">Impresso) • v.13 p.17-26 • <span class="pub-year">2012</span></div></li>
+<li><div class="pub-title">A. 2012 WEISS, R. A. . From Ideas to Ideals: Effervescence as the Key to Understanding Morality</div><div class="pub-journal">Durkheimian Studies • v.18 p.81-97 • <span class="pub-year">2012</span></div></li>
+<li><div class="pub-title">F. 2012 WEISS, R. A. ; BENTHIEN, R. F. ; A redescoberta de um sociólogo: considerações sobre a correspondência de Émile Durkheim a Salomon Reinach</div><div class="pub-journal">Novos Estudos CEBRAP (Impresso) • v. p.133-149 • <span class="pub-year">2012</span></div></li>
+<li><div class="pub-title">A. 2011 WEISS, R. A. . Múltiplos Sentidos de Ser um Clássico da Sociologia. Cult (São Paulo) , v. no</div><div class="pub-journal">3 • v. p.47-50 • <span class="pub-year">2011</span></div></li>
+<li><div class="pub-title">A. 2007 WEISS, R. A. ; Durkheim, Émile . &#x27;O Ensino da Moral na Escola Primária: Apresentação&#x27;. Novos Estudos</div><div class="pub-journal">CEBRAP • v.78 p.59-61 • <span class="pub-year">2007</span></div></li>
+<li><div class="pub-title">A. 2005 WEISS, R. A. . Indivíduo, razão e Liberdade: Uma Análise Comparativa de Habermas e Durkheim. Revista Plural, São Paulo, v</div><div class="pub-journal">12 • v.12 p.105-122 • <span class="pub-year">2005</span></div></li></ul></div>
+<div class="profile-section"><h2>📚 Livros (7)</h2><ul class="pub-list"><li><div class="pub-title">ALEXANDER, J. (Org.) ;</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li>
 <li><div class="pub-title">WEISS, R. A.</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li>
 <li><div class="pub-title">WEISS, R. A.</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li>
 <li><div class="pub-title">WEISS, R. A.</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li>
 <li><div class="pub-title">WEISS, R. A.</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li>
 <li><div class="pub-title">Oliveira, Márcio de (Org.) ;</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li>
-<li><div class="pub-title">WEISS, R. A.</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li>
-</ul></div>
-
-
-
-<div style="text-align:center;margin-top:30px;color:#999;font-size:0.85em;">
-  PPGS/UFRGS · LABHD-UFRGS · Dados extraídos da Plataforma Lattes (CNPq)
+<li><div class="pub-title">WEISS, R. A.</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li></ul></div>
+<div class="profile-section"><h2>🔧 Projetos de Pesquisa (30)</h2><ul class="pub-list"><li><div class="pub-title">Moral, Sujeito e La�o Social</div><div class="pub-year">2020-Atual</div></li>
+<li><div class="pub-title">Biblioteca Durkheimiana</div><div class="pub-year">2013-Atual</div></li>
+<li><div class="pub-title">Biblioteca Durkheimiana</div><div class="pub-year">2013-Atual</div></li>
+<li><div class="pub-title">A Rela��o Entre a Autonomia Moral e Autonomia Pol�tica de �mile Durkheim</div><div class="pub-year">2012-2014</div></li>
+<li><div class="pub-title">A Concep��o de Autonomia na Teoria Moral e Pol�tica de �mile Durkheim</div><div class="pub-year">2011-2012</div></li>
+<li><div class="pub-title">Universalismo e particularismo nas teorias morais e jur�dicas</div><div class="pub-year">2010-2012</div></li>
+<li><div class="pub-title">A Teoria Moral de �mile Durkheim � Luz da Filosofia de Kant e do Kantismo Franc�s</div><div class="pub-year">2006-2011</div></li>
+<li><div class="pub-title">Entre a pol�tica e a moral: teoria cr�tica, o direito e heran�a kantiana</div><div class="pub-year">2004-2008</div></li>
+<li><div class="pub-title">�mile Durkheim e a Revolu��o Copernicana no Conceito de Moral</div><div class="pub-year">2004-2006</div></li>
+<li><div class="pub-title">Grupo de Estudos de Filosofia Alem�</div><div class="pub-year">2003-2012</div></li>
+<li><div class="pub-title">Aspectos Positivos e Normativos do Conceito de Educa��o de �mile Durkheim</div><div class="pub-year">2003-2003</div></li>
+<li><div class="pub-title">Elementos B�sicos da Sociologia da Educa��o de �mile Durkheim</div><div class="pub-year">2001-2002</div></li>
+<li><div class="pub-title">Concep��es da Moral: percep��es sociol�gicas e antropol�gicas no Brasil</div><div class="pub-year">2022-2022</div></li>
+<li><div class="pub-title">Mapeando as Linhagens Sociol�gicas</div><div class="pub-year">2019-2019</div></li>
+<li><div class="pub-title">A��es de Extens�o do Departamento de Sociologia 2017</div><div class="pub-year">2017-2017</div></li>
+<li><div class="pub-title">Mostra Livre de Filmes em Ci�ncias Sociais</div><div class="pub-year">2015-2015</div></li>
+<li><div class="pub-title">Sociologia da Moral: m�ltiplas perspectivas</div><div class="pub-year">2013-2013</div></li>
+<li><div class="pub-title">As Formas Elementares: 100 Anos de um Cl�ssico</div><div class="pub-year">2012-2012</div></li>
+<li><div class="pub-title">Metamorfoses da Sociologia</div><div class="pub-year">2021-Atual</div></li>
+<li><div class="pub-title">Moral, Sujeito e La�o Social</div><div class="pub-year">2020-Atual</div></li>
+<li><div class="pub-title">GETSS - Grupo de Estudos em Teoria Social e Subjetividade</div><div class="pub-year">2014-Atual</div></li>
+<li><div class="pub-title">Centro Brasileiro de Estudos Durkheimianos [Grupo de Pesquisa]</div><div class="pub-year">2012-Atual</div></li>
+<li><div class="pub-title">Peri�dico: Temas Sociol�gicos</div><div class="pub-year">2017-Atual</div></li>
+<li><div class="pub-title">GETSS - Grupo de Estudos em Teoria Social e Subjetividade</div><div class="pub-year">2014-Atual</div></li>
+<li><div class="pub-title">Biblioteca Durkheimiana</div><div class="pub-year">2013-Atual</div></li>
+<li><div class="pub-title">Biblioteca Durkheimiana</div><div class="pub-year">2013-Atual</div></li>
+<li><div class="pub-title">Biblioteca Durkheimiana</div><div class="pub-year">2013-Atual</div></li>
+<li><div class="pub-title">Peri�dico: MEDIA��ES - REVISTA DE CI�NCIAS SOCIAIS</div><div class="pub-year">2019-Atual</div></li>
+<li><div class="pub-title">Peri�dico: MEDIA��ES - REVISTA DE CI�NCIAS SOCIAIS</div><div class="pub-year">2019-Atual</div></li>
+<li><div class="pub-title">Peri�di</div><div class="pub-year">2018-Atual</div></li></ul></div>
+<div style="text-align:center;margin-top:30px;color:#999;font-size:0.85em;">PPGS/UFRGS · LABHD-UFRGS · Dados extraídos da Plataforma Lattes (CNPq)</div>
 </div>
 </body>
 </html>

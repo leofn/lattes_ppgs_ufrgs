@@ -14,7 +14,218 @@
   },
   "formacao_academica": [],
   "atuacao_profissional": [],
-  "projetos_pesquisa": [],
+  "projetos_pesquisa": [
+    {
+      "nome": "Moral, Sujeito e La�o Social",
+      "ano_inicio": "2020",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Biblioteca Durkheimiana",
+      "ano_inicio": "2013",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Biblioteca Durkheimiana",
+      "ano_inicio": "2013",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A Rela��o Entre a Autonomia Moral e Autonomia Pol�tica de �mile Durkheim",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2014",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A Concep��o de Autonomia na Teoria Moral e Pol�tica de �mile Durkheim",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2012",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Universalismo e particularismo nas teorias morais e jur�dicas",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2012",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A Teoria Moral de �mile Durkheim � Luz da Filosofia de Kant e do Kantismo Franc�s",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2011",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Entre a pol�tica e a moral: teoria cr�tica, o direito e heran�a kantiana",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2008",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "�mile Durkheim e a Revolu��o Copernicana no Conceito de Moral",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Grupo de Estudos de Filosofia Alem�",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2012",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Aspectos Positivos e Normativos do Conceito de Educa��o de �mile Durkheim",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2003",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Elementos B�sicos da Sociologia da Educa��o de �mile Durkheim",
+      "ano_inicio": "2001",
+      "ano_conclusao": "2002",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Concep��es da Moral: percep��es sociol�gicas e antropol�gicas no Brasil",
+      "ano_inicio": "2022",
+      "ano_conclusao": "2022",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Mapeando as Linhagens Sociol�gicas",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2019",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A��es de Extens�o do Departamento de Sociologia 2017",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2017",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Mostra Livre de Filmes em Ci�ncias Sociais",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Sociologia da Moral: m�ltiplas perspectivas",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2013",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "As Formas Elementares: 100 Anos de um Cl�ssico",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2012",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Metamorfoses da Sociologia",
+      "ano_inicio": "2021",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Moral, Sujeito e La�o Social",
+      "ano_inicio": "2020",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "GETSS - Grupo de Estudos em Teoria Social e Subjetividade",
+      "ano_inicio": "2014",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Centro Brasileiro de Estudos Durkheimianos [Grupo de Pesquisa]",
+      "ano_inicio": "2012",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Peri�dico: Temas Sociol�gicos",
+      "ano_inicio": "2017",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "GETSS - Grupo de Estudos em Teoria Social e Subjetividade",
+      "ano_inicio": "2014",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Biblioteca Durkheimiana",
+      "ano_inicio": "2013",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Biblioteca Durkheimiana",
+      "ano_inicio": "2013",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Biblioteca Durkheimiana",
+      "ano_inicio": "2013",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Peri�dico: MEDIA��ES - REVISTA DE CI�NCIAS SOCIAIS",
+      "ano_inicio": "2019",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Peri�dico: MEDIA��ES - REVISTA DE CI�NCIAS SOCIAIS",
+      "ano_inicio": "2019",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Peri�di",
+      "ano_inicio": "2018",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    }
+  ],
   "projetos_extensao": [],
   "projetos_desenvolvimento": [],
   "areas_de_atuacao": [
@@ -1143,100 +1354,46 @@
   "eventos": [],
   "bancas": [
     {
-      "descricao": "WEISS, R. A."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal de Santa Catarina."
+      "descricao": ""
     },
     {
-      "descricao": "WEISS, R. A."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal da Bahia."
+      "descricao": ""
     },
     {
-      "descricao": "WEISS, R. A."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "WEISS, R. A."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "Weiss, Raquel"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "WEISS, R. A."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "Weiss, Raquel"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "WEISS, R. A."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "WEISS, R. A."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "WEISS, R. A."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "WEISS, R. A."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "WEISS, R. A."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "WEISS, R. A."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "Weiss, Raquel"
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "WEISS, R. A."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "WEISS, R. A."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul"
+      "descricao": ""
     }
   ],
   "estatisticas": {
@@ -1244,7 +1401,7 @@
     "total_livros": 7,
     "total_capitulos": 24,
     "total_trabalhos_congressos": 0,
-    "total_projetos_pesquisa": 0,
+    "total_projetos_pesquisa": 30,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,
     "total_orientacoes_concluidas": 45,

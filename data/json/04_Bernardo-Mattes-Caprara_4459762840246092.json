@@ -14,7 +14,36 @@
   },
   "formacao_academica": [],
   "atuacao_profissional": [],
-  "projetos_pesquisa": [],
+  "projetos_pesquisa": [
+    {
+      "nome": "Sociologia na educação básica: práticas da docência de ciências sociais no Rio Grande do Sul",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Biografias sociológicas de docentes de Sociologia na educação básica em Porto Alegre (RS): socializações, disposições e práticas",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "O social individualizado: socializações, disposições e práticas",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2022",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Desigualdades econômicas e culturais e a educação básica no Brasil",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2017",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    }
+  ],
   "projetos_extensao": [],
   "projetos_desenvolvimento": [],
   "areas_de_atuacao": [
@@ -525,16 +554,16 @@
   "eventos": [],
   "bancas": [
     {
-      "descricao": "ROCHA, H. J.;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal da Fronteira Sul."
+      "descricao": ""
     },
     {
-      "descricao": "CAPRARA, B. M."
+      "descricao": ""
     },
     {
-      "descricao": "Instituto Federal Farroupilha."
+      "descricao": ""
     }
   ],
   "estatisticas": {
@@ -542,7 +571,7 @@
     "total_livros": 4,
     "total_capitulos": 6,
     "total_trabalhos_congressos": 0,
-    "total_projetos_pesquisa": 0,
+    "total_projetos_pesquisa": 4,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,
     "total_orientacoes_concluidas": 5,

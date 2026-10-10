@@ -16,53 +16,53 @@
   "atuacao_profissional": [],
   "projetos_pesquisa": [
     {
-      "nome": "FLEURY, LORENA C.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2023",
+      "ano_conclusao": "2025",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "FLEURY, L. C.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2021",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "FLEURY, LORENA C.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2023",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "FLEURY, L. C.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2018",
+      "ano_conclusao": "atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "FLEURY, L. C.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2021",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "FLEURY, L. C.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2019",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "FLEURY, L. C.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2021",
+      "tipo": "Pesquisa",
+      "descricao": ""
     }
   ],
   "projetos_extensao": [],
@@ -1303,46 +1303,28 @@
   "eventos": [],
   "bancas": [
     {
-      "descricao": "WAIZBORT, L.; FREHSE, F.; MACIEL, D. A.;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade de São Paulo."
+      "descricao": ""
     },
     {
-      "descricao": "CHAGURI, M.;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Estadual de Campinas."
+      "descricao": ""
     },
     {
-      "descricao": "FLEURY, L. C."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "FLEURY, L. C."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "FLEURY, L. C."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
-    },
-    {
-      "descricao": "FLEURY, L. C."
-    },
-    {
-      "descricao": "Pontifícia Universidade Católica do Rio Grande do Sul."
-    },
-    {
-      "descricao": "FLEURY, L. C."
-    },
-    {
-      "descricao": "Universidade Federal do Rio Grande do S"
+      "descricao": ""
     }
   ],
   "estatisticas": {

@@ -14,7 +14,120 @@
   },
   "formacao_academica": [],
   "atuacao_profissional": [],
-  "projetos_pesquisa": [],
+  "projetos_pesquisa": [
+    {
+      "nome": "",
+      "ano_inicio": "2026",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2026",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2022",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2021",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2018",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2021",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2016",
+      "ano_conclusao": "2019",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2016",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2010",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2005",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1922",
+      "ano_conclusao": "2002",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2004",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    }
+  ],
   "projetos_extensao": [],
   "projetos_desenvolvimento": [],
   "areas_de_atuacao": [
@@ -894,82 +1007,82 @@
   "eventos": [],
   "bancas": [
     {
-      "descricao": "MAGALHÃES, A."
+      "descricao": ""
     },
     {
-      "descricao": "Associação Nacional de Pós-Graduação e Pesquisa em Ciências Sociais."
+      "descricao": ""
     },
     {
-      "descricao": "MAGALHÃES, A."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Estado do Rio de Janeiro."
+      "descricao": ""
     },
     {
-      "descricao": "FLEURY, L. C.;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "MAGALHÃES, A."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "MAGALHÃES, A."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "TEIXEIRA, A. N.;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "MAGALHÃES, A."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade de São Paulo."
+      "descricao": ""
     },
     {
-      "descricao": "MAGALHÃES, A."
+      "descricao": ""
     },
     {
-      "descricao": "Associação Nacional de Pós-Graduação e Pesquisa em Ciências Sociais."
+      "descricao": ""
     },
     {
-      "descricao": "MAGALHÃES, A."
+      "descricao": ""
     },
     {
-      "descricao": "Pontifícia Universidade Católica do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "MAGALHÃES, A."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "MAGALHÃES, A."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "MAGALHÃES, A."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "MAGALHÃES, A."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade do Estado d"
+      "descricao": ""
     }
   ],
   "estatisticas": {
@@ -977,7 +1090,7 @@
     "total_livros": 4,
     "total_capitulos": 11,
     "total_trabalhos_congressos": 0,
-    "total_projetos_pesquisa": 0,
+    "total_projetos_pesquisa": 16,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,
     "total_orientacoes_concluidas": 41,

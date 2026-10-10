@@ -16,151 +16,403 @@
   "atuacao_profissional": [],
   "projetos_pesquisa": [
     {
-      "nome": "8",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "0000",
+      "ano_conclusao": "0001",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "9",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "7817",
+      "ano_conclusao": "6469",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "PIMENTA, MELISSA DE MATTOS",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2007",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "TAVARES DOS SANTOS, J. V.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "1999",
+      "ano_conclusao": "2001",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "PIMENTA, M. M.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "1994",
+      "ano_conclusao": "1998",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "OLIVEIRA, V. H. N. (Org.) ;",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2005",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "PIMENTA, M. M.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2004",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "PIMENTA, M. M.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2003",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "PIMENTA, M. M.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "1999",
+      "ano_conclusao": "1999",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "PIMENTA, M. M.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "1997",
+      "ano_conclusao": "1997",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "TEIXEIRA, A. N. ;",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "1997",
+      "ano_conclusao": "1997",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "TAVARES DOS SANTOS, J. V.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "1996",
+      "ano_conclusao": "1996",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "GEHLEN, I. ; SCHUCH, P. ; VIRGINIO, A. S. ;",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2011",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "SCHUCH, P. ; GEHLEN, I. ; VIRGINIO, A. S. ;",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2019",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "PIMENTA, M. M.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2019",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "VIRGINIO, A. S. ; GEHLEN, I. ;",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2018",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "PIMENTA, M. M.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2018",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "TEIXEIRA, A. N. ;",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2018",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "TEIXEIRA, A. N. ;",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2018",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "PIMENTA, M. M.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2018",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
     },
     {
-      "nome": "PIMENTA, M. M.",
-      "descricao": "",
-      "ano_inicio": "",
-      "ano_conclusao": "",
-      "tipo": "Pesquisa"
+      "nome": "",
+      "ano_inicio": "2018",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2018",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2016",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2011",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2011",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2010",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2008",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2008",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2010",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2009",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2008",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2007",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "1996",
+      "ano_conclusao": "1997",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2026",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2023",
+      "ano_conclusao": "2026",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2023",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2022",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2022",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2021",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2018",
+      "ano_conclusao": "2022",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2016",
+      "ano_conclusao": "2019",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2017",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2012",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2011",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2010",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2008",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2007",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2007",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
     }
   ],
   "projetos_extensao": [],
@@ -837,34 +1089,286 @@
   "eventos": [],
   "bancas": [
     {
-      "descricao": "MAGALHÃES, A. A.;"
+      "descricao": ""
     },
     {
-      "descricao": "TAVARES DOS SANTOS, J. V."
+      "descricao": ""
     },
     {
-      "descricao": "SILVA, R. A.; VASCONCELOS, F. B.;"
+      "descricao": ""
     },
     {
-      "descricao": "PASSIANI, E.; TEIXEIRA, A. N.; VASCONCELOS, F. B.;"
+      "descricao": ""
     },
     {
-      "descricao": "VASCONCELOS, F. B.; TEIXEIRA, A. N.;"
+      "descricao": ""
     },
     {
-      "descricao": "FACHINETTO, R. F."
+      "descricao": ""
     },
     {
-      "descricao": "TEIXEIRA, A. N.;"
+      "descricao": ""
     },
     {
-      "descricao": "MARX, Vanessa;"
+      "descricao": ""
     },
     {
-      "descricao": "SCHABBACH, L. M.; RUDNICK, D.; HAGEN, A. M.;"
+      "descricao": ""
     },
     {
-      "descricao": "MELLO, K. S.; RIBEIRO, F. B.; AZEVEDO, R. G.;"
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
     }
   ],
   "estatisticas": {
@@ -872,7 +1376,7 @@
     "total_livros": 4,
     "total_capitulos": 22,
     "total_trabalhos_congressos": 0,
-    "total_projetos_pesquisa": 21,
+    "total_projetos_pesquisa": 57,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,
     "total_orientacoes_concluidas": 35,

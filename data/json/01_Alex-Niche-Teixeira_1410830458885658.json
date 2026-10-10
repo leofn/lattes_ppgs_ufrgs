@@ -14,7 +14,113 @@
   },
   "formacao_academica": [],
   "atuacao_profissional": [],
-  "projetos_pesquisa": [],
+  "projetos_pesquisa": [
+    {
+      "nome": "Padrões de adoção de ferramentas computacionais auxiliares à pesquisa qualitativa",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A condição das mulheres nas polícias brasileiras",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2015",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Programas de Polícia Comunitária no Brasil: avaliação e propostas de políticas públicas de segurança",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2012",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Concepções de Controle Social e Segurança Pública nos Meios de Comunicação",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2013",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Violência, desigualdade e cultura política nas organizações de ensino policial",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2012",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Cartografias Sociais dos Crimes e das Violências no Rio Grande do Sul",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2009",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Violência Urbana, Polícias Militares Estaduais e Políticas Públicas de Segurança",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2009",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Prevenção da Violência",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2006",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Etiologia do Crime",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2003",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Mapa Social da Violência e da Cidadania no Cone Sul",
+      "ano_inicio": "2000",
+      "ano_conclusao": "2002",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Sociologia da Conflitualidade: investigação sobre a violência na sociedade contemporânea",
+      "ano_inicio": "1999",
+      "ano_conclusao": "2001",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A violência na sociedade global: saber sociológico e fenomenologia da violência",
+      "ano_inicio": "1999",
+      "ano_conclusao": "2000",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Conflitos Agrários no Brasil",
+      "ano_inicio": "1999",
+      "ano_conclusao": "1999",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A contribuição social do industrial gaúcho",
+      "ano_inicio": "1998",
+      "ano_conclusao": "1998",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Novas reflexões sociológicas sobre os processos sociais agrários e a violência",
+      "ano_inicio": "1995",
+      "ano_conclusao": "1996",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    }
+  ],
   "projetos_extensao": [],
   "projetos_desenvolvimento": [],
   "areas_de_atuacao": [
@@ -1040,16 +1146,322 @@
   "eventos": [],
   "bancas": [
     {
-      "descricao": "COTANDA, Fernando Coutinho;"
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "TEIXEIRA, Alex N."
+      "descricao": ""
     },
     {
-      "descricao": "Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
+    },
+    {
+      "descricao": ""
     }
   ],
   "estatisticas": {
@@ -1057,7 +1469,7 @@
     "total_livros": 4,
     "total_capitulos": 17,
     "total_trabalhos_congressos": 0,
-    "total_projetos_pesquisa": 0,
+    "total_projetos_pesquisa": 15,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,
     "total_orientacoes_concluidas": 62,

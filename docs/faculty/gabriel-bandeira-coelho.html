@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Gabriel Bandeira Coelho — PPGS/UFRGS</title>
-<link rel="stylesheet" href="../assets/css/style.css">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <style>
 .profile-header { background: linear-gradient(135deg, #1a237e, #283593); color: white; padding: 40px 30px; border-radius: 12px; margin-bottom: 30px; }
@@ -12,27 +11,27 @@
 .profile-header .subtitle { opacity: 0.9; font-size: 1.05em; }
 .profile-section { background: white; border-radius: 10px; padding: 24px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
 .profile-section h2 { color: #1a237e; font-size: 1.25em; margin: 0 0 16px; border-bottom: 2px solid #e8eaf6; padding-bottom: 8px; }
-.stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; }
+.stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; margin-bottom: 20px; }
 .stat-card { background: #f5f5f5; border-radius: 8px; padding: 16px; text-align: center; }
 .stat-card .num { font-size: 1.8em; font-weight: 700; color: #1a237e; }
 .stat-card .label { font-size: 0.85em; color: #666; margin-top: 4px; }
-.pub-list { list-style: none; padding: 0; }
+.pub-list { list-style: none; padding: 0; margin: 0; }
 .pub-list li { padding: 10px 0; border-bottom: 1px solid #eee; }
 .pub-list li:last-child { border-bottom: none; }
 .pub-title { font-weight: 600; color: #333; }
 .pub-journal { color: #666; font-size: 0.9em; }
 .pub-year { color: #999; font-size: 0.85em; }
-.qualis-badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.8em; font-weight: 700; color: white; margin-left: 8px; }
 .back-link { display: inline-block; margin-bottom: 20px; color: #1a237e; text-decoration: none; font-weight: 600; }
 .back-link:hover { text-decoration: underline; }
 .score-card { background: linear-gradient(135deg, #1a472a, #2d5a3d); color: white; }
 .score-card .num { color: #a5d6a7; }
+body { background: #f0f0f5; margin: 0; padding: 20px; font-family: system-ui, sans-serif; }
+.container { max-width: 900px; margin: 0 auto; }
 </style>
 </head>
-<body style="background:#f0f0f5; margin:0; padding:20px; font-family:system-ui,sans-serif; max-width:900px; margin:0 auto;">
-
+<body>
+<div class="container">
 <a href="../index.html" class="back-link">← Voltar ao dashboard</a>
-
 <div class="profile-header">
   <h1>Gabriel Bandeira Coelho</h1>
   <div class="subtitle">
@@ -44,25 +43,19 @@
      &nbsp; <a href="https://www.semanticscholar.org/author/114353783" target="_blank" style="color:#90caf9;text-decoration:none;">📚 Semantic Scholar (70 citações) ↗</a>
   </div>
 </div>
-
 <div class="stat-grid">
   <div class="stat-card"><div class="num">3</div><div class="label">Artigos</div></div>
   <div class="stat-card"><div class="num">5</div><div class="label">Livros</div></div>
   <div class="stat-card"><div class="num">14</div><div class="label">Capítulos</div></div>
-  <div class="stat-card"><div class="num">0</div><div class="label">Projetos</div></div>
+  <div class="stat-card"><div class="num">40</div><div class="label">Projetos</div></div>
+  <div class="stat-card"><div class="num">2</div><div class="label">Bancas</div></div>
   <div class="stat-card"><div class="num">4</div><div class="label">Orientações</div></div>
   <div class="stat-card"><div class="num">70</div><div class="label">Citações</div></div>
   <div class="stat-card score-card"><div class="num">60</div><div class="label">Score Qualis</div></div>
 </div>
 
-
-
-<div class="profile-section"><h2>🎓 Formação</h2><ul>
-<li><strong>Doutorado</strong> —  (-)</li>
-</ul></div>
-
-<div class="profile-section"><h2>🔬 Áreas de Atuação</h2><ul>
-<li>Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia da Ciência.</li>
+<div class="profile-section"><h2>🎓 Formação</h2><ul><li><strong>Doutorado</strong> —  (-)</li></ul></div>
+<div class="profile-section"><h2>🔬 Áreas de Atuação</h2><ul><li>Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia da Ciência.</li>
 <li>Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.</li>
 <li>Compreende Bem, Fala Bem, Lê Bem, Escreve Razoavelmente.</li>
 <li>Compreende Razoavelmente, Fala Razoavelmente, Lê Razoavelmente, Escreve Razoavelmente.</li>
@@ -71,31 +64,46 @@
 <li>Ordenar por</li>
 <li>Ordem Cronológica</li>
 <li>Número de citações Web of science</li>
-<li>Número de citações Scopus</li>
-</ul></div>
-
-<div class="profile-section"><h2>📄 Artigos Publicados (3)</h2>
-<ul class="pub-list">
-<li><div class="pub-title">A teoria do discurso como base epistemológica de compreensão para a sociologia da ciência: aportes sobre a (des)fundamentação e a desconstrução das verdades absolutas. SOCIOLOGIAS (UFRGS</div><div class="pub-journal">IMPRESSO) • v. 23, p. 326-358 • <span class="pub-year">2021</span></div></li>
-<li><div class="pub-title">2022 ALMEIDA, J. ; CAMANA, A. ; FLEURY, Lorena. ; DAVID, Marília. L. ; PRATES, C. ; COELHO, G.B . Em favor das associações: uma homenagem à sociologia de Bruno Latour (1947-2022). SOCIOLOGIAS (UFRGS</div><div class="pub-journal">IMPRESSO) • v. 24, p. 01-27 • <span class="pub-year">2022</span></div></li>
-<li><div class="pub-title">Centralização da produção de CT&amp;I no Brasil: obstáculos ao desenvolvimento científico e tecnológico nacional</div><div class="pub-journal">Século XXI Revista de Ciências Sociais • v. 13, p. 69-89 • <span class="pub-year">2024</span></div></li>
-</ul>
-
-</div>
-
-<div class="profile-section"><h2>📚 Livros Publicados (5)</h2>
-<ul class="pub-list">
-<li><div class="pub-title">COELHO, G.B</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li>
+<li>Número de citações Scopus</li></ul></div>
+<div class="profile-section"><h2>📄 Artigos (3)</h2><ul class="pub-list"><li><div class="pub-title">A teoria do discurso como base epistemológica de compreensão para a sociologia da ciência: aportes sobre a (des)fundamentação e a desconstrução das verdades absolutas. SOCIOLOGIAS (UFRGS</div><div class="pub-journal">IMPRESSO) • v.23 p.326-358 • <span class="pub-year">2021</span></div></li>
+<li><div class="pub-title">2022 ALMEIDA, J. ; CAMANA, A. ; FLEURY, Lorena. ; DAVID, Marília. L. ; PRATES, C. ; COELHO, G.B . Em favor das associações: uma homenagem à sociologia de Bruno Latour (1947-2022). SOCIOLOGIAS (UFRGS</div><div class="pub-journal">IMPRESSO) • v.24 p.01-27 • <span class="pub-year">2022</span></div></li>
+<li><div class="pub-title">Centralização da produção de CT&amp;I no Brasil: obstáculos ao desenvolvimento científico e tecnológico nacional</div><div class="pub-journal">Século XXI Revista de Ciências Sociais • v.13 p.69-89 • <span class="pub-year">2024</span></div></li></ul></div>
+<div class="profile-section"><h2>📚 Livros (5)</h2><ul class="pub-list"><li><div class="pub-title">COELHO, G.B</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li>
 <li><div class="pub-title">COELHO, GABRIEL BANDEIRA</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li>
 <li><div class="pub-title">RODRIGUES, Leo. P. (Org.) ;</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li>
 <li><div class="pub-title">SILVA, Luis. Gustavo. T. (Org.) ;</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li>
-<li><div class="pub-title">MASSAU, G. C.</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li>
-</ul></div>
-
-
-
-<div style="text-align:center;margin-top:30px;color:#999;font-size:0.85em;">
-  PPGS/UFRGS · LABHD-UFRGS · Dados extraídos da Plataforma Lattes (CNPq)
+<li><div class="pub-title">MASSAU, G. C.</div><div class="pub-journal">,  • <span class="pub-year"></span></div></li></ul></div>
+<div class="profile-section"><h2>🔧 Projetos de Pesquisa (40)</h2><ul class="pub-list"><li><div class="pub-title"></div><div class="pub-year">2020-2022</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2015-2017</div></li>
+<li><div class="pub-title"></div><div class="pub-year">0000-0003</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2016-2020</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2013-2015</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2020-2021</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2009-2012</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2004-2006</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2022-2022</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2020-2020</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2020-2020</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2020-2020</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2019-2019</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2010-2012</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2011-2011</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2010-2010</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2015-2017</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2020-2022</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2021-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2020-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2020-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2020-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2020-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2022-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2016-2022</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2025-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2025-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2025-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2024-Atual</div></li>
+<li><div class="pub-title"></div><div class="pub-year">2023-Atual</div></li></ul><p style="color:#999;font-size:0.9em;">+ 10 projetos</p></div>
+<div style="text-align:center;margin-top:30px;color:#999;font-size:0.85em;">PPGS/UFRGS · LABHD-UFRGS · Dados extraídos da Plataforma Lattes (CNPq)</div>
 </div>
 </body>
 </html>

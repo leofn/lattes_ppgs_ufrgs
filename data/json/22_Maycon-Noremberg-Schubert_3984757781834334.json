@@ -14,7 +14,204 @@
   },
   "formacao_academica": [],
   "atuacao_profissional": [],
-  "projetos_pesquisa": [],
+  "projetos_pesquisa": [
+    {
+      "nome": "H�bitos alimentares em transi��o: Uma an�lise comparada para o estudo da intera��o entre as culturas alimentares e a desigualdade social",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "INCT Participa",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "INTERFACES - interfaces entre clima, alimento e sociedade",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "INTERFACES - interfaces entre clima, alimento e sociedade",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Constru��o de capacidades estatais para transforma��o dos sistemas agroalimentares: uma an�lise das pol�ticas alimentares nas capitais brasileiras",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Constru��o de capacidades estatais para transforma��o dos sistemas agroalimentares: uma an�lise das pol�ticas alimentares nas capitais brasileiras",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Navigating agroecological transitions in Latin America",
+      "ano_inicio": "2020",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Navigating agroecological transitions in Latin America",
+      "ano_inicio": "2020",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Navigating agroecological transitions in Latin America",
+      "ano_inicio": "2020",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Navigating agroecological transitions in Latin America",
+      "ano_inicio": "2020",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Constru��o pol�tica de mercados alimentares e a produ��o de dispositivos institucionais e sociot�cnicos nos repert�rios de a��o dos movimentos sociais",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2022",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A China e os seus impactos no Rio Grande do Sul? Estudos comparados sobre a internacionaliza��o do sistema agroalimentar",
+      "ano_inicio": "2019",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Teoria das Pr�ticas Sociais e Sociologia da Alimenta��o: desafios metodol�gicos frente as perspectivas pragm�ticas",
+      "ano_inicio": "2018",
+      "ano_conclusao": "2023",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Sociolgia dos mercados agroalimentares - problematiza��o te�rica e estudos de caso",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2022",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Normatizar em nome de qual desenvolvimento? A constru��o dos mecanismos de regula��o nos novos mercados alimentares",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2018",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "An�lise Sociol�gica de Pr�ticas, Processos e Pol�ticas de Desenvolvimento Rural no Brasil",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2017",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Constru��o de Mercados e Pol�ticas Alimentares no Brasil atores, pr�ticas e processos",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2016",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Os mercados para a agricultura familiar na regi�o sul do Brasil: atores, contratos, redes e institui��es",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2012",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Os mercados para a agricultura familiar na regi�o sul do Brasil: atores, contratos, redes e institui��es",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2012",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Quando o mar n�o esta para peixe: estrat�gias de reprodu��o social dos pescadores artesanais de Pelotas, RS",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2005",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "INCT Participa",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "INTERFACES - interfaces entre clima, alimento e sociedade",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "A China e os seus impactos no Rio Grande do Sul? Estudos comparados sobre a internacionaliza��o do sistema agroalimentar",
+      "ano_inicio": "2019",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "III Col�quio Agricultura Familiar e Desenvolvimento Rural",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2011",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "XXXIV SEAGRO - Forma��o Profissional Frente aos Desafios da Agricultura - Curso de Sementes Crioulas",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2002",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Constru��o de capacidades estatais para transforma��o dos sistemas agroalimentares: uma an�lise das pol�ticas alimentares nas capitais brasileiras",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Programa RS Pesca e Aquicultura",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2014",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    },
+    {
+      "nome": "Grupo de Estudo e Pesquisa em Alimenta��o, Agricultura e Desenvolvimento",
+      "ano_inicio": "2005",
+      "ano_conclusao": "Atual",
+      "tipo": "Pesquisa",
+      "descricao": ""
+    }
+  ],
   "projetos_extensao": [],
   "projetos_desenvolvimento": [],
   "areas_de_atuacao": [
@@ -1166,115 +1363,115 @@
   "eventos": [],
   "bancas": [
     {
-      "descricao": "RAMOS, M. P.; FROEHLICH, J. M.; SILVA, M. E. S.;"
+      "descricao": ""
     },
     {
-      "descricao": "PASSIANI, E.;"
+      "descricao": ""
     },
     {
-      "descricao": "CONTERATO, M. A.;"
+      "descricao": ""
     },
     {
-      "descricao": "SILVA, L. X.; ALLEBRANDT, S. L.; NASCIMENTO, C. A. S.;"
+      "descricao": ""
     },
     {
-      "descricao": "SCHNEIDER, S."
+      "descricao": ""
     },
     {
-      "descricao": "SCHUBERT, Maycon Noremberg"
+      "descricao": ""
     },
     {
-      "descricao": "NIEDERLE, Paulo André; SANTOS, A. S.; CRUZ, B. E. V.; CRUZ, F. T.;"
+      "descricao": ""
     },
     {
-      "descricao": "ADELMAN, M.; FRANCO, A. P. P.; OLIVEIRA, J. S. C.;"
+      "descricao": ""
     },
     {
-      "descricao": "NIEDERLE, P. A.; RUSKOWSKI, B. O.; PORTILHO, F.; CARRERA, F.;"
+      "descricao": ""
     },
     {
-      "descricao": "CHAUCA, M. P.;"
+      "descricao": ""
     },
     {
-      "descricao": "MINASSE, M. H. S. G. G.; PROENCA, R. P. C.; MACIEL, M. E. S.; GUIVANT, J. S.;"
+      "descricao": ""
     },
     {
-      "descricao": "MOURA, J. T. V.;"
+      "descricao": ""
     },
     {
-      "descricao": "NIEDERLE, P. A.; FLEURY, L. C.; DAVID, M. L.;"
+      "descricao": ""
     },
     {
-      "descricao": "BARCELLOS, M. D.; NIEDERLE, Paulo André;"
+      "descricao": ""
     },
     {
-      "descricao": "ALMEIDA, J.;"
+      "descricao": ""
     },
     {
-      "descricao": "FROEHLICH, J. M.;"
+      "descricao": ""
     },
     {
-      "descricao": "SCHUBERT, Maycon Noremberg"
+      "descricao": ""
     },
     {
-      "descricao": "BARCELLOS, M. D.; NIEDERLE, Paulo André;"
+      "descricao": ""
     },
     {
-      "descricao": "GARCIA, S. R.;"
+      "descricao": ""
     },
     {
-      "descricao": "RADOMSKY, G. W.; NIEDERLE., P. A.;"
+      "descricao": ""
     },
     {
-      "descricao": "SCHUBERT, Maycon Noremberg"
+      "descricao": ""
     },
     {
-      "descricao": "2."
+      "descricao": ""
     },
     {
-      "descricao": "Trabalho de Conclusão de Curso (Graduação em Ciências Sociais) - Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "ALVES, C. F.;"
+      "descricao": ""
     },
     {
-      "descricao": "Trabalho de Conclusão de Curso (Graduação em Ciências Sociais) - Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "SCHULTZ, G.;"
+      "descricao": ""
     },
     {
-      "descricao": "Trabalho de Conclusão de Curso (Graduação em Planejamento e Gestão Para O Desenvolvimento Rural) - Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "SCHULTZ, G.;"
+      "descricao": ""
     },
     {
-      "descricao": "Trabalho de Conclusão de Curso (Graduação em Planejamento e Gestão Para O Desenvolvimento Rural) - Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "CARDOSO, S.;"
+      "descricao": ""
     },
     {
-      "descricao": "Trabalho de Conclusão de Curso (Graduação em Planejamento e Gestão Para O Desenvolvimento Rural) - Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "CARDOSO, S.;"
+      "descricao": ""
     },
     {
-      "descricao": "Trabalho de Conclusão de Curso (Graduação em Planejamento e Gestão Para O Desenvolvimento Rural) - Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "SCHULTZ, G.;"
+      "descricao": ""
     },
     {
-      "descricao": "Trabalho de Conclusão de Curso (Graduação em Planejamento e Gestão Para O Desenvolvimento Rural) - Universidade Federal do Rio Grande do Sul."
+      "descricao": ""
     },
     {
-      "descricao": "SCHULTZ, G.;"
+      "descricao": ""
     },
     {
-      "descricao": "Trabalho de Conclusão de Curso (Graduação em Planejamento e Gestão Para O Desenvolvimento Rural) - Universidade Federal do Rio"
+      "descricao": ""
     }
   ],
   "estatisticas": {
@@ -1282,7 +1479,7 @@
     "total_livros": 3,
     "total_capitulos": 11,
     "total_trabalhos_congressos": 0,
-    "total_projetos_pesquisa": 0,
+    "total_projetos_pesquisa": 28,
     "total_projetos_extensao": 0,
     "total_projetos_desenvolvimento": 0,
     "total_orientacoes_concluidas": 84,
