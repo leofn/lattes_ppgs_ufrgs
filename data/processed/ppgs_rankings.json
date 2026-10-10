@@ -67,24 +67,46 @@
   ],
   "citacoes": [
     {
-      "nome": "Alex Niche Teixeira",
-      "val": 0
+      "nome": "José Carlos Gomes Dos Anjos",
+      "val": 3543
     },
     {
-      "nome": "Alexandre Almeida de Magalhães",
-      "val": 0
+      "nome": "Sergio Schneider",
+      "val": 2973
     },
     {
-      "nome": "Andrea Fachel Leal",
-      "val": 0
+      "nome": "Vanessa Marx",
+      "val": 1547
     },
     {
-      "nome": "Bernardo Mattes Caprara",
-      "val": 0
+      "nome": "Soraya Maria Vargas Cortes",
+      "val": 1170
     },
     {
-      "nome": "Camila Penna de Castro",
-      "val": 0
+      "nome": "Marcelo Kunrath Silva",
+      "val": 382
+    }
+  ],
+  "qualis_score": [
+    {
+      "nome": "Paulo Niederle",
+      "val": 3320
+    },
+    {
+      "nome": "Marcelo Kunrath Silva",
+      "val": 2680
+    },
+    {
+      "nome": "Guilherme F. W. Radomsky",
+      "val": 2360
+    },
+    {
+      "nome": "Matheus Mazzilli Pereira",
+      "val": 1850
+    },
+    {
+      "nome": "Letícia Maria Schabbach",
+      "val": 1740
     }
   ]
 }
