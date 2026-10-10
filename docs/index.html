@@ -412,7 +412,7 @@ function esc(s) {
 // Render rankings
 function renderRankings() {
   const container = document.getElementById('rankings');
-  const titles = { citacoes: '🔗 Citações (Google Scholar)', projetos: '📊 Projetos de Pesquisa', orientacoes: '🎓 Orientações' };
+  const titles = { citacoes: '🔗 Citações (Semantic Scholar)', projetos: '📊 Projetos de Pesquisa', orientacoes: '🎓 Orientações', artigos: '📄 Artigos Publicados', qualis_score: '🏆 Pontuação Qualis', bancas: '⚖️ Bancas' };
   let html = '';
   for (const [key, items] of Object.entries(RANKINGS)) {
     let rows = items.map((item, i) => {
