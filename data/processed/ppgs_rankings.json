@@ -1,0 +1,68 @@
+{
+  "citacoes": [
+    {
+      "nome": "Camila Penna de Castro",
+      "val": 434
+    },
+    {
+      "nome": "Andrea Fachel Leal",
+      "val": 47
+    },
+    {
+      "nome": "Alex Niche Teixeira",
+      "val": 0
+    },
+    {
+      "nome": "Alexandre Almeida de Magalhães",
+      "val": 0
+    },
+    {
+      "nome": "Bernardo Mattes Caprara",
+      "val": 0
+    }
+  ],
+  "projetos": [
+    {
+      "nome": "Letícia Maria Schabbach",
+      "val": 119
+    },
+    {
+      "nome": "Jose Vicente Tavares dos Santos",
+      "val": 118
+    },
+    {
+      "nome": "Sergio Schneider",
+      "val": 91
+    },
+    {
+      "nome": "Andrea Fachel Leal",
+      "val": 90
+    },
+    {
+      "nome": "Paulo André Niederle",
+      "val": 78
+    }
+  ],
+  "orientacoes": [
+    {
+      "nome": "Andrea Fachel Leal",
+      "val": 100
+    },
+    {
+      "nome": "Camila Penna de Castro",
+      "val": 82
+    },
+    {
+      "nome": "Alexandre Almeida de Magalhães",
+      "val": 64
+    },
+    {
+      "nome": "Bernardo Mattes Caprara",
+      "val": 64
+    },
+    {
+      "nome": "Alex Niche Teixeira",
+      "val": 38
+    }
+  ]
+}
